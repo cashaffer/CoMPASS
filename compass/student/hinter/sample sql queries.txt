@@ -1,0 +1,127 @@
+1) getting distinct cluster ids of clusters that have concept 112
+
+select distinct c.cluster_num FROM compass_mt.cluster_probabilities c where c.concept1=112
+
+2) getting distinct cluster ids of clusters that have concept1 as 112 and concept2 as 120
+(need not be in the same tuple)
+
+SELECT distinct t1.cluster_num from
+(select c.cluster_num FROM compass_mt.cluster_probabilities c where c.concept1=112) t1,
+(select c2.cluster_num from compass_mt.cluster_probabilities c2 where c2.concept2=120) t2
+where t1.cluster_num=t2.cluster_num
+;
+
+3) output top 4 (concept, probability) pairs such that the concept has highest accumulated
+probability of occuring after 102 and 123 over all the clusters.
+
+that is,
+
+for all concepts co :
+  for all clusters cl:
+    prob[co] += prob[cl][concept1->co] + prob[cl][concept2->co]
+
+select c.concept2 as concept, sum(c.probability) as prob
+from compass_mt.cluster_probabilities c
+where c.concept1 = 102 or c.concept1=123
+group by c.concept2
+order by prob desc
+limit 4
+;
+
+4) select the clusters that have high probability of producing 100, 97 or 112
+
+select c.cluster_num, sum(c.probability) as prob
+FROM compass_mt.cluster_probabilities c
+where c.concept2=100 or c.concept2=97 or c.concept2=112
+group by c.cluster_num
+order by prob desc
+limit 25
+
+5) restrict table to only the above clusters
+
+select t1.* from compass_mt.cluster_probabilities t1
+inner join
+(
+select cluster_num, sum(c.probability) as prob
+FROM compass_mt.cluster_probabilities c
+where c.concept2=100 or c.concept2=97 or c.concept2=112
+group by c.cluster_num
+order by prob desc
+limit 25
+) t2
+where t1.cluster_num = t2.cluster_num
+
+6)
+run the "next concept" query only on the restricted table
+
+select c.concept2 as concept, sum(c.probability) as prob
+from
+(
+select t1.* from compass_mt.cluster_probabilities t1
+inner join
+(
+select cluster_num, sum(c.probability) as prob
+FROM compass_mt.cluster_probabilities c
+where c.concept2=100 or c.concept2=97 or c.concept2=112
+group by c.cluster_num
+order by prob desc
+limit 25
+) t2
+where t1.cluster_num = t2.cluster_num
+) c
+where (c.concept1 = 102 or c.concept1=123)
+and (c.concept2 != 112) and (c.concept2 != 97) and (c.concept2 != 100) and (c.concept2 != 102) and (c.concept2 != 123)
+group by c.concept2
+order by prob desc
+limit 4
+;
+
+7) join the above query with concept names to output concept-id and name :
+
+select q.concept, p.name, q.prob from
+(select co.idconcept, co.general_title as name from compass_mt.concept co) p
+inner join
+(
+
+select c.concept2 as concept, sum(c.probability) as prob
+from ( select t1.* from compass_mt.cluster_probabilities t1 inner join
+(select cluster_num, sum(c.probability) as prob FROM compass_mt.cluster_probabilities c
+where c.concept2=136 or c.concept2= 118 group by c.cluster_num order by prob desc limit 25) t2 where
+t1.cluster_num = t2.cluster_num ) c
+where
+(c.concept1 = 118 or c.concept1=103) and (c.concept2 != 95)
+
+SELECT idconcept FROM compass_mt.conceptintopic c where idtopic = 27
+
+group by c.concept2 order by prob desc limit 4
+
+) q
+where p.idconcept=q.concept
+;
+
+
+8)
+display only the concepts present in the topic :
+
+select c.concept, c.prob from
+(
+select c.concept2 as concept, sum(c.probability) as prob
+from ( select t1.* from compass_mt.cluster_probabilities t1 inner join
+(select cluster_num, sum(c.probability) as prob FROM compass_mt.cluster_probabilities c
+where c.concept2=136 or c.concept2= 118 group by c.cluster_num order by prob desc limit 25) t2 where
+t1.cluster_num = t2.cluster_num ) c
+where
+(c.concept1 = 118 or c.concept1=103) and (c.concept2 != 95)
+group by c.concept2
+) c
+inner join
+(
+SELECT c3.idconcept as idconcept FROM compass_mt.conceptintopic c3 where idtopic = 27
+) z
+where z.idconcept = c.concept
+order by c.prob desc limit 3
+
+
+
+
+

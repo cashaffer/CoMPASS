@@ -1,0 +1,129 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<title>Text Color</title>
+<script>
+function selectColor(color)
+{
+parent.document.getElementById("edit").contentDocument.execCommand(parent.command, false, color);
+parent.document.getElementById("colorpalette").style.visibility="hidden";
+parent.document.getElementById("edit").contentWindow.focus();
+}
+
+function InitColorPalette() {
+  var x;
+  if (document.getElementsByTagName)
+    x = document.getElementsByTagName('TD');
+  else if (document.all)
+    x = document.all.tags('TD');
+  for (var i=0;i<x.length;i++)
+  {
+    x[i].onmouseover = over;
+    x[i].onmouseout = out;
+    x[i].onclick = click;
+  }
+}
+
+function over()
+{
+this.style.border='2px dotted white';
+}
+
+function out()
+{
+this.style.border='1px solid gray';
+}
+
+function click()
+{
+  selectColor(this.id);
+}
+</script>
+</head><body onload="InitColorPalette()" bgcolor="white">
+<table border="1" cellpadding="1" cellspacing="1">
+<tbody><tr>
+<td id="#FFFFFF" width="20" bgcolor="#ffffff" height="20"><img width="1" height="1"></td>
+<td id="#FFCCCC" width="20" bgcolor="#ffcccc" height="20"><img width="1" height="1"></td>
+<td id="#FFCC99" width="20" bgcolor="#ffcc99" height="20"><img width="1" height="1"></td>
+<td id="#FFFF99" width="20" bgcolor="#ffff99" height="20"><img width="1" height="1"></td>
+<td id="#FFFFCC" width="20" bgcolor="#ffffcc" height="20"><img width="1" height="1"></td>
+<td id="#99FF99" width="20" bgcolor="#99ff99" height="20"><img width="1" height="1"></td>
+<td id="#99FFFF" width="20" bgcolor="#99ffff" height="20"><img width="1" height="1"></td>
+<td id="#CCFFFF" width="20" bgcolor="#ccffff" height="20"><img width="1" height="1"></td>
+<td id="#CCCCFF" width="20" bgcolor="#ccccff" height="20"><img width="1" height="1"></td>
+<td id="#FFCCFF" width="20" bgcolor="#ffccff" height="20"><img width="1" height="1"></td>
+</tr>
+<tr>
+<td id="#CCCCCC" width="20" bgcolor="#cccccc" height="20"><img width="1" height="1"></td>
+<td id="#FF6666" width="20" bgcolor="#ff6666" height="20"><img width="1" height="1"></td>
+<td id="#FF9966" width="20" bgcolor="#ff9966" height="20"><img width="1" height="1"></td>
+<td id="#FFFF66" width="20" bgcolor="#ffff66" height="20"><img width="1" height="1"></td>
+<td id="#FFFF33" width="20" bgcolor="#ffff33" height="20"><img width="1" height="1"></td>
+<td id="#66FF99" width="20" bgcolor="#66ff99" height="20"><img width="1" height="1"></td>
+<td id="#33FFFF" width="20" bgcolor="#33ffff" height="20"><img width="1" height="1"></td>
+<td id="#66FFFF" width="20" bgcolor="#66ffff" height="20"><img width="1" height="1"></td>
+<td id="#9999FF" width="20" bgcolor="#9999ff" height="20"><img width="1" height="1"></td>
+<td id="#FF99FF" width="20" bgcolor="#ff99ff" height="20"><img width="1" height="1"></td>
+</tr>
+<tr>
+<td id="#C0C0C0" width="20" bgcolor="#c0c0c0" height="20"><img width="1" height="1"></td>
+<td id="#FF0000" width="20" bgcolor="#ff0000" height="20"><img width="1" height="1"></td>
+<td id="#FF9900" width="20" bgcolor="#ff9900" height="20"><img width="1" height="1"></td>
+<td id="#FFCC66" width="20" bgcolor="#ffcc66" height="20"><img width="1" height="1"></td>
+<td id="#FFFF00" width="20" bgcolor="#ffff00" height="20"><img width="1" height="1"></td>
+<td id="#33FF33" width="20" bgcolor="#33ff33" height="20"><img width="1" height="1"></td>
+<td id="#66CCCC" width="20" bgcolor="#66cccc" height="20"><img width="1" height="1"></td>
+<td id="#33CCFF" width="20" bgcolor="#33ccff" height="20"><img width="1" height="1"></td>
+<td id="#6666CC" width="20" bgcolor="#6666cc" height="20"><img width="1" height="1"></td>
+<td id="#CC66CC" width="20" bgcolor="#cc66cc" height="20"><img width="1" height="1"></td>
+</tr>
+<tr>
+<td id="#999999" width="20" bgcolor="#999999" height="20"><img width="1" height="1"></td>
+<td id="#CC0000" width="20" bgcolor="#cc0000" height="20"><img width="1" height="1"></td>
+<td id="#FF6600" width="20" bgcolor="#ff6600" height="20"><img width="1" height="1"></td>
+<td id="#FFCC33" width="20" bgcolor="#ffcc33" height="20"><img width="1" height="1"></td>
+<td id="#FFCC00" width="20" bgcolor="#ffcc00" height="20"><img width="1" height="1"></td>
+<td id="#33CC00" width="20" bgcolor="#33cc00" height="20"><img width="1" height="1"></td>
+<td id="#00CCCC" width="20" bgcolor="#00cccc" height="20"><img width="1" height="1"></td>
+<td id="#3366FF" width="20" bgcolor="#3366ff" height="20"><img width="1" height="1"></td>
+<td id="#6633FF" width="20" bgcolor="#6633ff" height="20"><img width="1" height="1"></td>
+<td id="#CC33CC" width="20" bgcolor="#cc33cc" height="20"><img width="1" height="1"></td>
+</tr>
+<tr>
+<td id="#666666" width="20" bgcolor="#666666" height="20"><img width="1" height="1"></td>
+<td id="#990000" width="20" bgcolor="#990000" height="20"><img width="1" height="1"></td>
+<td id="#CC6600" width="20" bgcolor="#cc6600" height="20"><img width="1" height="1"></td>
+<td id="#CC9933" width="20" bgcolor="#cc9933" height="20"><img width="1" height="1"></td>
+<td id="#999900" width="20" bgcolor="#999900" height="20"><img width="1" height="1"></td>
+<td id="#009900" width="20" bgcolor="#009900" height="20"><img width="1" height="1"></td>
+<td id="#339999" width="20" bgcolor="#339999" height="20"><img width="1" height="1"></td>
+<td id="#3333FF" width="20" bgcolor="#3333ff" height="20"><img width="1" height="1"></td>
+<td id="#6600CC" width="20" bgcolor="#6600cc" height="20"><img width="1" height="1"></td>
+<td id="#993399" width="20" bgcolor="#993399" height="20"><img width="1" height="1"></td>
+</tr>
+<tr>
+<td id="#333333" width="20" bgcolor="#333333" height="20"><img width="1" height="1"></td>
+<td id="#660000" width="20" bgcolor="#660000" height="20"><img width="1" height="1"></td>
+<td id="#993300" width="20" bgcolor="#993300" height="20"><img width="1" height="1"></td>
+<td id="#996633" width="20" bgcolor="#996633" height="20"><img width="1" height="1"></td>
+<td id="#666600" width="20" bgcolor="#666600" height="20"><img width="1" height="1"></td>
+<td id="#006600" width="20" bgcolor="#006600" height="20"><img width="1" height="1"></td>
+<td id="#336666" width="20" bgcolor="#336666" height="20"><img width="1" height="1"></td>
+<td id="#000099" width="20" bgcolor="#000099" height="20"><img width="1" height="1"></td>
+<td id="#333399" width="20" bgcolor="#333399" height="20"><img width="1" height="1"></td>
+<td id="#663366" width="20" bgcolor="#663366" height="20"><img width="1" height="1"></td>
+</tr>
+<tr>
+<td id="#000000" width="20" bgcolor="#000000" height="20"><img width="1" height="1"></td>
+<td id="#330000" width="20" bgcolor="#330000" height="20"><img width="1" height="1"></td>
+<td id="#663300" width="20" bgcolor="#663300" height="20"><img width="1" height="1"></td>
+<td id="#663333" width="20" bgcolor="#663333" height="20"><img width="1" height="1"></td>
+<td id="#333300" width="20" bgcolor="#333300" height="20"><img width="1" height="1"></td>
+<td id="#003300" width="20" bgcolor="#003300" height="20"><img width="1" height="1"></td>
+<td id="#003333" width="20" bgcolor="#003333" height="20"><img width="1" height="1"></td>
+<td id="#000066" width="20" bgcolor="#000066" height="20"><img width="1" height="1"></td>
+<td id="#330099" width="20" bgcolor="#330099" height="20"><img width="1" height="1"></td>
+<td id="#330033" width="20" bgcolor="#330033" height="20"><img width="1" height="1"></td>
+</tr>
+</tbody></table>
+</body></html>

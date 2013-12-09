@@ -1,0 +1,131 @@
+/* sanlly 2004-10-27*/
+body,td,p{
+	font-size:14px;
+}
+
+.f12b{
+	font-size:12px;
+	color:#244166;     /*£¨Ö¸Ïò12PXÎÄ×ÖÉîÂÌÉ«£©*/
+}
+
+.f12w{
+	font-size:12px;
+	color:#000000;
+}
+
+.f14y{
+	font-size:14px;
+	color:#FF006C;      /*£¨ÎÄ×ÖÀ¶É«£©*/
+	font-weight:bold;
+}
+
+.f14b{	
+	font-size:14px;
+	color:#082345;/*£¨Ö¸Ïò14PXÎÄ×ÖÉîÂÌÉ«£©*/
+}
+
+.f14w{	
+	font-size:14px;
+	color:#000000;      /*£¨14PX°×É«ÎÄ×Ö£©*/
+}
+
+.whitebar{
+	border-bottom:1px solid black;
+	border-top:1px solid black;
+}
+
+a:link{
+	color:#0000FF;  /*(Á¬½ÓÎÄ×ÖÂÌÉ«)*/
+}
+a:visited{
+	color:#990099;/*(·ÃÎÊÎÄ×ÖÂÌÉ«)*/
+}
+a:hover{
+	color:#FF0000;/*£¨Ö¸ÏòÎÄ×ÖÉîÂÌÉ«£©*/
+}
+
+.p160{
+	line-height:160%;
+}
+
+.btn{
+	font-size:12px;
+	background-color:#FFFFFF;
+}
+
+input{
+	font-size:12px
+}
+
+.unread{
+	color:#FF0000;
+}
+
+/*bgcolor1:ãÁ¨¦?À3?ã
+  bgcolor2:?¨¬¨¦?(left)
+  bgcolor3:?¨¬¨¦?(top)
+  bgcolor4:¨ª¤¨¬?À3?ã¨¦?
+  bgcolor5:À¨ª??À??¨°?¨´¨¦?
+  bgcolor6:¦Ì?o???ã??ã?ã¨¦?
+  bgcolor7:¦Ì?o???ã?¨°?¨®ã
+*/
+.bgcolor1{
+	background-color:#FFFFFF;
+}
+.bgcolor2{
+	background-color:#B5CBE7;/*£¨×ó±³¾°ÖÐÂÌÉ«£©*/
+}
+.bgcolor3{
+	background-color:#F7F7F7;/*£¨ÉÏ±³¾°Ç³ÂÌÉ«£©*/
+}
+.bgcolor4{
+	background-color:#F7F7F7;/*£¨±í¸ñ¹ã¸æÌõÇ³À¶É«£©*/
+}
+.bgcolor5{
+	background-color:#DFDFD0;
+}
+.bgcolor6{
+	background-color:#F8F8F8;    /*£¨×ó±í¸ñ±³¾°Ç³ÂÌÉ«£©*/
+}
+.bgcolor7{
+	background-color:#6D7A8B;/*£¨×ó±í¸ñÒõÓ°Ç³ÂÌÉ«£©*/
+}
+.tbl1 {
+	BORDER-BOTTOM: #c1cdd8 1px solid;
+	BORDER-LEFT: #c1cdd8 1px solid;
+	EMPTY-CELLS: show;
+	BORDER-COLLAPSE: collapse; 
+}
+.tbl2 {
+	BORDER-BOTTOM: #c1cdd8 1px solid;
+	BORDER-RIGHT: #c1cdd8 1px solid;
+	EMPTY-CELLS: show;
+	BORDER-COLLAPSE: collapse; 
+}
+.tbl {
+	BORDER-BOTTOM: #c1cdd8 1px solid;
+	EMPTY-CELLS: show;
+	BORDER-COLLAPSE: collapse; 
+}
+
+.menutitle{
+cursor:pointer;
+margin-bottom: 5px;
+background-color:#ECECFF;
+color:#000000;
+width:140px;
+padding:2px;
+text-align:center;
+font-weight:bold;
+/*/*/border:1px solid #000000;/* */
+}
+
+.submenu{
+margin-bottom: 0.5em;
+}
+.tabletitle {
+	font-family: "Courier New", "Courier", "mono";
+	font-size: 16px;
+	font-weight: bold;
+	color: #003366;
+}

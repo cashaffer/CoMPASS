@@ -1,0 +1,7 @@
+Node,Total Time,Avg Time,Proportion,Visits
+ force_P, 127, 64, 10.52, 2
+ kinetic energy_P, 35, 35, 2.9, 1
+ MA_P, 119, 60, 9.86, 2
+ distance_P, 199, 50, 16.49, 4
+ distance_S, 3, 3, 0.25, 1
+TOTAL,483,212,37,10

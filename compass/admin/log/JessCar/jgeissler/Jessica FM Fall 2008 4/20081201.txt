@@ -1,0 +1,650 @@
+
+
+
+User	Leader	Question
+helium4	kristin	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+helium4	FM	Text	17
+helium4	LM	Map	17
+helium4	Newtons 1st law_LM	Map	501
+helium4	LM	Map	5
+helium4	Newtons 1st law_LM	Map	3
+helium4	Newtons 1st law_LM	Map	5
+helium4	Velocity_LM	Map	1
+helium4	Velocity_CM	NaviBar	2
+helium4	Velocity_LM	NaviBar	14
+helium4	LM	NaviBar	49
+helium4	Newtons 2nd law_LM	Map	120
+helium4	Newtons 2nd law	NaviBar	65
+helium4	Newtons 2nd law_LM	NaviBar	5
+helium4	acceleration_LM	Map	3
+helium4	LM	Text	4
+helium4	Newtons 3rd law_LM	Map	60
+
+
+
+User	Leader	Question
+argon4	Kelly Moran	stop the car
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	28
+argon4	LM	Map	2
+argon4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton4	Kelly Martin	stop the car!
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	5
+krypton4	LM	Map	5
+krypton4	momentum_LM	Map	720
+krypton4	Newtons 1st law_LM	Map	35
+krypton4	Velocity_LM	Map	13
+krypton4	Speed_LM	Map	28
+krypton4	energy_LM	Map	58
+
+
+
+User	Leader	Question
+iodine4	Kim	Stop the Car
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	18
+iodine4	LM	Map	5
+iodine4	momentum_LM	Map	96
+iodine4	Newtons 1st law_LM	Text	593
+iodine4	momentum_LM	Map	13
+iodine4	friction_LM	Text	7
+iodine4	momentum_LM	Map	6
+iodine4	Velocity_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton4	Sam	Collisions
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	5
+krypton4	LM	Map	73
+krypton4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium4	Tyler Weber	Stop the car or collisions
+
+Group	Node	Source	Staying Time(Sec)
+helium4	FM	Text	4
+helium4	LM	NaviBar	3
+helium4	LM	Map	24
+helium4	mass_LM	Map	5
+helium4	Speed_LM	Map	11
+helium4	energy_LM	Map	42
+helium4	Speed_LM	Map	55
+helium4	mass_LM	Map	5
+helium4	Newtons 1st law_LM	Text	55
+helium4	Newtons laws_LM	Map	2
+helium4	Newtons 3rd law_LM	Map	97
+helium4	Newtons 2nd law_LM	Map	160
+helium4	Speed	NaviBar	2
+helium4	Speed_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton4	grant larosn	stopping cars
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	5
+krypton4	LM	Map	4
+krypton4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium4	andy hagen	colisions
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	63
+sodium4	CM	NaviBar	4
+sodium4	FO	NaviBar	10
+sodium4	LM	NaviBar	7
+sodium4	momentum_LM	Map	123
+sodium4	Speed_LM	Map	2
+sodium4	mass_LM	Map	119
+sodium4	moment of inertia	NaviBar	2
+sodium4	moment of inertia	Map	1
+sodium4	moment of inertia	Map	1
+sodium4	moment of inertia	Map	5
+sodium4	moment of inertia	NaviBar	19
+sodium4	mass	NaviBar	3
+sodium4	mass_LM	NaviBar	2
+sodium4	kinetic energy_LM	Map	5
+sodium4	energy_LM	Map	179
+sodium4	work_LM	Map	3
+sodium4	friction_LM	Map	8
+sodium4	acceleration_LM	Map	34
+sodium4	mass_LM	Map	3
+sodium4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium4	Breanna Sarac	colusions
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	25
+sodium4	LM	Map	19
+sodium4	Speed_LM	Map	34
+sodium4	LM	NaviBar	3
+sodium4	energy_LM	Map	3
+sodium4	Speed_LM	Map	3
+sodium4	energy_LM	Map	352
+sodium4	Velocity_LM	Map	3
+sodium4	LM	NaviBar	4
+sodium4	mass_LM	Map	4
+sodium4	energy_LM	Map	6
+sodium4	mass_LM	Map	64
+sodium4	energy_LM	Map	154
+sodium4	moment of inertia	NaviBar	2
+sodium4	moment of inertia	Map	7
+sodium4	moment of inertia	NaviBar	1
+sodium4	energy_LM	Map	2
+sodium4	moment of inertia	Map	2
+sodium4	energy_LM	Map	1
+sodium4	mass_LM	Map	5
+sodium4	energy	NaviBar	5
+sodium4	energy_LM	Map	14
+sodium4	momentum	NaviBar	48
+sodium4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium4	Abby Pandow	Stop that car
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	22
+sodium4	LM	Map	40
+sodium4	momentum_LM	Map	584
+sodium4	mass_LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc4	Adriana Andrade-Velasco	collisions
+
+Group	Node	Source	Staying Time(Sec)
+zinc4	FM	Text	4
+zinc4	CM	Map	37
+zinc4	momentum	NaviBar	107
+zinc4	momentum_FO	Map	N/A
+
+
+
+User	Leader	Question
+krypton4	maddie	collistions
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	54
+krypton4	LM	Map	68
+krypton4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	zacharyjohnwoock	coliction
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	33
+oxygen4	LM	Map	17
+oxygen4	momentum_LM	Map	505
+oxygen4	Velocity_LM	Map	37
+oxygen4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	Molly McDonough	stop the car/ collisions
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	11
+oxygen4	LM	Map	25
+oxygen4	momentum_LM	Map	25
+oxygen4	mass_LM	Map	25
+oxygen4	momentum_LM	Map	3
+oxygen4	Velocity_LM	Map	3
+oxygen4	momentum_LM	Map	3
+oxygen4	momentum_LM	Map	2
+oxygen4	momentum_LM	Map	2
+oxygen4	momentum_LM	Map	1
+oxygen4	momentum_LM	Map	9
+oxygen4	momentum_LM	Map	2
+oxygen4	momentum_LM	Map	2
+oxygen4	momentum_LM	Map	498
+oxygen4	acceleration_LM	Map	5
+oxygen4	momentum_LM	Map	37
+oxygen4	moment of inertia	NaviBar	3
+oxygen4	moment of inertia	Map	2
+oxygen4	moment of inertia	Map	4
+oxygen4	moment of inertia	Map	5
+oxygen4	momentum	NaviBar	21
+oxygen4	FM	NaviBar	2
+oxygen4	LM	Map	1
+oxygen4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine4	Danielle Murphy	Stop The Car!
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	28
+iodine4	LM	Map	9
+iodine4	force_LM	Map	30
+iodine4	normal force_LM	Text	194
+iodine4	moment of inertia	NaviBar	10
+iodine4	moment of inertia	Map	11
+iodine4	FM	NaviBar	6
+iodine4	LM	Map	8
+iodine4	momentum_LM	Map	161
+iodine4	mass_LM	Map	188
+iodine4	mass	NaviBar	6
+iodine4	mass_LM	Map	12
+iodine4	acceleration_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	Victoria Lowery	Stop the Car
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	5
+oxygen4	LM	Map	6
+oxygen4	momentum_LM	Map	248
+oxygen4	normal force	NaviBar	2
+oxygen4	normal force_LM	Map	124
+oxygen4	momentum	NaviBar	2
+oxygen4	momentum_LM	Map	138
+oxygen4	momentum	NaviBar	3
+oxygen4	momentum_LM	Map	5
+oxygen4	momentum	NaviBar	12
+oxygen4	momentum_LM	Map	63
+oxygen4	momentum_LM	Map	2
+oxygen4	mass_LM	Map	3
+oxygen4	Speed_LM	Map	3
+oxygen4	Velocity_LM	Map	1
+oxygen4	Velocity_LM	Map	2
+oxygen4	Speed_LM	Map	2
+oxygen4	Newtons 1st law_LM	Map	3
+oxygen4	Newtons laws_LM	Map	2
+oxygen4	normal force_LM	Map	13
+oxygen4	momentum	NaviBar	2
+oxygen4	momentum_LM	Map	26
+oxygen4	momentum	NaviBar	38
+oxygen4	momentum_LM	Map	23
+oxygen4	moment of inertia	NaviBar	2
+oxygen4	moment of inertia	Map	2
+oxygen4	moment of inertia	Map	1
+oxygen4	moment of inertia	Map	6
+oxygen4	moment of inertia	NaviBar	8
+oxygen4	Newtons 1st law	NaviBar	3
+oxygen4	Newtons 1st law_LM	Map	7
+oxygen4	momentum_LM	Map	9
+oxygen4	Newtons 1st law_LM	Map	26
+
+
+
+User	Leader	Question
+iodine4	Zach Meyer	linear motion
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	26
+iodine4	LM	Map	16
+iodine4	momentum_LM	Map	12
+iodine4	mass_LM	Map	6
+iodine4	momentum_LM	Map	55
+iodine4	Newtons 2nd law_LM	Map	6
+iodine4	Newtons laws_LM	Map	210
+iodine4	force_LM	Map	63
+iodine4	moment of inertia	NaviBar	4
+iodine4	moment of inertia	Map	6
+iodine4	moment of inertia	Map	3
+iodine4	moment of inertia	NaviBar	5
+iodine4	force_LM	Map	1
+iodine4	Newtons laws_LM	Map	1
+iodine4	Newtons 2nd law_LM	Map	1
+iodine4	momentum_LM	Map	1
+iodine4	mass_LM	Map	1
+iodine4	momentum_LM	Map	0
+iodine4	LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc4	Will Helbing	Stop That Car!
+
+Group	Node	Source	Staying Time(Sec)
+zinc4	FM	Text	16
+zinc4	LM	Map	6
+zinc4	momentum_LM	Map	360
+zinc4	mass_LM	Map	3
+zinc4	Newtons 2nd law_LM	Map	3
+zinc4	mass_LM	Map	14
+zinc4	Speed_LM	Map	3
+zinc4	energy_LM	Map	2
+zinc4	potential energy_LM	Map	1
+zinc4	energy_LM	Map	1
+zinc4	energy_LM	Map	1
+zinc4	force_LM	Map	51
+zinc4	moment of inertia	NaviBar	2
+zinc4	moment of inertia	Map	3
+zinc4	moment of inertia	Map	5
+zinc4	moment of inertia	Map	5
+zinc4	moment of inertia	NaviBar	20
+zinc4	moment of inertia	Map	2
+zinc4	moment of inertia	NaviBar	17
+zinc4	force_LM	Map	8
+zinc4	friction_LM	Text	12
+zinc4	mass_LM	Map	8
+zinc4	Newtons laws_LM	Map	31
+zinc4	Newtons 1st law_LM	Text	187
+zinc4	Newtons 2nd law_LM	Map	1
+zinc4	Newtons 3rd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	mark siehoff	STOP THAT CAR1
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	7
+oxygen4	LM	Map	5
+oxygen4	momentum_LM	Map	283
+oxygen4	Velocity_LM	Map	51
+oxygen4	acceleration_LM	Map	23
+oxygen4	Velocity_LM	Map	2
+oxygen4	momentum_LM	Map	80
+oxygen4	LM	NaviBar	100
+oxygen4	momentum_LM	Map	42
+oxygen4	LM	NaviBar	1
+oxygen4	momentum_LM	Map	22
+oxygen4	Newtons 1st law_LM	Map	86
+oxygen4	Newtons 3rd law_LM	Map	1
+oxygen4	Newtons 2nd law_LM	Map	4
+oxygen4	kinetic energy_LM	Map	4
+oxygen4	Newtons 2nd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon4	John Ripp	linear motion
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	8
+argon4	LM	Map	20
+argon4	momentum_LM	Map	211
+argon4	LM	Map	8
+argon4	Newtons 1st law_LM	Map	4
+argon4	Newtons laws_LM	Map	203
+argon4	Newtons laws_LM	Map	5
+argon4	Newtons 3rd law_LM	Map	2
+argon4	normal force_LM	Map	1
+argon4	force_LM	Map	5
+argon4	mass_LM	Map	3
+argon4	momentum_LM	Map	7
+argon4	mass_LM	Map	2
+argon4	force_LM	Map	1
+argon4	normal force_LM	Map	1
+argon4	Newtons 3rd law_LM	Map	1
+argon4	Newtons laws_LM	Map	1
+argon4	Newtons 1st law_LM	Map	2
+argon4	Speed_LM	Map	9
+argon4	LM	NaviBar	10
+argon4	mass_LM	Map	42
+argon4	LM	NaviBar	2
+argon4	LM	Map	1
+argon4	LM	Map	1
+argon4	LM	Map	3
+argon4	mass_LM	Map	2
+argon4	momentum_LM	Map	6
+argon4	mass_LM	Map	11
+argon4	moment of inertia	NaviBar	3
+argon4	moment of inertia	Map	3
+argon4	moment of inertia	Map	1
+argon4	moment of inertia	Map	17
+argon4	moment of inertia	NaviBar	6
+argon4	moment of inertia	Map	2
+argon4	moment of inertia	NaviBar	2
+argon4	mass_LM	Map	4
+argon4	momentum_LM	Map	4
+argon4	LM	NaviBar	1
+argon4	mass_LM	Map	23
+argon4	Speed_LM	Map	41
+argon4	LM	NaviBar	30
+argon4	energy_LM	Map	3
+argon4	work_LM	Map	9
+argon4	gravity_LM	Map	3
+argon4	friction_LM	Map	7
+argon4	gravity_LM	Map	10
+argon4	Newtons 2nd law_LM	Map	11
+argon4	normal force_LM	Map	2
+argon4	Newtons laws_LM	Map	2
+argon4	normal force_LM	Map	1
+argon4	Newtons laws_LM	Map	2
+argon4	normal force_LM	Map	1
+argon4	Newtons laws_LM	Map	1
+argon4	normal force_LM	Map	3
+argon4	Newtons laws_LM	Map	3
+argon4	normal force_LM	Map	1
+argon4	Newtons laws_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium4	josh brischke	motion
+
+Group	Node	Source	Staying Time(Sec)
+helium4	FM	Text	30
+helium4	mass	NaviBar	39
+helium4	Newtons 1st law	NaviBar	65
+helium4	Newtons 2nd law	NaviBar	86
+helium4	Newtons 2nd law	NaviBar	22
+helium4	Newtons 3rd law	NaviBar	61
+helium4	acceleration	NaviBar	56
+helium4	height	NaviBar	3
+helium4	height	NaviBar	5
+helium4	LM	NaviBar	24
+helium4	FM	NaviBar	5
+helium4	FM	NaviBar	4
+helium4	FO	NaviBar	25
+helium4	height	NaviBar	18
+helium4	FM	NaviBar	16
+helium4	mass	NaviBar	N/A
+
+
+
+User	Leader	Question
+iodine4	Mitchell Borgen	stopping somthing
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	18
+iodine4	LM	Map	54
+iodine4	mass_LM	Map	3
+iodine4	Speed_LM	Map	16
+iodine4	energy_LM	Map	3
+iodine4	kinetic energy_LM	Map	2
+iodine4	energy_LM	Map	2
+iodine4	potential energy_LM	Map	2
+iodine4	energy_LM	Map	1
+iodine4	mass_LM	Map	2
+iodine4	force_LM	Map	1
+iodine4	energy_LM	Map	2
+iodine4	force_LM	Map	2
+iodine4	Velocity_LM	Map	3
+iodine4	mass_LM	Map	3
+iodine4	energy_LM	Map	2
+iodine4	mass_LM	Map	1
+iodine4	Velocity_LM	Map	2
+iodine4	force_LM	Map	3
+iodine4	Speed_LM	Map	9
+iodine4	kinetic energy_LM	Map	545
+iodine4	Speed_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon4	Kyle Horning	research
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	7
+argon4	LM	Map	6
+argon4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc4	Sergei Capaul	Stop that Car!
+
+Group	Node	Source	Staying Time(Sec)
+zinc4	FM	Text	6
+zinc4	LM	Map	7
+zinc4	momentum_LM	Map	4
+zinc4	mass_LM	Map	27
+zinc4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium4	N/A	N/A
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	9
+sodium4	LM	Map	6
+sodium4	momentum_LM	Map	197
+sodium4	Velocity_LM	Map	2
+sodium4	acceleration_LM	Map	1
+sodium4	Speed_LM	Map	1
+sodium4	Newtons 1st law_LM	Map	1
+sodium4	momentum_LM	Map	1
+sodium4	acceleration_LM	Map	1
+sodium4	acceleration_LM	Map	1
+sodium4	gravity_LM	Map	2
+sodium4	Newtons 2nd law_LM	Map	1
+sodium4	Velocity_LM	Map	3
+sodium4	mass_LM	Map	2
+sodium4	acceleration_LM	Map	30
+sodium4	CM	NaviBar	3
+sodium4	LM	NaviBar	32
+sodium4	CM	Text	1
+sodium4	FO	Text	14
+sodium4	LM	NaviBar	77
+sodium4	mass_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine4	Zach Meyer	Inertia
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	4
+iodine4	LM	Map	51
+iodine4	mass_LM	Map	11
+iodine4	momentum_LM	Map	22
+iodine4	mass_LM	Map	3
+iodine4	kinetic energy_LM	Map	7
+iodine4	mass_LM	Map	9
+iodine4	force_LM	Map	10
+iodine4	energy_LM	Map	6
+iodine4	Speed_LM	Map	42
+iodine4	acceleration_LM	Map	6
+iodine4	Newtons 2nd law_LM	Map	18
+iodine4	Newtons 3rd law_LM	Map	23
+iodine4	normal force_LM	Map	6
+iodine4	friction_LM	Map	10
+iodine4	gravity_LM	Map	18
+iodine4	work_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine4	Caroline Hayney	Stop that Car
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	20
+iodine4	LM	Map	8
+iodine4	momentum_LM	Map	24
+iodine4	momentum	NaviBar	96
+iodine4	momentum_LM	Map	2
+iodine4	Velocity_LM	Map	3
+iodine4	Velocity	NaviBar	35
+iodine4	Velocity_LM	Map	3
+iodine4	momentum_LM	Map	1
+iodine4	momentum	NaviBar	28
+iodine4	momentum_LM	Map	1
+iodine4	Velocity_LM	Map	1
+iodine4	Velocity	NaviBar	40
+iodine4	Velocity_LM	Map	5
+iodine4	LM	NaviBar	18
+iodine4	Newtons 1st law_LM	Map	4
+iodine4	Newtons laws_LM	Map	161
+iodine4	LM	NaviBar	3
+iodine4	force_LM	Map	201
+iodine4	LM	NaviBar	15
+iodine4	moment of inertia	NaviBar	8
+iodine4	moment of inertia	Map	13
+iodine4	moment of inertia	NaviBar	17
+iodine4	moment of inertia	Map	3
+
+
+
+User	Leader	Question
+iodine4	caroline Hayney	Linear Motion
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	2
+iodine4	LM	Map	2
+iodine4	potential energy_LM	Map	3
+iodine4	LM	NaviBar	4
+iodine4	acceleration_LM	Map	6
+iodine4	LM	NaviBar	4
+iodine4	Newtons laws_LM	Map	6
+iodine4	LM	NaviBar	44
+iodine4	kinetic energy_LM	Map	11
+iodine4	moment of inertia	NaviBar	2
+iodine4	moment of inertia	Map	4
+iodine4	moment of inertia	Map	4
+iodine4	moment of inertia	Map	4
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	1
+iodine4	moment of inertia	Map	0
+
+
+
+User	Leader	Question
+iodine4	caroline Hayney	linear motion
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	2
+iodine4	LM	Map	35
+iodine4	normal force_LM	Map	5
+iodine4	LM	NaviBar	2
+iodine4	Speed_LM	Map	2
+iodine4	LM	NaviBar	2
+iodine4	Velocity_LM	Map	2
+iodine4	LM	NaviBar	2
+iodine4	work_LM	Map	6
+iodine4	LM	NaviBar	4
+iodine4	acceleration_LM	Map	N/A

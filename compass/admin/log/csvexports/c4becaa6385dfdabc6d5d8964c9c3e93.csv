@@ -1,0 +1,6 @@
+Node,Total Time,Avg Time,Proportion,Visits
+ friction_P, 52, 26, 2.46, 2
+ MA_P, 124, 41, 5.86, 3
+ work_P, 35, 35, 1.65, 1
+ distance_P, 206, 69, 9.73, 3
+TOTAL,417,171,17,9

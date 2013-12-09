@@ -1,0 +1,823 @@
+
+
+
+User	Leader	Question
+oxygen2	christopher kottke	impact
+
+Group	Node	Source	Staying Time(Sec)
+oxygen2	FM	Text	10
+oxygen2	LM	Map	52
+oxygen2	mass_LM	Map	4
+oxygen2	LM	Map	14
+oxygen2	momentum_LM	Map	323
+oxygen2	mass_LM	Map	7
+oxygen2	Velocity_LM	Map	25
+oxygen2	mass_LM	Map	58
+oxygen2	Velocity_LM	Map	67
+oxygen2	Newtons 1st law_LM	Map	155
+oxygen2	Speed_LM	Map	34
+oxygen2	mass_LM	Map	8
+oxygen2	energy_LM	Map	77
+oxygen2	potential energy_LM	Map	35
+oxygen2	kinetic energy_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine2	Jamie Warner	Collisions
+
+Group	Node	Source	Staying Time(Sec)
+iodine2	FM	Text	25
+iodine2	LM	Map	13
+iodine2	mass_LM	Map	2
+iodine2	momentum_LM	Map	16
+iodine2	Speed_LM	Map	4
+iodine2	momentum_LM	Map	165
+iodine2	Newtons 2nd law_LM	Map	7
+iodine2	Newtons 1st law_LM	Map	120
+iodine2	Velocity_LM	Map	5
+iodine2	kinetic energy_LM	Map	15
+iodine2	momentum_LM	Map	10
+iodine2	acceleration_LM	Map	11
+iodine2	acceleration	NaviBar	19
+iodine2	acceleration_LM	Map	3
+iodine2	acceleration_LM	Map	10
+iodine2	Speed_LM	Map	2
+iodine2	momentum_LM	Map	2
+iodine2	momentum	NaviBar	10
+iodine2	FM	NaviBar	4
+iodine2	FO	Map	3
+iodine2	shape_FO	Map	17
+iodine2	lift_FO	Map	101
+iodine2	LM	NaviBar	21
+iodine2	LM	Map	1
+iodine2	LM	Map	2
+iodine2	LM	Map	14
+iodine2	LM	Map	14
+iodine2	FM	NaviBar	4
+iodine2	CM	Map	182
+iodine2	G forces_CM	Map	4
+iodine2	acceleration_CM	Text	N/A
+
+
+
+User	Leader	Question
+oxygen2	ryan knishka	how to stop a car
+
+Group	Node	Source	Staying Time(Sec)
+oxygen2	FM	Text	48
+oxygen2	LM	Map	4
+oxygen2	Newtons laws_LM	Map	9
+oxygen2	Newtons 2nd law_LM	Text	211
+oxygen2	Newtons laws_LM	Map	15
+oxygen2	Velocity_LM	Map	28
+oxygen2	Newtons 1st law_LM	Map	60
+oxygen2	acceleration_LM	Map	26
+oxygen2	Newtons 1st law_LM	Map	6
+oxygen2	force_LM	Text	2
+oxygen2	gravity_LM	Text	2
+oxygen2	mass_LM	Text	2
+oxygen2	Newtons 1st law_LM	Text	2
+oxygen2	Velocity_LM	Text	1
+oxygen2	acceleration_LM	Text	2
+oxygen2	LM	Text	5
+oxygen2	energy_LM	Map	2
+oxygen2	work_LM	Text	4
+oxygen2	acceleration_LM	Map	5
+oxygen2	gravity_LM	Map	2
+oxygen2	Newtons 2nd law_LM	Map	4
+oxygen2	Newtons 1st law_LM	Map	2
+oxygen2	Newtons 3rd law_LM	Map	9
+oxygen2	normal force_LM	Map	4
+oxygen2	Newtons 3rd law_LM	Map	5
+oxygen2	Newtons 3rd law_LM	Map	2
+oxygen2	force_LM	Map	4
+oxygen2	friction_LM	Map	2
+oxygen2	momentum_LM	Map	4
+oxygen2	Speed_LM	Map	2
+oxygen2	momentum_LM	Map	5
+oxygen2	mass_LM	Map	3
+oxygen2	friction_LM	Text	32
+oxygen2	kinetic energy_LM	Map	3
+oxygen2	energy_LM	Text	1
+oxygen2	kinetic energy_LM	Text	1
+oxygen2	Speed_LM	Text	3
+oxygen2	acceleration_LM	Map	2
+oxygen2	momentum_LM	Map	2
+oxygen2	Newtons 1st law_LM	Map	3
+oxygen2	Velocity_LM	Map	1
+oxygen2	Speed_LM	Map	3
+oxygen2	acceleration_LM	Map	3
+oxygen2	friction_LM	Map	2
+oxygen2	normal force_LM	Map	2
+oxygen2	gravity_LM	Map	6
+oxygen2	normal force_LM	Map	3
+oxygen2	Newtons 2nd law_LM	Map	2
+oxygen2	momentum_LM	Map	5
+oxygen2	kinetic energy_LM	Map	3
+oxygen2	work_LM	Map	10
+oxygen2	gravity_LM	Text	8
+oxygen2	acceleration_LM	Map	18
+oxygen2	Speed_LM	Map	39
+oxygen2	Newtons 1st law_LM	Map	2
+oxygen2	momentum_LM	Map	2
+oxygen2	acceleration_LM	Map	7
+oxygen2	work_LM	Map	5
+oxygen2	gravity_LM	Map	4
+oxygen2	normal force_LM	Map	40
+oxygen2	friction_LM	Map	7
+oxygen2	kinetic energy_LM	Map	5
+oxygen2	potential energy_LM	Map	3
+oxygen2	energy_LM	Map	3
+oxygen2	Speed_LM	Map	5
+oxygen2	mass_LM	Map	3
+oxygen2	normal force_LM	Text	5
+oxygen2	gravity_LM	Map	74
+oxygen2	work_LM	Map	2
+oxygen2	Newtons 2nd law_LM	Map	5
+oxygen2	Velocity_LM	Map	3
+oxygen2	force_LM	Map	4
+oxygen2	Newtons 2nd law_LM	Text	12
+oxygen2	Velocity_LM	Map	10
+oxygen2	Newtons laws_LM	Map	2
+oxygen2	Newtons 3rd law_LM	Text	4
+oxygen2	Newtons 1st law_LM	Map	1
+oxygen2	Newtons 2nd law_LM	Map	2
+oxygen2	Newtons 3rd law_LM	Map	2
+oxygen2	normal force_LM	Map	2
+oxygen2	friction_LM	Map	2
+oxygen2	gravity_LM	Map	2
+oxygen2	friction_LM	Map	2
+oxygen2	normal force_LM	Map	3
+oxygen2	Newtons laws_LM	Map	3
+oxygen2	acceleration_LM	Map	11
+oxygen2	work_LM	Map	9
+oxygen2	kinetic energy_LM	Map	4
+oxygen2	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium2	Nicholas Stamm	Impact
+
+Group	Node	Source	Staying Time(Sec)
+sodium2	FM	Text	10
+sodium2	LM	Map	15
+sodium2	mass_LM	Map	17
+sodium2	Speed_LM	Map	60
+sodium2	momentum_LM	Map	268
+sodium2	Newtons 2nd law_LM	Map	27
+sodium2	momentum_LM	Map	9
+sodium2	Newtons 1st law_LM	Text	158
+sodium2	Velocity_LM	Map	3
+sodium2	force_LM	Map	5
+sodium2	Velocity_LM	Map	4
+sodium2	acceleration_LM	Map	5
+sodium2	mass_LM	Map	86
+sodium2	friction_LM	Map	37
+sodium2	kinetic energy_LM	Map	33
+sodium2	Velocity_LM	Map	24
+sodium2	mass_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine2	Mackenzie Kohn	stop that car
+
+Group	Node	Source	Staying Time(Sec)
+iodine2	FM	Text	19
+iodine2	LM	Map	11
+iodine2	momentum_LM	Map	149
+iodine2	Newtons 1st law_LM	Map	144
+iodine2	Newtons 2nd law_LM	Map	132
+iodine2	Newtons 3rd law_LM	Map	64
+iodine2	Newtons 1st law_LM	Map	29
+iodine2	Velocity_LM	Text	135
+iodine2	momentum_LM	Map	23
+iodine2	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine2	Joe	Momentum
+
+Group	Node	Source	Staying Time(Sec)
+iodine2	FM	Text	11
+iodine2	LM	Map	5
+iodine2	momentum_LM	Map	26
+iodine2	LM	Map	13
+iodine2	FM	Text	9
+iodine2	LM	NaviBar	21
+iodine2	Newtons 3rd law_LM	Map	14
+iodine2	Newtons 2nd law_LM	Map	54
+iodine2	Newtons 1st law_LM	Map	36
+iodine2	momentum_LM	Map	5
+iodine2	mass_LM	Map	15
+iodine2	Newtons laws_LM	Map	87
+iodine2	Velocity_LM	Map	28
+iodine2	Velocity_CM	NaviBar	8
+iodine2	Velocity	NaviBar	10
+iodine2	Velocity	Map	4
+iodine2	Velocity_CM	Map	2
+iodine2	Velocity	NaviBar	7
+iodine2	FM	NaviBar	10
+iodine2	FM	NaviBar	1
+iodine2	FO	Map	10
+iodine2	surface area_FO	Map	6
+iodine2	surface area	NaviBar	7
+iodine2	surface area_FO	Map	32
+iodine2	FO	NaviBar	4
+iodine2	LM	NaviBar	12
+iodine2	Velocity_LM	Map	1
+iodine2	LM	NaviBar	4
+iodine2	Speed_LM	Map	9
+iodine2	energy_LM	Map	25
+iodine2	force_LM	Map	7
+iodine2	mass_LM	Map	3
+iodine2	kinetic energy_LM	Map	6
+iodine2	Speed_LM	Map	4
+iodine2	momentum_LM	Map	118
+iodine2	momentum_LM	Map	4
+iodine2	friction_LM	Map	145
+iodine2	momentum_LM	Map	12
+iodine2	mass_LM	Map	33
+iodine2	momentum_LM	Map	4
+iodine2	Newtons 1st law_LM	Text	N/A
+
+
+
+User	Leader	Question
+helium2	elizabeth evans	energy
+
+Group	Node	Source	Staying Time(Sec)
+helium2	FM	Text	11
+helium2	LM	Map	7
+helium2	Speed_LM	Map	5
+helium2	LM	NaviBar	6
+helium2	momentum_LM	Map	358
+helium2	LM	NaviBar	1
+helium2	acceleration_LM	Map	232
+helium2	LM	NaviBar	2
+helium2	energy_LM	Map	99
+helium2	LM	NaviBar	3
+helium2	Velocity_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton2	Damian Ziegler	Stop that Car
+
+Group	Node	Source	Staying Time(Sec)
+krypton2	FM	Text	5
+krypton2	LM	Map	5
+krypton2	momentum_LM	Map	52
+krypton2	LM	Map	1
+krypton2	FM	Text	7
+krypton2	FM	Text	1
+krypton2	LM	Map	1
+krypton2	LM	Map	1
+krypton2	LM	Map	3
+krypton2	LM	Map	1
+krypton2	LM	Map	1
+krypton2	LM	Map	2
+krypton2	gravity_LM	Map	2
+krypton2	Newtons laws_LM	Map	2
+krypton2	gravity_LM	Map	1
+krypton2	LM	Map	1
+krypton2	FM	Text	3
+krypton2	FM	Text	2
+krypton2	LM	Map	8
+krypton2	momentum_LM	Map	3
+krypton2	momentum_LM	Map	26
+krypton2	Velocity_LM	Map	26
+krypton2	Newtons laws_LM	Map	12
+krypton2	Newtons 1st law_LM	Map	15
+krypton2	momentum_LM	Map	148
+krypton2	Newtons 1st law_LM	Map	184
+krypton2	Newtons 2nd law_LM	Map	36
+krypton2	Velocity_LM	Map	135
+krypton2	Newtons 2nd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium2	Katelyn Hellenbrand	Motion
+
+Group	Node	Source	Staying Time(Sec)
+sodium2	FM	Text	18
+sodium2	LM	Map	3
+sodium2	Newtons 1st law_LM	Map	69
+sodium2	Newtons laws_LM	Map	2
+sodium2	Newtons 2nd law_LM	Map	55
+sodium2	Newtons 1st law_LM	Map	7
+sodium2	Newtons 1st law_LM	Map	32
+sodium2	Newtons 3rd law_LM	Map	31
+sodium2	normal force_LM	Map	6
+sodium2	Newtons 3rd law_LM	Map	2
+sodium2	Newtons 2nd law_LM	Map	5
+sodium2	momentum_LM	Map	78
+sodium2	Newtons 1st law_LM	Map	35
+sodium2	acceleration_LM	Map	148
+sodium2	normal force_LM	Map	67
+sodium2	work_LM	Map	169
+sodium2	potential energy_LM	Map	65
+
+
+
+User	Leader	Question
+sodium2	haley devlin	forces
+
+Group	Node	Source	Staying Time(Sec)
+sodium2	FM	Text	29
+sodium2	LM	Map	27
+sodium2	Newtons 1st law_LM	Map	217
+sodium2	Newtons 1st law_LM	Map	1
+sodium2	Newtons 1st law_LM	Map	1
+sodium2	Newtons 1st law_LM	Map	2
+sodium2	Newtons 1st law_LM	Map	2
+sodium2	LM	Map	9
+sodium2	Newtons 2nd law_LM	Map	323
+sodium2	Newtons 1st law_LM	Map	2
+sodium2	Newtons 1st law_LM	Map	2
+sodium2	Newtons 3rd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc2	Ally Pulvermacher	Stop that Car
+
+Group	Node	Source	Staying Time(Sec)
+zinc2	FM	Text	5
+zinc2	LM	Map	3
+zinc2	momentum_LM	Map	82
+zinc2	LM	NaviBar	9
+zinc2	mass_LM	Map	8
+zinc2	Velocity_LM	Map	8
+zinc2	Velocity_LM	Map	5
+zinc2	acceleration_LM	Map	11
+zinc2	Newtons 2nd law_LM	Text	8
+zinc2	friction_LM	Map	71
+zinc2	mass_LM	Map	13
+zinc2	Speed_LM	Map	38
+zinc2	mass_LM	Map	71
+zinc2	moment of inertia	NaviBar	2
+zinc2	moment of inertia	Map	2
+zinc2	moment of inertia	Map	3
+zinc2	moment of inertia	Map	3
+zinc2	moment of inertia	NaviBar	4
+zinc2	LM	NaviBar	7
+zinc2	LM	Map	1
+zinc2	LM	Map	12
+zinc2	Newtons laws_LM	Map	8
+zinc2	acceleration_LM	Map	9
+zinc2	moment of inertia	NaviBar	1
+zinc2	acceleration_LM	Map	3
+zinc2	LM	Text	20
+zinc2	Newtons 1st law_LM	Map	218
+zinc2	acceleration_LM	Text	65
+zinc2	LM	Text	9
+zinc2	Newtons 2nd law_LM	Map	14
+zinc2	LM	NaviBar	1
+zinc2	mass_LM	Map	8
+zinc2	kinetic energy_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium2	Austin Schreiber	Forces and Motion
+
+Group	Node	Source	Staying Time(Sec)
+helium2	FM	Text	25
+helium2	LM	Map	2
+helium2	LM	Map	2
+helium2	LM	Map	3
+helium2	LM	Map	20
+helium2	LM	Map	1
+helium2	LM	Map	1
+helium2	LM	Map	1
+helium2	LM	Map	5
+helium2	LM	Map	1
+helium2	LM	Map	1
+helium2	LM	Map	2
+helium2	LM	Map	35
+helium2	momentum_LM	Map	5
+helium2	momentum_LM	Map	206
+helium2	Newtons 1st law_LM	Text	228
+helium2	momentum_LM	Map	15
+helium2	acceleration_LM	Map	4
+helium2	momentum_LM	Map	109
+helium2	Newtons 2nd law_LM	Map	8
+helium2	normal force_LM	Map	26
+helium2	Newtons laws_LM	Map	3
+helium2	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine2	samuelsantiago	stop the car
+
+Group	Node	Source	Staying Time(Sec)
+iodine2	FM	Text	6
+iodine2	LM	Map	275
+iodine2	Newtons laws_LM	Map	5
+iodine2	Newtons 1st law_LM	Map	13
+iodine2	Velocity_LM	Text	62
+iodine2	acceleration_LM	Map	70
+iodine2	Newtons 2nd law_LM	Map	51
+iodine2	mass_LM	Map	21
+iodine2	friction_LM	Map	4
+iodine2	force_LM	Map	14
+iodine2	force_LM	Map	2
+iodine2	normal force_LM	Map	14
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons laws_LM	Map	3
+iodine2	Newtons 1st law_LM	Map	12
+iodine2	Newtons 3rd law_LM	Map	4
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	4
+iodine2	Newtons 3rd law_LM	Map	2
+iodine2	Newtons 1st law_LM	Map	2
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	2
+iodine2	Newtons 1st law_LM	Map	2
+iodine2	Newtons 2nd law_LM	Map	4
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	2
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	2
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	2
+iodine2	Newtons 3rd law_LM	Map	2
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	3
+iodine2	Newtons 3rd law_LM	Map	1
+iodine2	Newtons 1st law_LM	Map	2
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	2
+iodine2	Newtons 1st law_LM	Map	2
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	2
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	1
+iodine2	Newtons 3rd law_LM	Map	2
+iodine2	Newtons 1st law_LM	Map	1
+iodine2	Newtons 2nd law_LM	Map	10
+iodine2	Newtons 3rd law_LM	Map	10
+iodine2	force_LM	Map	4
+iodine2	acceleration_LM	Map	73
+iodine2	Velocity_LM	Text	3
+iodine2	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton2	olivia tjugum	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+krypton2	FM	Text	16
+krypton2	FO	Map	7
+krypton2	momentum_FO	Map	6
+krypton2	force_FO	Map	14
+krypton2	momentum_FO	Map	3
+krypton2	FO	Map	2
+krypton2	FM	Text	N/A
+
+
+
+User	Leader	Question
+sodium2	Kyle Femrite	Forces and Motion
+
+Group	Node	Source	Staying Time(Sec)
+sodium2	FM	Text	5
+sodium2	LM	Map	27
+sodium2	momentum_LM	Map	117
+sodium2	Newtons 1st law_LM	Map	6
+sodium2	Velocity_LM	Map	3
+sodium2	momentum_LM	Map	1
+sodium2	mass_LM	Map	2
+sodium2	momentum_LM	Map	3
+sodium2	Velocity_LM	Map	2
+sodium2	acceleration_LM	Map	2
+sodium2	force_LM	Map	5
+sodium2	force_LM	Map	3
+sodium2	force_LM	Map	3
+sodium2	acceleration_LM	Map	2
+sodium2	Velocity_LM	Map	1
+sodium2	Speed_LM	Map	2
+sodium2	kinetic energy_LM	Map	2
+sodium2	mass_LM	Map	8
+sodium2	Newtons 2nd law_LM	Map	99
+sodium2	Newtons laws_LM	Map	28
+sodium2	Newtons 3rd law_LM	Map	2
+sodium2	Newtons 3rd law_LM	Map	3
+sodium2	normal force_LM	Map	3
+sodium2	Newtons 3rd law_LM	Map	2
+sodium2	Newtons laws_LM	Map	2
+sodium2	Newtons 3rd law_LM	Map	1
+sodium2	Newtons 3rd law_LM	Map	2
+sodium2	Newtons 3rd law_LM	Map	1
+sodium2	Newtons 3rd law_LM	Map	2
+sodium2	Newtons 3rd law_LM	Map	1
+sodium2	Newtons 3rd law_LM	Map	2
+sodium2	Newtons 3rd law_LM	Map	19
+sodium2	Newtons laws_LM	Map	1
+sodium2	Newtons 2nd law_LM	Map	5
+sodium2	Newtons laws_LM	Map	1
+sodium2	Newtons 3rd law_LM	Map	36
+sodium2	Newtons laws_LM	Map	16
+sodium2	Newtons 1st law_LM	Map	47
+sodium2	Velocity_LM	Map	5
+sodium2	momentum_LM	Map	6
+sodium2	Newtons 1st law_LM	Text	9
+sodium2	Velocity_LM	Map	2
+sodium2	momentum_LM	Map	198
+sodium2	Velocity_LM	Map	2
+sodium2	Speed_LM	Map	3
+sodium2	Velocity_LM	Map	3
+sodium2	Newtons 1st law_LM	Map	4
+sodium2	Newtons laws_LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc2	Sarah	Force and Motion
+
+Group	Node	Source	Staying Time(Sec)
+zinc2	FM	Text	6
+zinc2	LM	Map	10
+zinc2	momentum_LM	Map	217
+zinc2	mass_LM	Map	237
+zinc2	LM	NaviBar	36
+zinc2	momentum_LM	Map	8
+zinc2	mass_LM	Map	10
+zinc2	momentum_LM	Map	9
+zinc2	LM	NaviBar	4
+zinc2	Speed_LM	Map	10
+zinc2	LM	NaviBar	35
+zinc2	Velocity_LM	Map	120
+zinc2	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen2	whitney	force and motoin
+
+Group	Node	Source	Staying Time(Sec)
+oxygen2	FM	Text	55
+oxygen2	FO	Map	32
+oxygen2	FO	Map	189
+oxygen2	FO	Map	5
+oxygen2	shape_FO	Map	3
+oxygen2	drag_FO	Map	124
+oxygen2	shape_FO	Map	3
+oxygen2	FO	Map	2
+oxygen2	FM	Text	5
+oxygen2	FM	Text	2
+oxygen2	LM	Map	136
+oxygen2	momentum_LM	Map	85
+oxygen2	Speed_LM	Map	120
+oxygen2	Velocity_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen2	Seth Marti	physics
+
+Group	Node	Source	Staying Time(Sec)
+oxygen2	FM	Text	6
+oxygen2	LM	Map	64
+oxygen2	moment of inertia	NaviBar	3
+oxygen2	moment of inertia	Map	1
+oxygen2	moment of inertia	Map	1
+oxygen2	moment of inertia	Map	3
+oxygen2	moment of inertia	Map	3
+oxygen2	moment of inertia	NaviBar	1
+oxygen2	LM	Map	3
+oxygen2	FM	Text	8
+oxygen2	FM	Text	4
+oxygen2	LM	Map	9
+oxygen2	momentum_LM	Map	97
+oxygen2	Newtons 1st law_LM	Text	13
+oxygen2	moment of inertia	NaviBar	10
+oxygen2	moment of inertia	Map	2
+oxygen2	moment of inertia	NaviBar	2
+oxygen2	Newtons 1st law_LM	Text	3
+oxygen2	force_LM	Text	5
+oxygen2	Newtons 1st law_LM	Text	4
+oxygen2	FM	Text	5
+oxygen2	LM	Map	6
+oxygen2	momentum_LM	Map	476
+oxygen2	mass_LM	Map	10
+oxygen2	kinetic energy_LM	Map	5
+oxygen2	energy_LM	Map	7
+oxygen2	kinetic energy_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton2	jacob ohnesorge	momentum
+
+Group	Node	Source	Staying Time(Sec)
+krypton2	FM	Text	19
+krypton2	momentum	NaviBar	55
+krypton2	momentum_LM	Map	113
+krypton2	mass_LM	Text	5
+krypton2	Newtons 2nd law_LM	Map	1
+krypton2	acceleration_LM	Map	2
+krypton2	force_LM	Map	1
+krypton2	acceleration_LM	Map	3
+krypton2	gravity_LM	Map	2
+krypton2	acceleration_LM	Map	1
+krypton2	Newtons 1st law_LM	Map	3
+krypton2	Newtons laws_LM	Map	30
+krypton2	LM	NaviBar	3
+krypton2	work_LM	Map	6
+krypton2	LM	NaviBar	2
+krypton2	Newtons laws_LM	Map	1
+krypton2	LM	NaviBar	7
+krypton2	Newtons laws_LM	Map	4
+krypton2	Newtons 1st law_LM	Map	1
+krypton2	acceleration_LM	Map	1
+krypton2	gravity_LM	Map	1
+krypton2	acceleration_LM	Map	27
+krypton2	force_LM	Map	27
+krypton2	force	NaviBar	14
+krypton2	LM	NaviBar	70
+krypton2	mass_LM	Map	18
+krypton2	momentum_LM	Map	233
+krypton2	acceleration_LM	Map	1
+krypton2	Speed_LM	Map	2
+krypton2	acceleration_LM	Map	1
+krypton2	force_LM	Map	1
+krypton2	force_LM	Map	1
+krypton2	acceleration_LM	Map	1
+krypton2	gravity_LM	Map	2
+krypton2	Newtons 2nd law_LM	Map	1
+krypton2	gravity_LM	Map	1
+krypton2	Newtons 2nd law_LM	Map	1
+krypton2	Newtons 2nd law_LM	Map	3
+krypton2	normal force_LM	Map	3
+krypton2	normal force_LM	Map	3
+krypton2	normal force_LM	Map	1
+krypton2	normal force_LM	Map	1
+krypton2	force_LM	Map	3
+krypton2	force_LM	Map	3
+krypton2	gravity_LM	Map	1
+krypton2	friction_LM	Map	1
+krypton2	Newtons 2nd law_LM	Map	1
+krypton2	Newtons 2nd law_LM	Map	1
+krypton2	friction_LM	Map	2
+krypton2	kinetic energy_LM	Map	2
+krypton2	Velocity_LM	Map	1
+krypton2	kinetic energy_LM	Map	2
+krypton2	Velocity_LM	Map	2
+krypton2	kinetic energy_LM	Map	1
+krypton2	Velocity_LM	Map	2
+krypton2	Speed_LM	Map	2
+krypton2	momentum_LM	Map	1
+krypton2	Newtons 1st law_LM	Map	1
+krypton2	momentum_LM	Map	1
+krypton2	Newtons 1st law_LM	Map	3
+krypton2	Newtons 3rd law_LM	Map	1
+krypton2	Newtons 2nd law_LM	Map	4
+krypton2	momentum_LM	Map	6
+krypton2	mass_LM	Map	3
+krypton2	Speed_LM	Map	2
+krypton2	energy_LM	Map	18
+krypton2	potential energy_LM	Map	4
+krypton2	work_LM	Map	2
+krypton2	friction_LM	Map	2
+krypton2	kinetic energy_LM	Map	1
+krypton2	Velocity_LM	Map	3
+krypton2	force_LM	Map	2
+krypton2	Velocity_LM	Map	1
+krypton2	acceleration_LM	Map	2
+krypton2	mass_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton2	mattie herbrand	fources and motion
+
+Group	Node	Source	Staying Time(Sec)
+krypton2	FM	Text	6
+krypton2	LM	Map	21
+krypton2	Newtons 1st law_LM	Map	36
+krypton2	force_LM	Text	7
+krypton2	Newtons 2nd law_LM	Map	3
+krypton2	Newtons 1st law_LM	Map	166
+krypton2	Newtons 2nd law_LM	Map	179
+krypton2	Newtons 3rd law_LM	Map	171
+krypton2	Newtons 3rd law_LM	Map	3
+krypton2	Newtons 1st law_LM	Map	125
+krypton2	Velocity_LM	Map	13
+krypton2	Newtons 1st law_LM	Map	2
+krypton2	Newtons 3rd law_LM	Map	1
+krypton2	Newtons 2nd law_LM	Map	2
+krypton2	Newtons 1st law_LM	Map	1
+krypton2	Newtons 2nd law_LM	Map	1
+krypton2	force_LM	Text	3
+krypton2	FM	Text	5
+krypton2	LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc2	Robert	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+zinc2	FM	Text	10
+zinc2	LM	Map	77
+zinc2	momentum_LM	Map	166
+zinc2	Newtons 1st law_LM	Text	124
+zinc2	Newtons 2nd law_LM	Map	4
+zinc2	normal force_LM	Map	4
+zinc2	gravity_LM	Map	5
+zinc2	Newtons 2nd law_LM	Map	5
+zinc2	Velocity_LM	Map	5
+zinc2	Speed_LM	Map	8
+zinc2	energy_LM	Map	7
+zinc2	mass_LM	Map	13
+zinc2	force_LM	Map	4
+zinc2	Newtons 2nd law_LM	Map	102
+zinc2	momentum_LM	Map	16
+zinc2	Newtons 1st law_LM	Map	10
+zinc2	acceleration_LM	Map	152
+zinc2	gravity_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton2	olivia tjugum	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+krypton2	FM	Text	2
+krypton2	FO	Map	1
+krypton2	momentum_FO	Map	3
+krypton2	Velocity_FO	Map	4
+krypton2	acceleration_FO	Map	2
+krypton2	gravity_FO	Map	1
+krypton2	force_FO	Map	2
+krypton2	Newtons 2nd law_FO	Text	24
+krypton2	Newtons laws_FO	Map	4
+krypton2	Newtons 1st law_FO	Map	24
+krypton2	Newtons laws_FO	Map	2
+krypton2	Newtons 3rd law_FO	Map	6
+krypton2	Newtons laws_FO	Map	2
+krypton2	Newtons 1st law_FO	Text	50
+krypton2	Velocity_FO	Map	7
+krypton2	Speed_FO	Map	27
+krypton2	kinetic energy_FO	Map	22
+krypton2	mass_FO	Map	66
+krypton2	drag_FO	Map	57
+krypton2	impulse_FO	Map	15
+krypton2	Velocity_FO	Map	2
+krypton2	Newtons 1st law_FO	Map	3
+krypton2	Newtons 1st law_FO	Map	3
+krypton2	Velocity_FO	Map	2
+krypton2	acceleration_FO	Map	11
+krypton2	acceleration_FO	Map	11
+krypton2	Newtons 2nd law_FO	Map	2
+krypton2	Newtons laws_FO	Map	44
+krypton2	Newtons 1st law_FO	Map	70
+krypton2	Newtons laws_FO	Map	1
+krypton2	Newtons laws_FO	Map	1
+krypton2	Newtons 2nd law_FO	Map	114
+krypton2	Newtons 2nd law_FO	Map	1
+krypton2	Newtons 2nd law_FO	Map	1
+krypton2	Newtons laws_FO	Map	2
+krypton2	Newtons 3rd law_FO	Map	43
+krypton2	Newtons 3rd law_FO	Map	43
+krypton2	Newtons laws_FO	Map	3
+krypton2	Newtons 2nd law_FO	Map	3
+krypton2	gravity_FO	Map	N/A

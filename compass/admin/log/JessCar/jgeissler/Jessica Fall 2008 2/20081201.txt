@@ -1,0 +1,51 @@
+
+
+
+User	Leader	Question
+neon2	N/A	N/A
+
+Group	Node	Source	Staying Time(Sec)
+neon2	FM	Text	55
+neon2	LM	Map	10
+neon2	moment of inertia	NaviBar	2
+neon2	moment of inertia	Map	3
+neon2	moment of inertia	Map	1
+neon2	moment of inertia	Map	1
+neon2	moment of inertia	Map	1
+neon2	moment of inertia	Map	1
+neon2	moment of inertia	Map	1
+neon2	moment of inertia	Map	1
+neon2	moment of inertia	Map	13
+neon2	moment of inertia	NaviBar	6
+neon2	moment of inertia	Map	4
+neon2	moment of inertia	NaviBar	1
+neon2	LM	Map	12
+neon2	FM	Text	9
+neon2	FM	Text	3
+neon2	LM	Map	14
+neon2	moment of inertia	NaviBar	5
+neon2	LM	Map	17
+neon2	FM	Text	5
+neon2	FM	Text	11
+neon2	CM	Map	12
+neon2	potential energy_CM	Map	7
+neon2	CM	Map	1
+neon2	FM	Text	15
+neon2	FM	Text	2
+neon2	LM	Map	3
+neon2	Speed_LM	Map	4
+neon2	LM	Map	7
+neon2	FM	Text	3
+neon2	FM	Text	1
+neon2	LM	Map	8
+neon2	momentum_LM	Map	135
+neon2	Velocity_LM	Map	42
+neon2	momentum_LM	Map	7
+neon2	LM	Map	33
+neon2	acceleration_LM	Map	30
+neon2	Newtons 1st law_LM	Map	37
+neon2	Newtons laws_LM	Map	37
+neon2	Newtons 2nd law_LM	Text	23
+neon2	mass_LM	Map	50
+neon2	force_LM	Map	9
+neon2	mass_LM	Map	N/A

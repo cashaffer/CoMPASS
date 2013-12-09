@@ -1,0 +1,396 @@
+argon3	FM
+argon3	LM
+argon3	Newtons laws_LM
+argon3	Newtons 3rd law_LM
+argon3	Newtons laws_LM
+argon3	Newtons 2nd law_LM
+argon3	mass_LM
+argon3	Speed_LM
+argon3	mass_LM
+argon3	normal force_LM
+argon3	mass_LM
+argon3	Speed_LM
+argon3	kinetic energy_LM
+argon3	potential energy_LM
+argon3	Newtons 2nd law_LM
+argon3	LM
+argon3	Velocity_LM
+argon3	LM
+argon3	friction_LM
+argon3	LM
+argon3	acceleration_LM
+argon3	FM
+argon3	FO
+argon3	kinetic energy_FO
+argon3	FO
+argon3	FM
+argon3	LM
+argon3	acceleration_LM
+argon3	LM
+argon3	kinetic energy_LM
+argon3	Speed_LM
+argon3	kinetic energy_LM
+argon3	kinetic energy
+argon3	kinetic energy_LM
+argon3	mass_LM
+argon3	friction_LM
+argon3	friction
+argon3	friction_LM
+argon3	LM
+argon3	potential energy_LM
+argon3	energy_LM
+argon3	potential energy_LM
+argon3	work_LM
+argon3	force_LM
+argon3	LM
+argon3	gravity_LM
+argon3	LM
+argon3	FO
+argon3	LM
+argon3	Newtons 3rd law_LM
+argon3	LM
+argon3	Speed_LM
+argon3	LM
+argon3	gravity_LM
+argon3	LM
+argon3	mass_LM
+argon3	force_LM
+argon3	acceleration_LM
+argon3	Velocity_LM
+argon3	Newtons 1st law_LM
+argon3	LM
+argon3	FM
+argon3	LM
+argon3	Newtons 2nd law_LM
+argon3	FM
+argon3	LM
+argon3	Newtons 3rd law_LM
+argon3	FM
+argon3	LM
+argon3	force_LM
+argon3	gravity_LM
+argon3	force_LM
+argon3	work_LM
+argon3	force_LM
+argon3	friction_LM
+argon3	force_LM
+argon3	normal force_LM
+argon3	force_LM
+argon3	LM
+argon3	Speed_LM
+argon3	FM
+argon3	LM
+argon3	potential energy_LM
+argon3	LM
+argon3	acceleration_LM
+sodium3	FM
+sodium3	FO
+sodium3	FM
+sodium3	FO
+oxygen3	FM
+oxygen3	CM
+oxygen3	FO
+oxygen3	LM
+oxygen3	potential energy_LM
+oxygen3	energy_LM
+oxygen3	Speed_LM
+oxygen3	acceleration_LM
+oxygen3	friction_LM
+oxygen3	gravity_LM
+oxygen3	work_LM
+oxygen3	normal force_LM
+oxygen3	Newtons 3rd law_LM
+oxygen3	Newtons laws_LM
+oxygen3	Newtons 1st law_LM
+oxygen3	Newtons 2nd law_LM
+oxygen3	FM
+oxygen3	LM
+oxygen3	potential energy_LM
+oxygen3	FO
+oxygen3	LM
+oxygen3	Speed_LM
+oxygen3	LM
+oxygen3	CM
+oxygen3	LM
+oxygen3	Velocity_LM
+oxygen3	LM
+oxygen3	work_LM
+oxygen3	LM
+oxygen3	acceleration_LM
+oxygen3	LM
+oxygen3	energy_LM
+oxygen3	LM
+oxygen3	force_LM
+oxygen3	LM
+oxygen3	friction_LM
+oxygen3	Newtons laws
+oxygen3	Newtons laws_LM
+oxygen3	Newtons 2nd law_LM
+oxygen3	Newtons laws
+oxygen3	Newtons laws_CM
+oxygen3	Newtons laws
+oxygen3	Newtons laws_LM
+oxygen3	Newtons 2nd law_LM
+oxygen3	Newtons laws
+oxygen3	Newtons laws_FO
+oxygen3	Newtons 3rd law_FO
+oxygen3	Newtons laws
+oxygen3	Newtons laws_CM
+oxygen3	CM
+oxygen3	LM
+oxygen3	friction_LM
+oxygen3	LM
+oxygen3	gravity_LM
+oxygen3	LM
+oxygen3	kinetic energy_LM
+zinc3	FM
+zinc3	FO
+zinc3	Newtons laws_FO
+zinc3	Newtons 1st law_FO
+zinc3	Newtons 2nd law_FO
+zinc3	Newtons 3rd law_FO
+zinc3	force_FO
+zinc3	gravity_FO
+zinc3	mass_FO
+zinc3	LM
+zinc3	acceleration_LM
+zinc3	normal force_LM
+zinc3	Newtons 3rd law_LM
+zinc3	Newtons laws_LM
+zinc3	force_LM
+zinc3	gravity_LM
+zinc3	work_LM
+zinc3	potential energy_LM
+zinc3	kinetic energy_LM
+zinc3	momentum_LM
+zinc3	Velocity_LM
+zinc3	Newtons laws_LM
+zinc3	Newtons 3rd law_LM
+zinc3	Newtons laws_LM
+zinc3	mass_LM
+zinc3	Velocity_LM
+zinc3	force_LM
+zinc3	acceleration_LM
+zinc3	gravity_LM
+zinc3	acceleration_LM
+helium3	FM
+helium3	LM
+helium3	Newtons 1st law_LM
+helium3	Newtons 2nd law_LM
+helium3	Newtons 1st law_LM
+helium3	LM
+helium3	acceleration_LM
+helium3	work_LM
+helium3	potential energy_LM
+helium3	kinetic energy_LM
+sodium3	FM
+sodium3	FO
+sodium3	FM
+sodium3	LM
+sodium3	Newtons laws_LM
+sodium3	Newtons 1st law_LM
+sodium3	acceleration_LM
+sodium3	Newtons 2nd law_LM
+sodium3	force_LM
+sodium3	gravity_LM
+sodium3	normal force_LM
+sodium3	Newtons 3rd law_LM
+sodium3	Newtons laws_LM
+sodium3	normal force_LM
+sodium3	gravity_LM
+sodium3	friction_LM
+sodium3	friction
+sodium3	friction_LM
+sodium3	mass_LM
+sodium3	FM
+sodium3	LM
+sodium3	Newtons laws_LM
+sodium3	Newtons 1st law_LM
+sodium3	Newtons laws_LM
+sodium3	Newtons 2nd law_LM
+sodium3	Newtons laws_LM
+sodium3	LM
+sodium3	FM
+sodium3	LM
+sodium3	Newtons 3rd law_LM
+sodium3	LM
+sodium3	FM
+sodium3	LM
+sodium3	Newtons laws_LM
+sodium3	LM
+sodium3	FM
+sodium3	LM
+sodium3	momentum_LM
+sodium3	mass_LM
+sodium3	Velocity_LM
+sodium3	Speed_LM
+sodium3	acceleration_LM
+sodium3	Speed_LM
+sodium3	Velocity_LM
+sodium3	mass_LM
+sodium3	force_LM
+sodium3	mass_LM
+sodium3	Newtons laws_LM
+sodium3	normal force_LM
+sodium3	gravity_LM
+sodium3	friction_LM
+sodium3	work_LM
+sodium3	gravity_LM
+sodium3	work_LM
+argon3	FM
+argon3	LM
+argon3	potential energy_LM
+argon3	kinetic energy_LM
+argon3	Speed_LM
+argon3	Velocity_LM
+argon3	Newtons 1st law_LM
+argon3	Newtons 2nd law_LM
+argon3	Newtons 3rd law_LM
+argon3	force_LM
+argon3	work_LM
+argon3	acceleration_LM
+argon3	mass_LM
+argon3	Speed_LM
+argon3	momentum_LM
+argon3	friction_LM
+argon3	mass_LM
+argon3	acceleration_LM
+argon3	kinetic energy_LM
+argon3	FM
+argon3	LM
+argon3	work_LM
+oxygen3	FM
+oxygen3	FO
+oxygen3	FM
+oxygen3	LM
+oxygen3	acceleration_LM
+oxygen3	Newtons 2nd law_LM
+oxygen3	Newtons 1st law_LM
+oxygen3	Newtons 2nd law_LM
+oxygen3	Speed_LM
+oxygen3	mass_LM
+oxygen3	normal force_LM
+oxygen3	work_LM
+helium3	FM
+helium3	LM
+helium3	Newtons 1st law_LM
+helium3	Newtons 2nd law_LM
+helium3	mass_LM
+helium3	friction_LM
+helium3	force_LM
+helium3	gravity_LM
+helium3	force_LM
+helium3	gravity_LM
+helium3	acceleration_LM
+helium3	Velocity_LM
+helium3	Speed_LM
+helium3	Velocity_LM
+helium3	Speed_LM
+helium3	Velocity_LM
+helium3	acceleration_LM
+helium3	Velocity_LM
+oxygen3	FM
+oxygen3	FO
+oxygen3	LM
+oxygen3	Speed_LM
+oxygen3	LM
+oxygen3	Velocity_LM
+oxygen3	acceleration_LM
+oxygen3	LM
+oxygen3	energy_LM
+oxygen3	kinetic energy_LM
+oxygen3	LM
+oxygen3	force_LM
+oxygen3	gravity_LM
+oxygen3	friction_LM
+oxygen3	LM
+oxygen3	mass_LM
+oxygen3	Newtons 1st law_LM
+oxygen3	Newtons laws_LM
+oxygen3	Newtons 2nd law_LM
+oxygen3	Newtons 3rd law_LM
+zinc3	FM
+zinc3	LM
+zinc3	Newtons 1st law_LM
+zinc3	LM
+zinc3	FM
+zinc3	Newtons 1st law_LM
+zinc3	Newtons 1st law
+zinc3	Newtons 1st law_LM
+zinc3	acceleration_LM
+zinc3	Velocity_LM
+zinc3	Velocity
+zinc3	Velocity_LM
+zinc3	force_LM
+zinc3	gravity_LM
+zinc3	work_LM
+zinc3	Newtons 2nd law_LM
+zinc3	mass_LM
+zinc3	Speed_LM
+zinc3	energy_LM
+zinc3	force_LM
+zinc3	force
+zinc3	force_LM
+zinc3	friction_LM
+helium3	FM
+helium3	FO
+helium3	Newtons 1st law_FO
+helium3	force_FO
+helium3	Newtons laws_FO
+helium3	Newtons 1st law_FO
+helium3	Newtons laws_FO
+helium3	force_FO
+helium3	Newtons 1st law_FO
+helium3	FO
+helium3	FM
+helium3	FO
+helium3	Newtons 1st law_FO
+helium3	Newtons 2nd law_FO
+helium3	Newtons 3rd law_FO
+helium3	Newtons 2nd law_FO
+helium3	drag_FO
+zinc3	FM
+zinc3	FO
+zinc3	Newtons 1st law_FO
+zinc3	FO
+zinc3	LM
+zinc3	Newtons 2nd law_LM
+zinc3	LM
+zinc3	Newtons 3rd law_LM
+zinc3	LM
+zinc3	Speed_LM
+zinc3	Velocity_LM
+zinc3	momentum_LM
+zinc3	mass_LM
+zinc3	friction_LM
+zinc3	gravity_LM
+zinc3	acceleration_LM
+zinc3	LM
+zinc3	energy_LM
+zinc3	kinetic energy_LM
+sodium3	FM
+sodium3	LM
+sodium3	potential energy_LM
+sodium3	kinetic energy_LM
+sodium3	Speed_LM
+sodium3	Newtons 1st law_LM
+sodium3	Newtons laws_LM
+sodium3	Velocity_LM
+sodium3	Newtons 1st law_LM
+sodium3	Newtons laws_LM
+sodium3	Newtons 2nd law_LM
+sodium3	Newtons 3rd law_LM
+sodium3	force_LM
+sodium3	work_LM
+sodium3	energy_LM
+sodium3	mass_LM
+sodium3	acceleration_LM
+sodium3	friction_LM
+sodium3	gravity_LM
+sodium3	acceleration_LM
+sodium3	Velocity_LM
+sodium3	Newtons laws_LM
+sodium3	normal force_LM
+sodium3	work_LM
+sodium3	kinetic energy_LM
+sodium3	momentum_LM

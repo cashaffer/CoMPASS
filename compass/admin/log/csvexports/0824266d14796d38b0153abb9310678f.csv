@@ -1,0 +1,5 @@
+Node,Total Time,Avg Time,Proportion,Visits
+ force_P, 49, 12, 4.61, 4
+ MA_P, 93, 93, 8.75, 1
+ distance_P, 101, 51, 9.5, 2
+TOTAL,243,156,21,7

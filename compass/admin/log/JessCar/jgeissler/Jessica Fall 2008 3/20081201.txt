@@ -1,0 +1,28 @@
+
+
+
+User	Leader	Question
+silver3	blake bieri	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+silver3	FM	Text	27
+silver3	LM	Map	126
+silver3	momentum_LM	Map	56
+silver3	LM	Map	5
+silver3	mass_LM	Map	4
+silver3	momentum_LM	Map	17
+silver3	LM	NaviBar	12
+silver3	Newtons laws_LM	Map	23
+silver3	Newtons 3rd law_LM	Map	29
+silver3	Newtons laws_LM	Map	10
+silver3	Newtons laws	NaviBar	5
+silver3	Newtons laws	Map	1
+silver3	Newtons laws	Map	1
+silver3	Newtons laws	Map	3
+silver3	Newtons laws_LM	Map	4
+silver3	Newtons 1st law_LM	Map	319
+silver3	LM	NaviBar	10
+silver3	mass_LM	Map	40
+silver3	LM	NaviBar	2
+silver3	Speed_LM	Map	30
+silver3	Velocity_LM	Map	N/A

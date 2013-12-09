@@ -1,0 +1,6 @@
+Node,Total Time,Avg Time,Proportion,Visits
+ friction_IP, 11, 11, 0, 1
+ MA_IP, 58, 29, 0.02, 2
+ power_IP, 11, 11, 0, 1
+ work_IP, 41, 41, 0.01, 1
+TOTAL,121,92,0,5

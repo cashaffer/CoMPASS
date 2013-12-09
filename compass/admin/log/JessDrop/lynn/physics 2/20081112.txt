@@ -1,0 +1,30 @@
+
+
+
+User	Leader	Question
+test1	N/A	N/A
+
+Group	Node	Source	Staying Time(Sec)
+test1	FM	Text	123
+test1	LM	Map	8
+test1	force_LM	Map	184
+test1	momentum_LM	Map	5
+test1	Newtons 2nd law_LM	Map	1
+test1	Newtons 2nd law_LM	Map	1
+test1	force_LM	Map	35
+test1	force_LM	Map	200
+test1	Newtons 2nd law_LM	Map	4
+test1	Newtons 1st law_LM	Map	135
+test1	Newtons 1st law_LM	Map	4
+test1	acceleration_LM	Text	150
+test1	Newtons laws_LM	Map	2
+test1	Newtons 3rd law_LM	Map	49
+test1	Newtons 3rd law_LM	Map	1662
+test1	Newtons 2nd law_LM	Map	101
+test1	Newtons 2nd law_LM	Map	60
+test1	Newtons 2nd law_LM	Map	3
+test1	Newtons 2nd law_LM	Map	1
+test1	Newtons 2nd law_LM	Map	86
+test1	Newtons 2nd law_LM	Map	71
+test1	Newtons 2nd law_LM	Map	20
+test1	mass_LM	Text	N/A

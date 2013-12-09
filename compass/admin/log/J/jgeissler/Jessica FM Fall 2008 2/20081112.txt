@@ -1,0 +1,937 @@
+oxygen2	FM
+oxygen2	LM
+oxygen2	Newtons 2nd law_LM
+oxygen2	LM
+oxygen2	Newtons 1st law_LM
+oxygen2	Newtons laws_LM
+oxygen2	Newtons 2nd law_LM
+oxygen2	Newtons 3rd law_LM
+oxygen2	LM
+oxygen2	normal force_LM
+oxygen2	LM
+oxygen2	potential energy_LM
+oxygen2	LM
+oxygen2	Speed_LM
+oxygen2	LM
+oxygen2	Velocity_LM
+oxygen2	LM
+oxygen2	work_LM
+oxygen2	LM
+oxygen2	acceleration_LM
+oxygen2	force_LM
+oxygen2	LM
+oxygen2	work_LM
+oxygen2	LM
+oxygen2	acceleration_LM
+oxygen2	LM
+oxygen2	normal force_LM
+oxygen2	LM
+oxygen2	Speed_LM
+oxygen2	LM
+oxygen2	Newtons laws_LM
+oxygen2	LM
+oxygen2	acceleration_LM
+oxygen2	LM
+oxygen2	normal force_LM
+oxygen2	LM
+oxygen2	normal force_LM
+oxygen2	LM
+oxygen2	Newtons 2nd law_LM
+oxygen2	LM
+oxygen2	acceleration_LM
+oxygen2	LM
+oxygen2	Newtons 2nd law_LM
+oxygen2	LM
+oxygen2	acceleration_LM
+oxygen2	LM
+oxygen2	acceleration_LM
+oxygen2	LM
+oxygen2	energy_LM
+oxygen2	LM
+oxygen2	energy_LM
+oxygen2	LM
+oxygen2	force_LM
+oxygen2	LM
+oxygen2	friction_LM
+oxygen2	Newtons 2nd law_LM
+oxygen2	Newtons 3rd law_LM
+zinc2	FM
+zinc2	LM
+zinc2	Speed_LM
+zinc2	LM
+zinc2	FM
+zinc2	LM
+zinc2	Speed_LM
+zinc2	Velocity_LM
+zinc2	momentum_LM
+zinc2	mass_LM
+zinc2	LM
+zinc2	potential energy_LM
+zinc2	energy_LM
+zinc2	work_LM
+zinc2	LM
+zinc2	acceleration_LM
+sodium2	FM
+sodium2	LM
+sodium2	acceleration_LM
+sodium2	Newtons 1st law_LM
+sodium2	Newtons 2nd law_LM
+sodium2	Newtons 3rd law_LM
+sodium2	force_LM
+sodium2	force_CM
+sodium2	Newtons 2nd law_CM
+sodium2	gravity_CM
+sodium2	gravity_FO
+sodium2	force_FO
+sodium2	drag_FO
+sodium2	acceleration_FO
+sodium2	acceleration
+sodium2	acceleration_FO
+sodium2	force_FO
+sodium2	work_FO
+iodine2	FM
+iodine2	LM
+iodine2	Speed_LM
+iodine2	Velocity_LM
+iodine2	acceleration_LM
+iodine2	Newtons 2nd law_LM
+iodine2	normal force_LM
+iodine2	Newtons 2nd law_LM
+iodine2	Newtons 1st law_LM
+iodine2	Newtons 2nd law_LM
+iodine2	Newtons 3rd law_LM
+sodium2	FM
+sodium2	LM
+sodium2	Speed_LM
+sodium2	LM
+sodium2	kinetic energy_LM
+sodium2	potential energy_LM
+sodium2	kinetic energy_LM
+sodium2	LM
+sodium2	CM
+sodium2	LM
+sodium2	Newtons laws_LM
+sodium2	acceleration_LM
+sodium2	gravity_LM
+sodium2	acceleration_LM
+sodium2	gravity_LM
+sodium2	friction_LM
+sodium2	acceleration_LM
+sodium2	gravity_LM
+sodium2	friction_LM
+sodium2	work_LM
+sodium2	potential energy_LM
+sodium2	FO
+sodium2	LM
+sodium2	mass_LM
+sodium2	Velocity_LM
+sodium2	Velocity
+sodium2	Velocity_LM
+oxygen2	FM
+oxygen2	CM
+oxygen2	FM
+oxygen2	LM
+oxygen2	FO
+oxygen2	LM
+oxygen2	Speed_LM
+oxygen2	Velocity_LM
+oxygen2	acceleration_LM
+oxygen2	Newtons laws_LM
+oxygen2	LM
+oxygen2	acceleration_LM
+oxygen2	LM
+oxygen2	momentum_LM
+oxygen2	LM
+oxygen2	normal force_LM
+oxygen2	LM
+oxygen2	CM
+oxygen2	acceleration_LM
+oxygen2	LM
+zinc2	FM
+zinc2	LM
+zinc2	Newtons 1st law_LM
+zinc2	Velocity_LM
+zinc2	acceleration_LM
+zinc2	gravity_LM
+zinc2	Newtons 2nd law_LM
+zinc2	Newtons laws_LM
+zinc2	Newtons 1st law_LM
+zinc2	Newtons 3rd law_LM
+zinc2	normal force_LM
+zinc2	work_LM
+zinc2	potential energy_LM
+zinc2	kinetic energy_LM
+zinc2	mass_LM
+zinc2	Newtons 2nd law_LM
+zinc2	momentum_LM
+zinc2	Newtons 1st law_LM
+zinc2	Newtons 2nd law_LM
+zinc2	normal force_LM
+zinc2	force_LM
+zinc2	friction_LM
+zinc2	force_LM
+zinc2	Velocity_LM
+zinc2	Speed_LM
+zinc2	Velocity_LM
+zinc2	force_LM
+zinc2	normal force_LM
+zinc2	force_LM
+zinc2	gravity_LM
+zinc2	acceleration_LM
+zinc2	mass_LM
+zinc2	momentum_LM
+zinc2	mass_LM
+zinc2	Speed_LM
+zinc2	LM
+zinc2	momentum_LM
+zinc2	mass_LM
+zinc2	momentum_LM
+zinc2	Velocity_LM
+zinc2	acceleration_LM
+zinc2	gravity_LM
+zinc2	acceleration_LM
+zinc2	force_LM
+zinc2	friction_LM
+zinc2	momentum_LM
+zinc2	Newtons 2nd law_LM
+zinc2	work_LM
+helium2	FM
+helium2	LM
+helium2	Newtons 1st law_LM
+helium2	Newtons laws_LM
+helium2	Newtons 3rd law_LM
+helium2	LM
+helium2	acceleration_LM
+helium2	force_LM
+helium2	LM
+helium2	kinetic energy_LM
+helium2	LM
+helium2	gravity_LM
+helium2	LM
+helium2	momentum_LM
+helium2	friction_LM
+helium2	LM
+helium2	Speed_LM
+helium2	Speed_FO
+oxygen2	FM
+oxygen2	FO
+oxygen2	FM
+oxygen2	FO
+oxygen2	mass_FO
+oxygen2	Newtons 1st law_FO
+oxygen2	FM
+oxygen2	LM
+oxygen2	mass_LM
+oxygen2	LM
+oxygen2	FM
+oxygen2	momentum_LM
+oxygen2	FM
+oxygen2	Speed_LM
+oxygen2	acceleration_LM
+oxygen2	Speed_LM
+oxygen2	FM
+oxygen2	normal force_LM
+oxygen2	Newtons 2nd law_LM
+oxygen2	normal force_LM
+oxygen2	FM
+oxygen2	normal force_LM
+oxygen2	FM
+oxygen2	CM
+oxygen2	G forces_CM
+oxygen2	LM
+oxygen2	mass_LM
+krypton2	FM
+krypton2	LM
+krypton2	FM
+krypton2	LM
+krypton2	acceleration_LM
+krypton2	LM
+krypton2	FM
+krypton2	Velocity_LM
+krypton2	momentum_LM
+krypton2	Velocity_LM
+krypton2	FM
+krypton2	LM
+krypton2	mass_LM
+krypton2	Newtons 1st law_LM
+krypton2	mass_LM
+krypton2	kinetic energy_LM
+krypton2	potential energy_LM
+krypton2	energy_LM
+krypton2	work_LM
+krypton2	force_LM
+krypton2	Newtons 2nd law_LM
+krypton2	force_LM
+krypton2	friction_LM
+krypton2	force_LM
+krypton2	work_LM
+krypton2	energy_LM
+krypton2	potential energy_LM
+krypton2	work_LM
+krypton2	gravity_LM
+krypton2	Newtons 2nd law_LM
+krypton2	momentum_LM
+krypton2	acceleration_LM
+krypton2	normal force_LM
+krypton2	work_LM
+krypton2	friction_LM
+krypton2	kinetic energy_LM
+krypton2	Speed_LM
+krypton2	kinetic energy_LM
+krypton2	friction_LM
+krypton2	acceleration_LM
+krypton2	force_LM
+krypton2	Velocity_LM
+krypton2	mass_LM
+krypton2	friction_LM
+krypton2	mass_LM
+krypton2	kinetic energy_LM
+krypton2	Speed_LM
+krypton2	energy_LM
+krypton2	work_LM
+krypton2	gravity_LM
+krypton2	normal force_LM
+krypton2	gravity_LM
+krypton2	normal force_LM
+krypton2	work_LM
+krypton2	acceleration_LM
+krypton2	friction_LM
+krypton2	kinetic energy_LM
+krypton2	work_LM
+krypton2	potential energy_LM
+krypton2	potential energy_CM
+krypton2	energy_CM
+krypton2	energy_LM
+krypton2	energy_CM
+krypton2	potential energy_CM
+krypton2	potential energy_LM
+krypton2	work_LM
+krypton2	kinetic energy_LM
+krypton2	friction_LM
+krypton2	acceleration_LM
+krypton2	work_LM
+krypton2	normal force_LM
+krypton2	gravity_LM
+krypton2	normal force_LM
+krypton2	gravity_LM
+krypton2	work_LM
+krypton2	energy_LM
+krypton2	Speed_LM
+krypton2	kinetic energy_LM
+krypton2	mass_LM
+krypton2	friction_LM
+krypton2	mass_LM
+krypton2	Velocity_LM
+krypton2	force_LM
+krypton2	acceleration_LM
+krypton2	friction_LM
+krypton2	kinetic energy_LM
+krypton2	Speed_LM
+krypton2	kinetic energy_LM
+krypton2	friction_LM
+krypton2	work_LM
+krypton2	normal force_LM
+krypton2	acceleration_LM
+krypton2	momentum_LM
+krypton2	Newtons 2nd law_LM
+krypton2	gravity_LM
+krypton2	work_LM
+krypton2	potential energy_LM
+krypton2	energy_LM
+krypton2	work_LM
+krypton2	force_LM
+krypton2	friction_LM
+krypton2	force_LM
+krypton2	Newtons 2nd law_LM
+krypton2	force_LM
+krypton2	work_LM
+krypton2	energy_LM
+krypton2	potential energy_LM
+krypton2	kinetic energy_LM
+krypton2	mass_LM
+krypton2	FM
+helium2	FM
+helium2	LM
+helium2	Newtons 3rd law_LM
+helium2	LM
+helium2	FM
+helium2	normal force_LM
+helium2	LM
+helium2	Speed_LM
+helium2	LM
+helium2	energy_LM
+helium2	LM
+helium2	force_LM
+helium2	friction_LM
+helium2	Newtons 1st law_LM
+helium2	Newtons 1st law
+helium2	Newtons 1st law_LM
+helium2	LM
+helium2	Newtons 2nd law_LM
+helium2	LM
+helium2	Newtons 3rd law_LM
+helium2	LM
+helium2	Newtons 1st law_LM
+helium2	acceleration_LM
+helium2	acceleration
+helium2	acceleration_LM
+helium2	acceleration
+helium2	acceleration_CM
+helium2	mass_CM
+helium2	energy_CM
+helium2	Speed_CM
+helium2	acceleration_CM
+helium2	Speed_CM
+helium2	acceleration_CM
+krypton2	FM
+krypton2	CM
+krypton2	energy_CM
+krypton2	mass_CM
+krypton2	Newtons 2nd law_CM
+krypton2	Newtons laws_CM
+krypton2	Velocity_CM
+krypton2	Speed_CM
+krypton2	energy_CM
+krypton2	potential energy_CM
+krypton2	kinetic energy_CM
+krypton2	mass_CM
+krypton2	Newtons 2nd law_CM
+krypton2	mass_CM
+krypton2	force_CM
+krypton2	gravity_CM
+krypton2	force_CM
+krypton2	acceleration_CM
+krypton2	Velocity_CM
+krypton2	Newtons 1st law_CM
+krypton2	acceleration_CM
+krypton2	Newtons 2nd law_CM
+krypton2	mass_CM
+krypton2	kinetic energy_CM
+krypton2	mass_CM
+krypton2	kinetic energy_CM
+krypton2	mass_CM
+krypton2	energy_CM
+krypton2	mass_CM
+krypton2	Speed_CM
+krypton2	mass_CM
+krypton2	Speed_CM
+krypton2	Velocity_CM
+krypton2	force_CM
+krypton2	acceleration_CM
+krypton2	Velocity_CM
+krypton2	Newtons 1st law_CM
+krypton2	acceleration_CM
+krypton2	gravity_CM
+krypton2	Newtons 3rd law_CM
+krypton2	Newtons 1st law_CM
+krypton2	Speed_CM
+krypton2	Newtons 1st law_CM
+krypton2	G forces_CM
+krypton2	acceleration_CM
+krypton2	Newtons 1st law_CM
+krypton2	Newtons 3rd law_CM
+krypton2	gravity_CM
+krypton2	force_CM
+krypton2	mass_CM
+krypton2	Speed_CM
+krypton2	kinetic energy_CM
+krypton2	kinetic energy_FO
+krypton2	kinetic energy_LM
+krypton2	kinetic energy_FO
+krypton2	kinetic energy_CM
+krypton2	kinetic energy_FO
+krypton2	kinetic energy_CM
+krypton2	kinetic energy_FO
+krypton2	kinetic energy_CM
+krypton2	kinetic energy_FO
+krypton2	kinetic energy_CM
+krypton2	kinetic energy_FO
+krypton2	kinetic energy_LM
+krypton2	kinetic energy_FO
+krypton2	kinetic energy_CM
+krypton2	Speed_CM
+krypton2	mass_CM
+krypton2	force_CM
+krypton2	gravity_CM
+krypton2	Newtons 3rd law_CM
+krypton2	Newtons 1st law_CM
+krypton2	acceleration_CM
+krypton2	G forces_CM
+krypton2	Newtons 1st law_CM
+krypton2	Speed_CM
+krypton2	Newtons 1st law_CM
+krypton2	Newtons 3rd law_CM
+krypton2	gravity_CM
+krypton2	acceleration_CM
+krypton2	Newtons 1st law_CM
+krypton2	Velocity_CM
+krypton2	acceleration_CM
+krypton2	force_CM
+krypton2	Velocity_CM
+krypton2	Speed_CM
+krypton2	mass_CM
+krypton2	Speed_CM
+krypton2	mass_CM
+krypton2	energy_CM
+krypton2	mass_CM
+krypton2	kinetic energy_CM
+krypton2	mass_CM
+krypton2	kinetic energy_CM
+krypton2	mass_CM
+krypton2	Newtons 2nd law_CM
+krypton2	acceleration_CM
+krypton2	Newtons 1st law_CM
+krypton2	Velocity_CM
+krypton2	acceleration_CM
+krypton2	force_CM
+krypton2	gravity_CM
+krypton2	force_CM
+krypton2	mass_CM
+krypton2	Newtons 2nd law_CM
+krypton2	mass_CM
+krypton2	kinetic energy_CM
+krypton2	potential energy_CM
+krypton2	energy_CM
+krypton2	Speed_CM
+krypton2	Velocity_CM
+krypton2	Newtons laws_CM
+krypton2	Newtons 2nd law_CM
+krypton2	mass_CM
+krypton2	energy_CM
+krypton2	CM
+krypton2	FM
+krypton2	LM
+krypton2	acceleration_LM
+krypton2	friction_LM
+krypton2	force_LM
+krypton2	Velocity_LM
+krypton2	force_LM
+krypton2	normal force_LM
+krypton2	work_LM
+krypton2	potential energy_LM
+krypton2	energy_LM
+krypton2	work_LM
+krypton2	force_LM
+krypton2	friction_LM
+krypton2	mass_LM
+krypton2	kinetic energy_LM
+krypton2	Newtons laws_LM
+krypton2	potential energy_LM
+krypton2	energy_LM
+krypton2	mass_LM
+krypton2	force_LM
+krypton2	gravity_LM
+krypton2	Newtons 2nd law_LM
+krypton2	Velocity_LM
+krypton2	Speed_LM
+krypton2	energy_LM
+krypton2	potential energy_LM
+krypton2	energy_LM
+krypton2	mass_LM
+krypton2	force_LM
+krypton2	gravity_LM
+krypton2	force_LM
+krypton2	Velocity_LM
+krypton2	force_LM
+krypton2	energy_LM
+sodium2	FM
+sodium2	LM
+sodium2	Newtons 1st law_LM
+sodium2	LM
+sodium2	Newtons 1st law_LM
+sodium2	LM
+sodium2	FM
+sodium2	LM
+sodium2	Newtons 2nd law_LM
+sodium2	Newtons laws_LM
+sodium2	Newtons 3rd law_LM
+sodium2	normal force_LM
+sodium2	force_LM
+sodium2	friction_LM
+sodium2	mass_LM
+sodium2	kinetic energy_LM
+sodium2	mass_LM
+sodium2	friction_LM
+sodium2	force_LM
+sodium2	energy_LM
+sodium2	work_LM
+sodium2	force_LM
+sodium2	gravity_LM
+sodium2	force_LM
+sodium2	acceleration_LM
+sodium2	Velocity_LM
+sodium2	acceleration_LM
+sodium2	force_LM
+sodium2	gravity_LM
+sodium2	force_LM
+sodium2	acceleration_LM
+sodium2	Velocity_LM
+sodium2	Speed_LM
+sodium2	Velocity_LM
+sodium2	Speed_LM
+sodium2	kinetic energy_LM
+sodium2	mass_LM
+sodium2	momentum_LM
+sodium2	Velocity_LM
+sodium2	Speed_LM
+sodium2	Velocity_LM
+sodium2	acceleration_LM
+sodium2	force_LM
+sodium2	work_LM
+sodium2	force_LM
+sodium2	normal force_LM
+sodium2	force_LM
+sodium2	friction_LM
+sodium2	mass_LM
+sodium2	Newtons 2nd law_LM
+sodium2	Newtons laws_LM
+sodium2	Velocity_LM
+sodium2	force_LM
+sodium2	gravity_LM
+sodium2	work_LM
+sodium2	friction_LM
+sodium2	momentum_LM
+sodium2	momentum
+sodium2	momentum_FO
+sodium2	impulse_FO
+sodium2	momentum_FO
+sodium2	impulse_FO
+sodium2	momentum_FO
+sodium2	impulse
+sodium2	impulse_FO
+oxygen2	FM
+oxygen2	FO
+oxygen2	mass_FO
+oxygen2	FO
+oxygen2	Newtons laws_FO
+oxygen2	Newtons 1st law_FO
+oxygen2	Newtons 2nd law_FO
+oxygen2	Newtons 3rd law_FO
+oxygen2	gravity_FO
+oxygen2	kinetic energy_FO
+oxygen2	work_FO
+oxygen2	drag_FO
+oxygen2	acceleration_FO
+oxygen2	force_FO
+oxygen2	momentum_FO
+oxygen2	Speed_FO
+oxygen2	momentum_FO
+oxygen2	impulse_FO
+oxygen2	momentum_FO
+oxygen2	acceleration_FO
+oxygen2	Velocity_FO
+oxygen2	Newtons 2nd law_FO
+oxygen2	gravity_FO
+oxygen2	Newtons 2nd law_FO
+oxygen2	Velocity_FO
+oxygen2	surface area_FO
+oxygen2	gravity_FO
+oxygen2	acceleration_FO
+oxygen2	mass_FO
+oxygen2	energy_FO
+oxygen2	force_FO
+oxygen2	FM
+oxygen2	FO
+oxygen2	acceleration_FO
+krypton2	FM
+krypton2	CM
+krypton2	energy_CM
+krypton2	mass_CM
+krypton2	force_CM
+krypton2	G forces_CM
+krypton2	gravity_CM
+krypton2	force_CM
+krypton2	CM
+krypton2	mass_CM
+krypton2	G forces_CM
+krypton2	mass_CM
+krypton2	G forces_CM
+krypton2	gravity_CM
+krypton2	Velocity_CM
+krypton2	Speed_CM
+krypton2	energy_CM
+krypton2	mass_CM
+krypton2	kinetic energy_CM
+krypton2	potential energy_CM
+krypton2	kinetic energy_CM
+krypton2	mass_CM
+krypton2	acceleration_CM
+zinc2	FM
+zinc2	CM
+zinc2	LM
+zinc2	Newtons 1st law_LM
+zinc2	Newtons laws_LM
+zinc2	Newtons 2nd law_LM
+zinc2	Newtons laws_LM
+zinc2	Newtons 2nd law_LM
+zinc2	Newtons laws_LM
+zinc2	Newtons 2nd law_LM
+zinc2	mass_LM
+zinc2	momentum_LM
+zinc2	mass_LM
+zinc2	Newtons 2nd law_LM
+zinc2	Newtons laws_LM
+zinc2	Newtons 2nd law_LM
+zinc2	mass_LM
+zinc2	kinetic energy_LM
+zinc2	Speed_LM
+zinc2	energy_LM
+zinc2	mass_LM
+zinc2	Newtons laws_LM
+zinc2	Velocity_LM
+zinc2	force_LM
+zinc2	Velocity_LM
+zinc2	Newtons 2nd law_LM
+zinc2	Velocity_LM
+zinc2	force_LM
+zinc2	Velocity_LM
+zinc2	Newtons 2nd law_LM
+zinc2	Velocity_LM
+zinc2	force_LM
+zinc2	Newtons laws_LM
+zinc2	Velocity_LM
+zinc2	Newtons 2nd law_LM
+zinc2	acceleration_LM
+zinc2	gravity_LM
+zinc2	work_LM
+zinc2	energy_LM
+helium2	FM
+helium2	LM
+helium2	FM
+helium2	LM
+helium2	Newtons 1st law_LM
+helium2	Velocity_LM
+helium2	Speed_LM
+helium2	FM
+helium2	FO
+helium2	Speed_FO
+helium2	CM
+helium2	G forces_CM
+helium2	CM
+helium2	FO
+helium2	surface area_FO
+helium2	FO
+helium2	Velocity_FO
+helium2	momentum_FO
+helium2	impulse_FO
+helium2	force_FO
+helium2	Newtons 2nd law_FO
+helium2	Newtons 1st law_FO
+helium2	Newtons 2nd law_FO
+helium2	Newtons 3rd law_FO
+helium2	Newtons 2nd law_FO
+helium2	mass_FO
+helium2	FO
+helium2	mass_FO
+helium2	FO
+helium2	acceleration_FO
+helium2	Newtons 3rd law_FO
+helium2	work_FO
+helium2	CM
+helium2	FO
+helium2	FM
+helium2	LM
+helium2	FO
+helium2	LM
+helium2	acceleration_LM
+helium2	force_LM
+helium2	friction_LM
+helium2	FO
+helium2	lift_FO
+helium2	FO
+helium2	Newtons laws_FO
+helium2	acceleration_FO
+helium2	potential energy_FO
+helium2	gravity_FO
+helium2	surface area_FO
+helium2	shape_FO
+helium2	CM
+helium2	FO
+zinc2	FM
+zinc2	FO
+zinc2	Newtons 1st law_FO
+zinc2	force_FO
+zinc2	Newtons 2nd law_FO
+zinc2	kinetic energy_FO
+zinc2	Newtons 2nd law_FO
+zinc2	Newtons 3rd law_FO
+zinc2	force_FO
+zinc2	acceleration_FO
+zinc2	Velocity_FO
+zinc2	Speed_FO
+zinc2	gravity_FO
+zinc2	surface area_FO
+zinc2	drag_FO
+zinc2	surface area_FO
+zinc2	shape_FO
+zinc2	lift_FO
+zinc2	lift
+zinc2	lift_FO
+zinc2	drag_FO
+zinc2	force_FO
+zinc2	FO
+zinc2	impulse_FO
+zinc2	FO
+zinc2	acceleration_FO
+zinc2	acceleration
+zinc2	acceleration_FO
+zinc2	momentum_FO
+zinc2	acceleration_FO
+zinc2	acceleration
+zinc2	acceleration_FO
+zinc2	Velocity_FO
+zinc2	kinetic energy_FO
+zinc2	kinetic energy
+zinc2	kinetic energy_CM
+zinc2	kinetic energy_FO
+zinc2	Speed_FO
+zinc2	drag_FO
+iodine2	FM
+iodine2	LM
+iodine2	FO
+iodine2	drag_FO
+iodine2	Newtons 2nd law_FO
+iodine2	Newtons 1st law_FO
+iodine2	Newtons laws_FO
+iodine2	Newtons 3rd law_FO
+iodine2	impulse_FO
+iodine2	Velocity_FO
+iodine2	acceleration_FO
+iodine2	mass_FO
+iodine2	Speed_FO
+iodine2	drag_FO
+iodine2	CM
+iodine2	acceleration_CM
+iodine2	acceleration
+iodine2	acceleration_LM
+iodine2	acceleration_CM
+iodine2	G forces_CM
+iodine2	FM
+iodine2	FO
+iodine2	shape_FO
+iodine2	FM
+iodine2	LM
+iodine2	FM
+iodine2	CM
+iodine2	G forces_CM
+iodine2	gravity_CM
+iodine2	gravity
+iodine2	FO
+iodine2	energy_FO
+sodium2	FM
+sodium2	CM
+sodium2	potential energy_CM
+sodium2	kinetic energy_CM
+sodium2	energy_CM
+sodium2	mass_CM
+sodium2	Newtons laws_CM
+sodium2	Newtons 1st law_CM
+sodium2	Newtons 2nd law_CM
+sodium2	Newtons 3rd law_CM
+sodium2	force_CM
+sodium2	G forces_CM
+sodium2	gravity_CM
+sodium2	force_CM
+iodine2	FM
+iodine2	CM
+iodine2	Speed_CM
+iodine2	acceleration_CM
+iodine2	Speed_CM
+iodine2	mass_CM
+iodine2	Newtons 1st law_CM
+iodine2	Velocity_CM
+iodine2	Speed_CM
+iodine2	CM
+iodine2	kinetic energy_CM
+iodine2	potential energy_CM
+iodine2	energy_CM
+iodine2	mass_CM
+iodine2	Speed_CM
+iodine2	energy_CM
+iodine2	mass_CM
+iodine2	force_CM
+iodine2	Newtons 2nd law_CM
+iodine2	acceleration_CM
+iodine2	Velocity_CM
+iodine2	acceleration_CM
+iodine2	G forces_CM
+iodine2	Newtons laws_CM
+iodine2	mass_CM
+iodine2	Newtons laws_CM
+iodine2	acceleration_CM
+iodine2	Newtons 1st law_CM
+iodine2	acceleration_CM
+iodine2	mass_CM
+iodine2	Speed_CM
+iodine2	energy_CM
+iodine2	mass_CM
+iodine2	Speed_CM
+iodine2	kinetic energy_CM
+iodine2	Speed_CM
+iodine2	mass_CM
+iodine2	energy_CM
+iodine2	Speed_CM
+iodine2	mass_CM
+iodine2	acceleration_CM
+iodine2	Newtons 1st law_CM
+iodine2	acceleration_CM
+iodine2	Newtons laws_CM
+iodine2	mass_CM
+iodine2	Newtons laws_CM
+iodine2	G forces_CM
+iodine2	acceleration_CM
+iodine2	Velocity_CM
+iodine2	acceleration_CM
+iodine2	Newtons 2nd law_CM
+iodine2	potential energy_CM
+iodine2	CM
+iodine2	Newtons 1st law_CM
+iodine2	FM
+helium2	FM
+helium2	LM
+helium2	mass_LM
+helium2	LM
+helium2	mass_LM
+helium2	momentum_LM
+helium2	acceleration_LM
+helium2	Speed_LM
+helium2	acceleration_LM
+helium2	gravity_LM
+helium2	acceleration_LM
+helium2	Newtons 2nd law_LM
+helium2	mass_LM
+helium2	Newtons 2nd law_LM
+helium2	acceleration_LM
+helium2	force_LM
+helium2	acceleration_LM
+helium2	gravity_LM
+helium2	normal force_LM
+helium2	friction_LM
+helium2	kinetic energy_LM
+helium2	potential energy_LM
+helium2	energy_LM
+helium2	force_LM
+iodine2	FM
+iodine2	FO
+iodine2	gravity_FO
+iodine2	drag_FO
+iodine2	work_FO
+iodine2	impulse_FO
+iodine2	momentum_FO
+sodium2	FM
+sodium2	FO
+sodium2	drag_FO
+sodium2	gravity_FO
+sodium2	mass_FO
+sodium2	Speed_FO
+sodium2	Velocity_FO
+sodium2	Speed_FO
+sodium2	kinetic energy_FO
+sodium2	work_FO
+sodium2	impulse_FO
+sodium2	momentum_FO
+sodium2	impulse_FO
+sodium2	force_FO
+sodium2	shape_FO
+sodium2	lift_FO
+sodium2	drag_FO

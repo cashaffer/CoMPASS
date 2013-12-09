@@ -1,0 +1,614 @@
+helium4	FM
+helium4	LM
+helium4	FM
+helium4	LM
+helium4	Speed_LM
+helium4	LM
+helium4	Velocity_LM
+helium4	Speed_LM
+helium4	LM
+helium4	Speed_LM
+helium4	LM
+helium4	Velocity_LM
+helium4	LM
+helium4	acceleration_LM
+helium4	LM
+helium4	potential energy_LM
+helium4	LM
+helium4	kinetic energy_LM
+helium4	LM
+helium4	potential energy_LM
+helium4	LM
+helium4	kinetic energy_LM
+helium4	LM
+helium4	mass_LM
+helium4	LM
+helium4	Newtons laws_LM
+sodium4	FM
+sodium4	LM
+sodium4	Newtons laws_LM
+sodium4	Newtons 1st law_LM
+sodium4	LM
+sodium4	Newtons laws_LM
+sodium4	Velocity_LM
+sodium4	force_LM
+sodium4	Velocity_LM
+sodium4	kinetic energy_LM
+sodium4	energy_LM
+sodium4	mass_LM
+sodium4	momentum_LM
+sodium4	friction_LM
+sodium4	Newtons 2nd law_LM
+sodium4	normal force_LM
+sodium4	acceleration_LM
+sodium4	Newtons 2nd law_LM
+sodium4	force_LM
+sodium4	friction_LM
+iodine4	FM
+iodine4	FO
+iodine4	FM
+iodine4	LM
+iodine4	friction_LM
+iodine4	Velocity_LM
+iodine4	Newtons 2nd law_LM
+iodine4	Newtons laws_LM
+iodine4	Newtons 3rd law_LM
+iodine4	normal force_LM
+iodine4	force_LM
+iodine4	gravity_LM
+iodine4	normal force_LM
+iodine4	Newtons 3rd law_LM
+iodine4	CM
+iodine4	LM
+iodine4	energy_LM
+iodine4	kinetic energy_LM
+iodine4	energy_LM
+iodine4	potential energy_LM
+iodine4	work_LM
+iodine4	CM
+iodine4	LM
+iodine4	Velocity_LM
+iodine4	mass_LM
+iodine4	mass_CM
+iodine4	LM
+iodine4	acceleration_LM
+iodine4	Speed_LM
+iodine4	energy_LM
+iodine4	energy_CM
+iodine4	LM
+iodine4	mass_LM
+iodine4	LM
+iodine4	mass_CM
+iodine4	LM
+iodine4	force_LM
+iodine4	acceleration_LM
+iodine4	momentum_LM
+sodium4	FM
+sodium4	LM
+sodium4	acceleration_LM
+sodium4	LM
+sodium4	Velocity_LM
+sodium4	LM
+sodium4	mass_LM
+sodium4	Newtons 2nd law_LM
+sodium4	force_LM
+sodium4	normal force_LM
+sodium4	Newtons 3rd law_LM
+sodium4	LM
+sodium4	Newtons 1st law_LM
+sodium4	LM
+sodium4	Newtons 2nd law_LM
+sodium4	Newtons laws_LM
+sodium4	Newtons laws_FO
+sodium4	mass_FO
+sodium4	impulse_FO
+sodium4	momentum_FO
+oxygen4	FM
+oxygen4	FO
+oxygen4	FM
+oxygen4	LM
+oxygen4	Newtons laws_LM
+oxygen4	Newtons 1st law_LM
+oxygen4	Newtons 2nd law_LM
+oxygen4	Newtons laws_LM
+oxygen4	Newtons 3rd law_LM
+krypton4	FM
+krypton4	LM
+krypton4	Speed_LM
+krypton4	Velocity_LM
+krypton4	acceleration_LM
+krypton4	Newtons 1st law_LM
+krypton4	Newtons 2nd law_LM
+krypton4	FM
+krypton4	LM
+krypton4	mass_LM
+krypton4	kinetic energy_LM
+krypton4	Speed_LM
+krypton4	Velocity_LM
+krypton4	acceleration_LM
+krypton4	Velocity_LM
+krypton4	acceleration_LM
+krypton4	kinetic energy_LM
+krypton4	work_LM
+krypton4	force_LM
+krypton4	work_LM
+krypton4	Newtons 2nd law_LM
+krypton4	kinetic energy_LM
+krypton4	potential energy_LM
+krypton4	LM
+zinc4	FM
+zinc4	LM
+zinc4	Speed_LM
+zinc4	FO
+zinc4	LM
+zinc4	mass_LM
+zinc4	LM
+zinc4	mass
+zinc4	mass_LM
+zinc4	FO
+zinc4	LM
+zinc4	Speed_LM
+zinc4	mass_LM
+zinc4	Speed_LM
+zinc4	LM
+zinc4	acceleration_LM
+zinc4	LM
+zinc4	Velocity_LM
+zinc4	force_LM
+zinc4	LM
+zinc4	energy_LM
+zinc4	Speed_LM
+argon4	FM
+argon4	LM
+argon4	Newtons laws_LM
+argon4	LM
+argon4	FM
+argon4	LM
+argon4	FO
+argon4	LM
+argon4	mass_LM
+argon4	force_LM
+argon4	energy
+argon4	energy_LM
+argon4	kinetic energy_LM
+argon4	potential energy_LM
+argon4	kinetic energy_LM
+argon4	FM
+argon4	LM
+argon4	Speed_LM
+argon4	LM
+argon4	acceleration_LM
+argon4	LM
+argon4	mass_LM
+argon4	LM
+argon4	force_LM
+helium4	FM
+helium4	LM
+helium4	acceleration_LM
+helium4	Velocity_LM
+helium4	Newtons 1st law_LM
+helium4	Velocity_LM
+helium4	momentum_LM
+helium4	mass_LM
+helium4	kinetic energy_LM
+helium4	kinetic energy
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	energy
+helium4	energy_LM
+helium4	potential energy_LM
+helium4	work_LM
+helium4	Newtons 2nd law_LM
+helium4	Newtons 2nd law
+helium4	Newtons 2nd law_LM
+helium4	gravity_LM
+helium4	normal force_LM
+helium4	gravity_LM
+helium4	normal force_LM
+zinc4	FM
+zinc4	LM
+zinc4	friction_LM
+zinc4	Newtons 1st law_LM
+zinc4	Newtons laws_LM
+zinc4	Newtons 2nd law_LM
+zinc4	Newtons laws_LM
+zinc4	Newtons 3rd law_LM
+zinc4	Speed
+zinc4	FM
+iodine4	FM
+iodine4	FO
+iodine4	Newtons laws_FO
+iodine4	Newtons 1st law_FO
+iodine4	Newtons 2nd law_FO
+iodine4	Newtons 3rd law_FO
+iodine4	drag_FO
+iodine4	lift_FO
+iodine4	FO
+iodine4	momentum_FO
+iodine4	Speed_FO
+iodine4	acceleration_FO
+iodine4	Speed_FO
+iodine4	acceleration_FO
+iodine4	gravity_FO
+iodine4	momentum_FO
+iodine4	acceleration_FO
+iodine4	FO
+iodine4	Velocity_FO
+iodine4	gravity_FO
+iodine4	surface area_FO
+iodine4	shape_FO
+iodine4	lift_FO
+sodium4	FM
+sodium4	LM
+sodium4	Speed_LM
+sodium4	LM
+sodium4	kinetic energy_LM
+sodium4	mass_LM
+sodium4	G forces
+sodium4	FM
+sodium4	FO
+sodium4	FM
+sodium4	FO
+sodium4	FM
+sodium4	G forces
+sodium4	mass_LM
+sodium4	kinetic energy_LM
+sodium4	LM
+sodium4	FM
+krypton4	FM
+krypton4	FO
+krypton4	Speed_FO
+krypton4	Newtons 1st law_FO
+krypton4	acceleration_FO
+krypton4	Newtons 1st law_FO
+krypton4	Newtons 2nd law_FO
+krypton4	force_FO
+krypton4	Newtons 3rd law_FO
+krypton4	drag_FO
+krypton4	CM
+krypton4	FO
+krypton4	momentum_FO
+krypton4	Speed_FO
+krypton4	kinetic energy_FO
+krypton4	mass_FO
+krypton4	potential energy_FO
+krypton4	mass_FO
+krypton4	height
+krypton4	FO
+krypton4	Velocity_FO
+krypton4	FO
+krypton4	potential energy_FO
+krypton4	kinetic energy_FO
+krypton4	FO
+krypton4	gravity_FO
+krypton4	energy_FO
+krypton4	Speed_FO
+krypton4	acceleration_FO
+krypton4	FM
+krypton4	LM
+krypton4	potential energy_LM
+krypton4	energy_LM
+krypton4	potential energy_LM
+krypton4	LM
+krypton4	CM
+krypton4	LM
+krypton4	kinetic energy_LM
+krypton4	LM
+krypton4	CM
+krypton4	FO
+krypton4	LM
+krypton4	force_LM
+krypton4	CM
+krypton4	LM
+krypton4	Speed_LM
+krypton4	CM
+krypton4	LM
+krypton4	energy_LM
+krypton4	CM
+krypton4	LM
+krypton4	Velocity_LM
+krypton4	momentum_LM
+zinc4	FM
+zinc4	LM
+zinc4	Speed_LM
+zinc4	Velocity_LM
+zinc4	acceleration_LM
+zinc4	momentum_LM
+zinc4	Newtons 1st law_LM
+zinc4	Newtons 2nd law_LM
+zinc4	Newtons 3rd law_LM
+zinc4	force_LM
+zinc4	normal force_LM
+zinc4	acceleration_LM
+zinc4	normal force_LM
+oxygen4	FM
+oxygen4	LM
+oxygen4	Speed_LM
+oxygen4	LM
+oxygen4	kinetic energy_LM
+oxygen4	mass_LM
+oxygen4	friction_LM
+oxygen4	gravity_LM
+oxygen4	LM
+oxygen4	energy_LM
+oxygen4	potential energy_LM
+oxygen4	kinetic energy_LM
+oxygen4	LM
+oxygen4	mass_LM
+oxygen4	LM
+oxygen4	friction_LM
+oxygen4	FM
+oxygen4	LM
+oxygen4	Velocity_LM
+oxygen4	acceleration_LM
+oxygen4	force_LM
+oxygen4	work_LM
+oxygen4	energy_LM
+oxygen4	kinetic energy_LM
+oxygen4	potential energy_LM
+iodine4	FM
+iodine4	LM
+iodine4	Speed_LM
+iodine4	mass_LM
+iodine4	Newtons 1st law_LM
+iodine4	Velocity_LM
+iodine4	acceleration_LM
+iodine4	Newtons 2nd law_LM
+iodine4	gravity_LM
+iodine4	friction_LM
+iodine4	mass_LM
+iodine4	Velocity_LM
+iodine4	Newtons 2nd law_LM
+iodine4	acceleration_LM
+iodine4	normal force_LM
+iodine4	friction_LM
+iodine4	normal force_LM
+iodine4	work_LM
+iodine4	gravity_LM
+iodine4	friction_LM
+iodine4	acceleration_LM
+iodine4	momentum_LM
+iodine4	kinetic energy_LM
+iodine4	Newtons 2nd law_LM
+iodine4	kinetic energy_LM
+iodine4	Newtons 2nd law_LM
+iodine4	Newtons 3rd law_LM
+iodine4	Newtons 1st law_LM
+iodine4	Newtons 2nd law_LM
+iodine4	Newtons 3rd law_LM
+iodine4	force_LM
+argon4	FM
+argon4	LM
+argon4	friction_LM
+argon4	LM
+argon4	FM
+argon4	LM
+argon4	mass_LM
+argon4	Speed_LM
+argon4	kinetic energy_LM
+argon4	energy_LM
+argon4	mass_LM
+argon4	Velocity_LM
+argon4	acceleration_LM
+argon4	force_LM
+argon4	energy_LM
+argon4	Speed_LM
+argon4	Newtons 1st law_LM
+argon4	Newtons 3rd law_LM
+argon4	Newtons 2nd law_LM
+argon4	mass_LM
+argon4	Newtons 1st law_LM
+helium4	FM
+helium4	LM
+helium4	Newtons 1st law_LM
+helium4	Newtons laws_LM
+helium4	Newtons 2nd law_LM
+helium4	Newtons laws_LM
+helium4	Newtons 3rd law_LM
+helium4	normal force_LM
+helium4	friction_LM
+helium4	mass_LM
+helium4	friction_LM
+helium4	acceleration_LM
+helium4	LM
+helium4	momentum_LM
+helium4	mass_LM
+helium4	Newtons 2nd law_LM
+helium4	force_LM
+helium4	force
+helium4	force_LM
+helium4	force
+helium4	force_LM
+helium4	LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	Velocity_LM
+helium4	force_LM
+helium4	Newtons 2nd law_LM
+helium4	force_LM
+helium4	gravity_LM
+helium4	friction_LM
+helium4	Newtons 2nd law_LM
+helium4	LM
+helium4	energy_LM
+helium4	potential energy_LM
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	energy_LM
+helium4	kinetic energy_LM
+helium4	Speed_LM
+helium4	acceleration_LM
+helium4	LM
+helium4	friction_LM
+helium4	LM
+helium4	CM
+helium4	FO
+helium4	shape_FO
+helium4	drag_FO
+helium4	lift_FO
+helium4	shape_FO
+helium4	drag_FO
+helium4	lift_FO
+helium4	drag_FO
+helium4	lift_FO
+helium4	FO
+helium4	LM
+helium4	energy_LM
+helium4	potential energy_LM
+helium4	work_LM
+oxygen4	FM
+oxygen4	LM
+oxygen4	Speed_LM
+oxygen4	LM
+oxygen4	Speed_LM
+oxygen4	LM
+oxygen4	mass_LM
+oxygen4	FM
+oxygen4	FO
+oxygen4	Speed_FO
+oxygen4	Velocity_FO
+oxygen4	momentum_FO
+oxygen4	momentum_LM
+oxygen4	Newtons 1st law_LM
+argon4	FM
+argon4	LM
+argon4	acceleration_LM
+argon4	LM
+argon4	FM
+argon4	force_LM
+argon4	Newtons 2nd law_LM
+argon4	force_LM
+argon4	work_LM
+argon4	friction_LM
+argon4	momentum_LM
+argon4	Velocity_LM
+argon4	Newtons laws_LM
+argon4	Newtons 1st law_LM
+argon4	Velocity_LM
+argon4	Speed_LM
+argon4	Velocity_LM
+argon4	acceleration_LM
+argon4	work_LM
+argon4	force_LM
+argon4	energy_LM
+argon4	mass_LM
+argon4	height
+helium4	SM
+helium4	FM
+helium4	LM
+helium4	Speed_LM
+helium4	LM
+helium4	height
+helium4	LM
+helium4	Speed_LM
+helium4	LM
+helium4	work_LM
+helium4	LM
+helium4	Newtons 1st law_LM
+helium4	LM
+helium4	Newtons 2nd law_LM
+helium4	LM
+helium4	Newtons 1st law_LM
+helium4	LM
+helium4	Newtons 2nd law_LM
+helium4	LM
+helium4	potential energy_LM
+helium4	LM
+helium4	kinetic energy_LM
+helium4	LM
+helium4	potential energy_LM
+helium4	LM
+helium4	Newtons 2nd law_LM
+helium4	LM
+helium4	Newtons 1st law_LM
+helium4	Newtons 2nd law_LM
+helium4	LM
+helium4	Newtons 3rd law_LM
+argon4	FM
+argon4	LM
+argon4	Speed_LM
+argon4	kinetic energy_LM
+argon4	potential energy_LM
+argon4	energy_LM
+argon4	mass_LM
+argon4	Newtons 1st law_LM
+argon4	Velocity_LM
+argon4	acceleration_LM
+argon4	gravity_LM
+zinc4	FM
+zinc4	LM
+zinc4	FM
+zinc4	FO
+zinc4	Speed_FO
+zinc4	Newtons 1st law_FO
+zinc4	Newtons 1st law_LM
+sodium4	FM
+sodium4	LM
+sodium4	friction_LM
+sodium4	kinetic energy_LM
+sodium4	potential energy_LM
+sodium4	energy_LM
+sodium4	work_LM
+sodium4	gravity_LM
+sodium4	friction_LM
+sodium4	work_LM
+sodium4	kinetic energy_LM
+sodium4	kinetic energy
+sodium4	kinetic energy_LM
+sodium4	Speed_LM
+sodium4	Velocity_LM
+sodium4	acceleration_LM
+sodium4	gravity_LM
+sodium4	work_LM
+sodium4	normal force_LM
+argon4	FM
+argon4	LM
+argon4	FO
+argon4	acceleration_FO
+argon4	Speed_FO
+argon4	momentum_FO
+argon4	gravity_FO
+argon4	drag_FO
+argon4	gravity_FO
+argon4	momentum_FO
+argon4	Speed_FO
+argon4	acceleration_FO
+argon4	FO
+argon4	FM
+argon4	LM
+argon4	Speed_LM
+argon4	LM
+argon4	FM
+argon4	kinetic energy_LM
+argon4	friction_LM
+argon4	Newtons 1st law_LM
+iodine4	FM
+iodine4	LM
+iodine4	work_LM
+iodine4	CM
+iodine4	LM
+iodine4	friction_LM
+iodine4	FO
+iodine4	LM
+iodine4	momentum_LM
+iodine4	CM
+iodine4	LM
+iodine4	potential energy_LM
+iodine4	CM
+iodine4	LM
+iodine4	Speed_LM
+iodine4	LM
+iodine4	force_LM
+iodine4	LM
+iodine4	gravity_LM

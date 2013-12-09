@@ -1,0 +1,374 @@
+
+
+
+User	Leader	Question
+argon3	jamie Leslie	forces and motions
+
+Group	Node	Source	Staying Time(Sec)
+argon3	FM	Text	11
+argon3	FO	Map	33
+argon3	LM	NaviBar	9
+argon3	FM	Text	18
+argon3	FO	Map	9
+argon3	mass_FO	Map	27
+argon3	mass_LM	NaviBar	52
+argon3	FM	Text	1
+argon3	LM	Map	6
+argon3	Speed_LM	Map	22
+argon3	momentum_LM	Map	126
+argon3	Newtons 1st law_LM	Text	58
+argon3	acceleration_LM	Text	27
+argon3	LM	Text	3
+argon3	energy_LM	Map	29
+argon3	mass_LM	Map	6
+argon3	friction_LM	Text	84
+argon3	mass_LM	Map	7
+argon3	Speed_LM	Text	30
+argon3	energy_LM	Map	75
+argon3	Speed_LM	Map	31
+argon3	energy_LM	Map	7
+argon3	Speed_LM	Map	23
+argon3	LM	NaviBar	9
+argon3	energy_LM	Map	2
+argon3	Speed_LM	Map	3
+argon3	mass_LM	Map	4
+argon3	friction_LM	Text	15
+argon3	moment of inertia	NaviBar	2
+argon3	moment of inertia	Map	1
+argon3	moment of inertia	Map	7
+argon3	LM	Text	3
+argon3	FM	Text	8
+argon3	LM	Map	3
+argon3	momentum_LM	Map	32
+argon3	acceleration_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon3	kale pustina	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+argon3	FM	Text	5
+argon3	LM	Map	6
+argon3	momentum_LM	Map	318
+argon3	mass_LM	Map	6
+argon3	momentum_LM	Map	6
+argon3	LM	NaviBar	11
+argon3	Newtons 1st law_LM	Map	319
+argon3	Velocity_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon3	Carley Hanko	Forces and Motions
+
+Group	Node	Source	Staying Time(Sec)
+argon3	FM	Text	22
+argon3	LM	Map	6
+argon3	momentum_LM	Map	56
+argon3	Velocity_LM	Map	23
+argon3	Newtons 1st law_LM	Map	140
+argon3	Newtons 2nd law_LM	Map	82
+argon3	Newtons 3rd law_LM	Map	62
+argon3	normal force_LM	Map	10
+argon3	Newtons 3rd law_LM	Map	2
+argon3	Newtons 2nd law_LM	Map	1
+argon3	Newtons 1st law_LM	Map	1
+argon3	Velocity_LM	Map	1
+argon3	momentum_LM	Map	2
+argon3	LM	Map	2
+argon3	FM	Text	1
+argon3	LM	Map	8
+argon3	Velocity_LM	Map	3
+argon3	Speed_LM	Map	5
+argon3	FM	Text	1
+argon3	LM	Map	3
+argon3	normal force_LM	Map	65
+argon3	work_LM	Map	126
+argon3	acceleration_LM	Map	26
+argon3	LM	Text	3
+argon3	mass_LM	Map	39
+argon3	friction_LM	Map	5
+argon3	LM	Text	8
+argon3	energy_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen3	Casey Grosshauser	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+oxygen3	FM	Text	4
+oxygen3	LM	Map	66
+oxygen3	momentum_LM	Map	266
+oxygen3	mass_LM	Map	129
+oxygen3	Speed_LM	Map	45
+oxygen3	Newtons 1st law_LM	Map	156
+oxygen3	Velocity_LM	Map	14
+oxygen3	Speed_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen3	Kelly Cefalu	Finding out more
+
+Group	Node	Source	Staying Time(Sec)
+oxygen3	FM	Text	12
+oxygen3	LM	Map	17
+oxygen3	force_LM	Map	21
+oxygen3	LM	Map	16
+oxygen3	LM	NaviBar	21
+oxygen3	Speed_LM	Map	12
+oxygen3	LM	NaviBar	6
+oxygen3	mass_LM	Map	88
+oxygen3	momentum_LM	Map	142
+oxygen3	mass_LM	Map	22
+oxygen3	Newtons 1st law_LM	Text	14
+oxygen3	LM	NaviBar	14
+oxygen3	moment of inertia	NaviBar	2
+oxygen3	moment of inertia	Map	1
+oxygen3	moment of inertia	Map	1
+oxygen3	moment of inertia	Map	1
+oxygen3	moment of inertia	Map	8
+oxygen3	moment of inertia	Map	8
+oxygen3	moment of inertia	Map	8
+oxygen3	moment of inertia	Map	8
+oxygen3	moment of inertia	NaviBar	2
+oxygen3	FM	NaviBar	3
+oxygen3	LM	NaviBar	8
+oxygen3	acceleration_LM	Map	4
+oxygen3	LM	NaviBar	32
+oxygen3	LM	Map	1
+oxygen3	LM	Map	12
+oxygen3	momentum_LM	Map	10
+oxygen3	Velocity_LM	Map	3
+oxygen3	momentum_LM	Map	95
+oxygen3	Velocity_LM	Map	86
+oxygen3	mass_LM	Map	36
+
+
+
+User	Leader	Question
+helium3	Natalie	N/A
+
+Group	Node	Source	Staying Time(Sec)
+helium3	FM	Text	6
+helium3	LM	NaviBar	61
+helium3	momentum_LM	Map	201
+helium3	Newtons 1st law_LM	Map	13
+helium3	Speed_LM	Map	5
+helium3	momentum_LM	Map	1
+helium3	Velocity_LM	Map	105
+helium3	Newtons laws_LM	Map	201
+helium3	Velocity_LM	Map	4
+helium3	Newtons 1st law_LM	Map	67
+helium3	Speed_LM	Map	4
+helium3	momentum_LM	Map	8
+
+
+
+User	Leader	Question
+zinc3	Dean Helt	STOP THE CAR!!!!!!!
+
+Group	Node	Source	Staying Time(Sec)
+zinc3	FM	Text	10
+zinc3	CM	Map	48
+zinc3	CM	Map	1
+zinc3	FM	Text	8
+zinc3	FM	Text	4
+zinc3	LM	Map	6
+zinc3	force_LM	Map	43
+zinc3	acceleration_LM	Map	234
+zinc3	momentum_LM	Map	1
+zinc3	Velocity_LM	Map	57
+zinc3	mass_LM	Map	2
+zinc3	momentum_LM	Map	55
+zinc3	mass_LM	Map	74
+zinc3	Velocity_LM	Map	5
+zinc3	momentum_LM	Map	10
+zinc3	Speed_LM	Map	72
+zinc3	mass_LM	Map	1
+zinc3	Velocity_LM	Map	7
+zinc3	kinetic energy_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium3	Laura Claussen	Stop the car
+
+Group	Node	Source	Staying Time(Sec)
+sodium3	FM	Text	11
+sodium3	LM	Map	35
+sodium3	momentum_LM	Map	15
+sodium3	momentum	NaviBar	1
+sodium3	momentum_LM	Map	61
+sodium3	momentum	NaviBar	7
+sodium3	momentum_LM	Map	1
+sodium3	LM	Map	1
+sodium3	FM	Text	7
+sodium3	momentum_LM	Map	1
+sodium3	momentum_LM	Map	12
+sodium3	momentum_LM	Map	12
+sodium3	momentum_LM	Map	12
+sodium3	Velocity_LM	Map	13
+sodium3	Velocity_LM	Map	13
+sodium3	Speed_LM	Text	58
+sodium3	kinetic energy_LM	Map	7
+sodium3	work_LM	Map	5
+sodium3	energy_LM	Map	3
+sodium3	work_LM	Map	2
+sodium3	acceleration_LM	Map	4
+sodium3	Newtons 1st law_LM	Map	3
+sodium3	Newtons 3rd law_LM	Map	7
+sodium3	Newtons 2nd law_LM	Map	2
+sodium3	gravity_LM	Map	7
+sodium3	mass_LM	Text	5
+sodium3	friction_LM	Map	12
+sodium3	momentum_LM	Map	4
+sodium3	mass_LM	Map	14
+sodium3	energy_LM	Map	11
+sodium3	mass_LM	Map	1
+sodium3	momentum_LM	Map	1
+sodium3	friction_LM	Map	1
+sodium3	mass_LM	Text	1
+sodium3	Speed_LM	Text	2
+sodium3	FM	Text	5
+sodium3	FM	Text	2
+sodium3	LM	Map	6
+sodium3	friction_LM	Map	15
+sodium3	Velocity_LM	Text	64
+sodium3	acceleration_LM	Text	205
+sodium3	normal force_LM	Map	3
+sodium3	work_LM	Map	3
+sodium3	gravity_LM	Map	23
+sodium3	normal force_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium3	Sam Kratcha	Stop the car
+
+Group	Node	Source	Staying Time(Sec)
+sodium3	FM	Text	22
+sodium3	FO	Map	22
+sodium3	mass_FO	Map	15
+sodium3	mass_LM	NaviBar	82
+sodium3	Speed_LM	Map	6
+sodium3	energy_LM	Map	7
+sodium3	Speed_LM	Map	49
+sodium3	mass_LM	Map	18
+sodium3	kinetic energy_LM	Map	14
+sodium3	energy_LM	Map	7
+sodium3	mass_LM	Map	45
+sodium3	kinetic energy_LM	Map	48
+sodium3	mass_LM	Text	141
+sodium3	acceleration_LM	Map	140
+sodium3	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium3	Jakub	stop the car
+
+Group	Node	Source	Staying Time(Sec)
+sodium3	FM	Text	24
+sodium3	LM	Map	15
+sodium3	momentum_LM	Map	26
+sodium3	Velocity_LM	Map	40
+sodium3	momentum_LM	Map	334
+sodium3	Velocity_LM	Map	28
+sodium3	Newtons 1st law_LM	Map	4
+sodium3	Newtons laws_LM	Map	10
+sodium3	Newtons 3rd law_LM	Map	29
+sodium3	Newtons laws_LM	Map	3
+sodium3	Newtons 1st law_LM	Map	5
+sodium3	Velocity_LM	Map	3
+sodium3	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium3	stefan polinsky	stop the car
+
+Group	Node	Source	Staying Time(Sec)
+helium3	FM	Text	9
+helium3	LM	Map	10
+helium3	kinetic energy_LM	Map	112
+helium3	mass_LM	Map	321
+helium3	Newtons 2nd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen3	Jack Cords	stop the car
+
+Group	Node	Source	Staying Time(Sec)
+oxygen3	FM	Text	28
+oxygen3	LM	Map	2
+oxygen3	momentum_LM	Map	183
+oxygen3	LM	NaviBar	10
+oxygen3	force_LM	Map	4
+oxygen3	normal force_LM	Text	5
+oxygen3	normal force_LM	Map	3
+oxygen3	Newtons 2nd law_LM	Map	31
+oxygen3	force_LM	Text	9
+oxygen3	Newtons 2nd law_LM	Map	108
+oxygen3	LM	NaviBar	3
+oxygen3	Newtons 2nd law_LM	Map	4
+oxygen3	force_LM	Text	4
+oxygen3	normal force_LM	Text	5
+oxygen3	FM	Text	8
+oxygen3	LM	Map	3
+oxygen3	Speed_LM	Map	4
+oxygen3	LM	NaviBar	3
+oxygen3	mass_LM	Map	156
+oxygen3	LM	NaviBar	4
+oxygen3	gravity_LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc3	nicole franklin	stop that car
+
+Group	Node	Source	Staying Time(Sec)
+zinc3	FM	Text	23
+zinc3	LM	Map	4
+zinc3	Newtons 1st law_LM	Map	104
+zinc3	LM	Map	3
+zinc3	FM	Text	4
+zinc3	FM	Text	1
+zinc3	LM	Map	37
+zinc3	Newtons laws_LM	Map	2
+zinc3	LM	Map	3
+zinc3	FM	Text	8
+zinc3	FM	Text	1
+zinc3	LM	Map	6
+zinc3	Newtons 1st law_LM	Map	260
+zinc3	Newtons laws_LM	Map	3
+zinc3	Newtons 2nd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium3	Will Decorah	Stop that car
+
+Group	Node	Source	Staying Time(Sec)
+helium3	FM	Text	57
+helium3	LM	Map	6
+helium3	momentum_LM	Map	311
+helium3	LM	Map	2
+helium3	momentum_FO	NaviBar	1
+helium3	momentum_LM	NaviBar	5
+helium3	FM	NaviBar	2
+helium3	LM	Map	19
+helium3	mass_LM	Map	6
+helium3	Velocity_LM	Map	5
+helium3	kinetic energy_LM	Map	13
+helium3	Speed_LM	Map	3
+helium3	kinetic energy_LM	Map	19
+helium3	moment of inertia	NaviBar	3
+helium3	moment of inertia	Map	1
+helium3	moment of inertia	Map	12
+helium3	moment of inertia	Map	12
+helium3	FM	NaviBar	4
+helium3	LM	Map	N/A

@@ -1,0 +1,610 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<title>Mozilla Rich Text Editing Demo</title>
+
+<style type="text/css">
+.imagebutton {height: 22; width: 23; border: solid 2px #C0C0C0; background-color: #C0C0C0}
+.image {position: relative; left: 1; top: 1; height:20; width:21; border:none;}
+.toolbar {height: 30; background-color: #C0C0C0;}
+</style>
+
+<script>
+
+var command = "";
+
+function InitToolbarButtons() {
+  var kids = document.getElementsByTagName('DIV');
+
+  for (var i=0; i < kids.length; i++) {
+    if (kids[i].className == "imagebutton") {
+      kids[i].onmouseover = tbmouseover;
+      kids[i].onmouseout = tbmouseout;
+      kids[i].onmousedown = tbmousedown;
+      kids[i].onmouseup = tbmouseup;
+      kids[i].onclick = tbclick;
+    }
+  }
+}
+
+function tbmousedown(e)
+{
+  var evt = e ? e : window.event; 
+
+  this.firstChild.style.left = 2;
+  this.firstChild.style.top = 2;
+  this.style.border="inset 2px";
+  if (evt.returnValue) {
+    evt.returnValue = false;
+  } else if (evt.preventDefault) {
+    evt.preventDefault( );
+  } else {
+    return false;
+  }
+}
+
+function tbmouseup()
+{
+  this.firstChild.style.left = 1;
+  this.firstChild.style.top = 1;
+  this.style.border="outset 2px";
+}
+
+function tbmouseout()
+{
+  this.style.border="solid 2px #C0C0C0";
+}
+
+function tbmouseover()
+{
+  this.style.border="outset 2px";
+}
+
+  function insertNodeAtSelection(win, insertNode)
+  {
+      // get current selection
+      var sel = win.getSelection();
+
+      // get the first range of the selection
+      // (there's almost always only one range)
+      var range = sel.getRangeAt(0);
+
+      // deselect everything
+      sel.removeAllRanges();
+
+      // remove content of current selection from document
+      range.deleteContents();
+
+      // get location of current selection
+      var container = range.startContainer;
+      var pos = range.startOffset;
+
+      // make a new range for the new selection
+      range=document.createRange();
+
+      if (container.nodeType==3 && insertNode.nodeType==3) {
+
+        // if we insert text in a textnode, do optimized insertion
+        container.insertData(pos, insertNode.nodeValue);
+
+        // put cursor after inserted text
+        range.setEnd(container, pos+insertNode.length);
+        range.setStart(container, pos+insertNode.length);
+
+      } else {
+
+
+        var afterNode;
+        if (container.nodeType==3) {
+
+          // when inserting into a textnode
+          // we create 2 new textnodes
+          // and put the insertNode in between
+
+          var textNode = container;
+          container = textNode.parentNode;
+          var text = textNode.nodeValue;
+
+          // text before the split
+          var textBefore = text.substr(0,pos);
+          // text after the split
+          var textAfter = text.substr(pos);
+
+          var beforeNode = document.createTextNode(textBefore);
+          afterNode = document.createTextNode(textAfter);
+
+          // insert the 3 new nodes before the old one
+          container.insertBefore(afterNode, textNode);
+          container.insertBefore(insertNode, afterNode);
+          container.insertBefore(beforeNode, insertNode);
+
+          // remove the old node
+          container.removeChild(textNode);
+
+        } else {
+
+          // else simply insert the node
+          afterNode = container.childNodes[pos];
+          container.insertBefore(insertNode, afterNode);
+        }
+
+        range.setEnd(afterNode, 0);
+        range.setStart(afterNode, 0);
+      }
+
+      sel.addRange(range);
+  };
+
+function getOffsetTop(elm) {
+
+  var mOffsetTop = elm.offsetTop;
+  var mOffsetParent = elm.offsetParent;
+
+  while(mOffsetParent){
+    mOffsetTop += mOffsetParent.offsetTop;
+    mOffsetParent = mOffsetParent.offsetParent;
+  }
+ 
+  return mOffsetTop;
+}
+
+function getOffsetLeft(elm) {
+
+  var mOffsetLeft = elm.offsetLeft;
+  var mOffsetParent = elm.offsetParent;
+
+  while(mOffsetParent){
+    mOffsetLeft += mOffsetParent.offsetLeft;
+    mOffsetParent = mOffsetParent.offsetParent;
+  }
+ 
+  return mOffsetLeft;
+}
+concepts = {};
+concepts[112]="ma";
+concepts[95]="acceleration";
+concepts[96]="angle";
+concepts[97]="distance";
+concepts[98]="drag";
+concepts[99]="efficiency";
+concepts[100]="energy";
+concepts[102]="force";
+concepts[103]="friction";
+concepts[104]="fulcrum";
+concepts[105]="G forces";
+concepts[106]="gravity";
+concepts[107]="height";
+concepts[109]="impulse";
+concepts[110]="kinetic energy";
+concepts[111]="lift";
+concepts[113]="mass";
+concepts[114]="mechanical advantage";
+concepts[115]="moment of inertia";
+concepts[116]="momentum";
+concepts[117]="Newtons 1st law";
+concepts[118]="Newtons 2nd law";
+concepts[119]="Newtons 3rd law";
+concepts[120]="Newtons laws";
+concepts[121]="normal force";
+concepts[122]="potential energy";
+concepts[123]="power";
+concepts[124]="radius";
+concepts[125]="range";
+concepts[126]="screw";
+concepts[127]="second class lever";
+concepts[128]="shape";
+concepts[129]="Speed";
+concepts[130]="surface area";
+concepts[131]="third class lever";
+concepts[132]="torque";
+concepts[133]="Velocity";
+concepts[134]="vertical component";
+concepts[136]="work";
+
+for (var i=95; i<=136; i++) {
+	if (concepts[i]) {
+		concepts[i] = concepts[i].toLowerCase();
+	}
+}
+
+function tbclick()
+{
+
+
+  if ((this.id == "forecolor") || (this.id == "hilitecolor")) {
+    parent.command = this.id;
+    buttonElement = document.getElementById(this.id);
+    document.getElementById("colorpalette").style.left = getOffsetLeft(buttonElement);
+    document.getElementById("colorpalette").style.top = getOffsetTop(buttonElement) + buttonElement.offsetHeight;
+    document.getElementById("colorpalette").style.visibility="visible";
+	} else if (this.id == "createlink") {
+		var sel = document.getElementById('edit').contentWindow.getSelection().getRangeAt(0).toString();
+		var con = "", con_i=0;
+		for (var i=95; i<=136; i++) {
+			if (concepts[i]) {
+				if (concepts[i].indexOf(sel) >= 0 || sel.indexOf(concepts[i]) >= 0) {
+					con = concepts[i];
+					con_i = i;
+					break;
+				}
+			}
+		}
+		
+		var prefix = "explore.php?source=1&uid=11&tid=29";
+		if (con_i) {
+			szURL = prompt("(Enter only the concept number) \n Concept found: " + con, con_i);
+		} else {
+			szURL = prompt("Enter only the concept number:", "");
+		}
+		var fullurl = prefix;
+		if (szURL) { 
+			fullurl = prefix + "&cid=" + szURL;
+		}
+    document.getElementById('edit').contentWindow.document.execCommand("CreateLink",false,fullurl);    
+  } else if (this.id == "createimage") {
+    imagePath = prompt('Enter image file name only:', '');
+		if ((imagePath != null) && (imagePath != "")) {
+			imagePath = "/compass/resource/images/smachines/" + imagePath;
+      document.getElementById('edit').contentWindow.document.execCommand('InsertImage', false, imagePath);
+    }
+  } else if (this.id == "createtable") {
+    e = document.getElementById("edit");
+    rowstext = prompt("enter rows");
+    colstext = prompt("enter cols");
+    rows = parseInt(rowstext);
+    cols = parseInt(colstext);
+    if ((rows > 0) && (cols > 0)) {
+      table = e.contentWindow.document.createElement("table");
+      table.setAttribute("border", "1");
+      table.setAttribute("cellpadding", "2");
+      table.setAttribute("cellspacing", "2");
+      tbody = e.contentWindow.document.createElement("tbody");
+      for (var i=0; i < rows; i++) {
+        tr =e.contentWindow.document.createElement("tr");
+        for (var j=0; j < cols; j++) {
+          td =e.contentWindow.document.createElement("td");
+          br =e.contentWindow.document.createElement("br");
+          td.appendChild(br);
+          tr.appendChild(td);
+        }
+        tbody.appendChild(tr);
+      }
+      table.appendChild(tbody);      
+      insertNodeAtSelection(e.contentWindow, table);
+    }
+  } else {
+    document.getElementById('edit').contentWindow.document.execCommand(this.id, false, null);
+  }
+}
+
+function Select(selectname)
+{
+  var cursel = document.getElementById(selectname).selectedIndex;
+  /* First one is always a label */
+  if (cursel != 0) {
+    var selected = document.getElementById(selectname).options[cursel].value;
+    document.getElementById('edit').contentWindow.document.execCommand(selectname, false, selected);
+    document.getElementById(selectname).selectedIndex = 0;
+  }
+  document.getElementById("edit").contentWindow.focus();
+}
+
+function dismisscolorpalette()
+{
+  document.getElementById("colorpalette").style.visibility="hidden";
+}
+
+function Start() {
+  document.getElementById('edit').contentWindow.document.designMode = "on";
+  try {
+    document.getElementById('edit').contentWindow.document.execCommand("undo", false, null);
+  }  catch (e) {
+    alert("This demo is not supported on your level of Mozilla.");
+  }
+
+  InitToolbarButtons();
+  if (document.addEventListener) {
+    document.addEventListener("mousedown", dismisscolorpalette, true);
+    document.getElementById("edit").contentWindow.document.addEventListener("mousedown", dismisscolorpalette, true);
+    document.addEventListener("keypress", dismisscolorpalette, true);
+    document.getElementById("edit").contentWindow.document.addEventListener("keypress", dismisscolorpalette, true);
+  } else if (document.attachEvent) {
+    document.attachEvent("mousedown", dismisscolorpalette, true);
+    document.getElementById("edit").contentWindow.document.attachEvent("mousedown", dismisscolorpalette, true);
+    document.attachEvent("keypress", dismisscolorpalette, true);
+    document.getElementById("edit").contentWindow.document.attachEvent("keypress", dismisscolorpalette, true);
+  }
+}
+
+</script>
+<style type="text/css" charset="utf-8">/* See license.txt for terms of usage */
+
+.firebugHighlight {
+    z-index: 2147483647;
+    position: absolute;
+    background-color: #3875d7;
+}
+
+.firebugLayoutBoxParent {
+    z-index: 2147483647;
+    position: absolute;
+    background-color: transparent;
+    border-right: 1px dashed #BBBBBB;
+    border-bottom: 1px dashed #BBBBBB;
+}
+
+.firebugRulerH {
+    position: absolute;
+    top: -15px;
+    left: 0;
+    width: 100%;
+    height: 14px;
+    background: url(chrome://firebug/skin/rulerH.png) repeat-x;
+    border-top: 1px solid #BBBBBB;
+    border-right: 1px dashed #BBBBBB;
+    border-bottom: 1px solid #000000;
+}
+
+.firebugRulerV {
+    position: absolute;
+    top: 0;
+    left: -15px;
+    width: 14px;
+    height: 100%;
+    background: url(chrome://firebug/skin/rulerV.png) repeat-y;
+    border-left: 1px solid #BBBBBB;
+    border-right: 1px solid #000000;
+    border-bottom: 1px dashed #BBBBBB;
+}
+
+.overflowRulerX > .firebugRulerV {
+    left: 0;
+}
+
+.overflowRulerY > .firebugRulerH {
+    top: 0;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.firebugLayoutBoxOffset {
+    z-index: 2147483647;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.firebugLayoutBoxMargin {
+    background-color: #EDFF64;
+}
+
+.firebugLayoutBoxBorder {
+    background-color: #666666;
+}
+
+.firebugLayoutBoxPadding {
+    background-color: SlateBlue;
+}
+
+.firebugLayoutBoxContent {
+    background-color: SkyBlue;
+}
+
+/*.firebugHighlightGroup .firebugLayoutBox {
+    background-color: transparent;
+}
+
+.firebugHighlightBox {
+    background-color: Blue !important;
+}*/
+
+.firebugLayoutLine {
+    z-index: 2147483647;
+    background-color: #000000;
+    opacity: 0.4;
+}
+
+.firebugLayoutLineLeft,
+.firebugLayoutLineRight {
+    position: fixed;
+    width: 1px;
+    height: 100%;
+}
+
+.firebugLayoutLineTop,
+.firebugLayoutLineBottom {
+    position: absolute;
+    width: 100%;
+    height: 1px;
+}
+
+.firebugLayoutLineTop {
+    margin-top: -1px;
+    border-top: 1px solid #999999;
+}
+
+.firebugLayoutLineRight {
+    border-right: 1px solid #999999;
+}
+
+.firebugLayoutLineBottom {
+    border-bottom: 1px solid #999999;
+}
+
+.firebugLayoutLineLeft {
+    margin-left: -1px;
+    border-left: 1px solid #999999;
+}
+</style></head><body onload="Start()">
+After you are done, click on View Source and copy-paste the content in the description field of the previous page.
+<div id="richeditbody">
+<table id="toolbar1" bgcolor="#c0c0c0">
+<tbody><tr>
+<td>
+<div class="imagebutton" id="cut"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/cut.gif" alt="Cut" title="Cut"></div>
+</td>
+<td>
+<div class="imagebutton" id="copy"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/copy.gif" alt="Copy" title="Copy"></div>
+</td>
+<td>
+<div class="imagebutton" id="paste"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/paste.gif" alt="Paste" title="Paste"></div>
+</td><td>
+</td>
+<td>
+</td>
+<td>
+<div class="imagebutton" id="undo"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/undo.gif" alt="Undo" title="Undo"></div>
+</td>
+<td>
+<div class="imagebutton" id="redo"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/redo.gif" alt="Redo" title="Redo"></div>
+</td>
+<td>
+</td>
+<td>
+<div style="border: 2px solid rgb(192, 192, 192); left: 10px;" class="imagebutton" id="createlink"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/link.gif" alt="Insert Link" title="Insert Link"></div>
+</td>
+<td>
+<div style="left: 10px;" class="imagebutton" id="createimage"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/image.gif" alt="Insert Image" title="Insert Image"></div>
+</td>
+<td>
+</td>
+<td>
+<div style="left: 10px;" class="imagebutton" id="createtable"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/table.gif" alt="Insert Table" title="Insert Table"></div>
+</td>
+</tr>
+</tbody></table>
+<br>
+<table id="toolbar2" bgcolor="#c0c0c0">
+<tbody><tr>
+<td>
+<select id="formatblock" onchange="Select(this.id);">
+  <option value="&lt;p&gt;">Normal</option>
+  <option value="&lt;p&gt;">Paragraph</option>
+  <option value="&lt;h1&gt;">Heading 1 </option>
+  <option value="&lt;h2&gt;">Heading 2 </option>
+  <option value="&lt;h3&gt;">Heading 3 </option>
+  <option value="&lt;h4&gt;">Heading 4 </option>
+  <option value="&lt;h5&gt;">Heading 5 </option>
+  <option value="&lt;h6&gt;">Heading 6 </option>
+  <option value="&lt;address&gt;">Address </option>
+  <option value="&lt;pre&gt;">Formatted </option>
+</select>
+</td>
+<td>
+<select id="fontname" onchange="Select(this.id);">
+  <option value="Font">Font</option>
+  <option value="Arial">Arial</option>
+  <option value="Courier">Courier</option>
+  <option value="Times New Roman">Times New Roman</option>
+</select>
+</td>
+<td>
+<select unselectable="on" id="fontsize" onchange="Select(this.id);">
+  <option value="Size">Size</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>  
+</select>
+</td>
+<td>
+<div class="imagebutton" id="bold"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/bold.gif" alt="Bold" title="Bold"></div>
+</td>
+<td>
+<div class="imagebutton" id="italic"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/italic.gif" alt="Italic" title="Italic"></div>
+</td>
+<td>
+<div class="imagebutton" id="underline"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/underline.gif" alt="Underline" title="Underline"></div>
+</td>
+<td>
+</td>
+<td>
+<div style="left: 10px;" class="imagebutton" id="forecolor"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/forecolor.gif" alt="Text Color" title="Text Color"></div>
+</td>
+<td>
+<div style="left: 40px;" class="imagebutton" id="hilitecolor"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/backcolor.gif" alt="Background Color" title="Background Color"></div>
+</td>
+<td>
+</td>
+<td>
+<div style="left: 10px;" class="imagebutton" id="justifyleft"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/justifyleft.gif" alt="Align Left" title="Align Left"></div>
+</td>
+<td>
+<div style="left: 40px;" class="imagebutton" id="justifycenter"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/justifycenter.gif" alt="Center" title="Center"></div>
+</td>
+<td>
+<div style="left: 70px;" class="imagebutton" id="justifyright"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/justifyright.gif" alt="Align Right" title="Align Right"></div>
+</td>
+<td>
+</td>
+<td>
+<div style="left: 10px;" class="imagebutton" id="insertorderedlist"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/orderedlist.gif" alt="Ordered List" title="Ordered List"></div>
+</td>
+<td>
+<div style="left: 40px;" class="imagebutton" id="insertunorderedlist"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/unorderedlist.gif" alt="Unordered List" title="Unordered List"></div>
+</td>
+<td>
+</td>
+<td>
+<div style="left: 10px;" class="imagebutton" id="outdent"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/outdent.gif" alt="Outdent" title="Outdent"></div>
+</td>
+<td>
+<div style="left: 40px;" class="imagebutton" id="indent"><img class="image" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/indent.gif" alt="Indent" title="Indent"></div>
+</td>
+</tr>
+</tbody></table>
+<br>
+<iframe id="edit" width="100%" height="500"></iframe>
+<iframe id="colorpalette" src="Mozilla%20Rich%20Text%20Editing%20Demo_files/colors.htm" style="visibility: hidden; position: absolute;" width="250" height="170"></iframe>
+
+<script>
+function viewsource(source)
+{
+  var html;
+	if (source) {
+		var txt = document.getElementById('edit').contentWindow.document.body.innerHTML;
+		txt = txt.replace("<br><br>", "\n</p>\n<p>\n", "g"); // double lines to paragraphs
+		txt = txt.replace("<br>", "<br>\n", "g"); // \n to view text clearly
+		if (txt.indexOf('<content><p>') < 0) {
+			txt = '<content><p>\n' + txt + '\n</p></content>';
+		}
+		txt = txt.replace("<a href", "<a target=_parent href", "g"); // open link in parent frame
+		txt = txt.replace(" </a>", "</a> ", "g"); // pull out space from link
+		txt = txt.replace(/<p><img src="([^"]*)">/, '<p align="center"><img src="$1">', 'g'); // center the image
+		txt = txt.replace(/<p> <img src="([^"]*)">/, '<p align="center"><img src="$1">', 'g'); // center the image
+
+    html = document.createTextNode(txt);
+    document.getElementById('edit').contentWindow.document.body.innerHTML = "";
+    html = document.getElementById('edit').contentWindow.document.importNode(html,false);
+	  document.getElementById('edit').contentWindow.document.body.appendChild(html);
+    document.getElementById("toolbar1").style.visibility="hidden";
+    document.getElementById("toolbar2").style.visibility="hidden";  
+  } else {
+    html = document.getElementById('edit').contentWindow.document.body.ownerDocument.createRange();
+    html.selectNodeContents(document.getElementById('edit').contentWindow.document.body);
+    document.getElementById('edit').contentWindow.document.body.innerHTML = html.toString();
+    document.getElementById("toolbar1").style.visibility="visible";
+    document.getElementById("toolbar2").style.visibility="visible";  
+  }
+}
+
+function usecss(source)
+{
+  document.getElementById('edit').contentWindow.document.execCommand("useCSS", false, !(source));  
+}
+
+function readonly(source)
+{
+    document.getElementById('edit').contentWindow.document.execCommand("readonly", false, !(source));  
+}
+</script>
+<input onclick="viewsource(this.checked)" type="checkbox">
+View HTML Source
+<input checked="checked" onclick="usecss(this.checked)" type="checkbox">
+Use CSS
+<input onclick="readonly(this.checked)" type="checkbox">
+Read only
+</div>
+</body></html>

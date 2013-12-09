@@ -1,0 +1,7 @@
+Node,Total Time,Avg Time,Proportion,Visits
+ friction_W, 38, 38, 0.03, 1
+ kinetic energy_W, 181, 23, 0.12, 8
+ MA_W, 779, 78, 0.54, 10
+ power_WA, 22, 4, 0.02, 5
+ work_WA, 216, 12, 0.15, 18
+TOTAL,1236,155,0,42

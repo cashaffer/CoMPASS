@@ -1,0 +1,600 @@
+oxygen5	FM
+oxygen5	FO
+oxygen5	FM
+oxygen5	FO
+oxygen5	Newtons 1st law_FO
+oxygen5	FO
+oxygen5	FM
+oxygen5	LM
+oxygen5	potential energy_LM
+oxygen5	kinetic energy_LM
+oxygen5	Speed_LM
+oxygen5	Velocity_LM
+oxygen5	acceleration_LM
+oxygen5	Velocity_LM
+oxygen5	momentum_LM
+oxygen5	mass_LM
+oxygen5	friction_LM
+oxygen5	normal force_LM
+oxygen5	Newtons laws_LM
+zinc5	FM
+zinc5	LM
+zinc5	Speed_LM
+zinc5	Velocity_LM
+zinc5	acceleration_LM
+zinc5	Velocity_LM
+zinc5	Newtons 1st law_LM
+zinc5	Velocity_LM
+zinc5	Speed_LM
+zinc5	kinetic energy_LM
+zinc5	mass_LM
+zinc5	momentum_LM
+zinc5	Velocity_LM
+zinc5	momentum_LM
+zinc5	friction_LM
+zinc5	force_LM
+zinc5	work_LM
+zinc5	force_LM
+zinc5	normal force_LM
+zinc5	height
+zinc5	FM
+zinc5	LM
+zinc5	work_LM
+zinc5	force_LM
+zinc5	normal force_LM
+zinc5	force_LM
+zinc5	gravity_LM
+zinc5	force_LM
+zinc5	energy_LM
+zinc5	potential energy_LM
+zinc5	kinetic energy_LM
+zinc5	friction_LM
+zinc5	force_LM
+zinc5	LM
+zinc5	distance
+zinc5	FM
+zinc5	LM
+zinc5	mass_LM
+zinc5	Newtons laws_LM
+zinc5	Newtons 1st law_LM
+zinc5	Newtons 2nd law_LM
+zinc5	Newtons 1st law_LM
+zinc5	Newtons 3rd law_LM
+zinc5	LM
+zinc5	FO
+zinc5	FM
+zinc5	LM
+zinc5	FO
+zinc5	shape_FO
+zinc5	FO
+zinc5	Newtons 3rd law_FO
+zinc5	force_FO
+zinc5	force_LM
+zinc5	LM
+zinc5	CM
+zinc5	FM
+zinc5	LM
+zinc5	FO
+zinc5	work_FO
+zinc5	work_LM
+zinc5	potential energy_LM
+oxygen5	FM
+oxygen5	LM
+oxygen5	mass_LM
+oxygen5	LM
+oxygen5	Newtons laws_LM
+oxygen5	LM
+oxygen5	acceleration_LM
+oxygen5	LM
+oxygen5	potential energy_LM
+oxygen5	LM
+oxygen5	Speed_LM
+oxygen5	LM
+oxygen5	Velocity_LM
+oxygen5	LM
+oxygen5	work_LM
+oxygen5	LM
+oxygen5	acceleration_LM
+oxygen5	LM
+oxygen5	energy_LM
+oxygen5	LM
+oxygen5	force_LM
+oxygen5	LM
+oxygen5	friction_LM
+oxygen5	LM
+oxygen5	gravity_LM
+oxygen5	LM
+oxygen5	kinetic energy_LM
+oxygen5	LM
+oxygen5	mass_LM
+oxygen5	LM
+oxygen5	momentum_LM
+oxygen5	LM
+oxygen5	Newtons 1st law_LM
+oxygen5	LM
+oxygen5	Newtons laws_LM
+oxygen5	LM
+oxygen5	normal force_LM
+oxygen5	LM
+oxygen5	FO
+oxygen5	FM
+oxygen5	LM
+oxygen5	height
+oxygen5	LM
+oxygen5	CM
+oxygen5	FM
+oxygen5	LM
+oxygen5	Speed_LM
+oxygen5	LM
+oxygen5	potential energy_LM
+oxygen5	LM
+oxygen5	Speed_LM
+oxygen5	LM
+oxygen5	potential energy_LM
+zinc5	FM
+zinc5	LM
+zinc5	Newtons 1st law_LM
+zinc5	acceleration_LM
+zinc5	Newtons 2nd law_LM
+zinc5	Newtons laws_LM
+zinc5	Newtons 2nd law_LM
+zinc5	mass_LM
+zinc5	momentum_LM
+zinc5	Velocity_LM
+zinc5	Speed_LM
+zinc5	momentum_LM
+zinc5	Speed_LM
+zinc5	kinetic energy_LM
+zinc5	energy_LM
+zinc5	LM
+zinc5	force_LM
+zinc5	normal force_LM
+zinc5	force_LM
+zinc5	LM
+zinc5	acceleration_LM
+zinc5	LM
+zinc5	Newtons 1st law_LM
+zinc5	Newtons laws_LM
+zinc5	Newtons 1st law_LM
+zinc5	Newtons 2nd law_LM
+zinc5	Newtons 3rd law_LM
+sodium5	FM
+sodium5	LM
+sodium5	Speed_LM
+sodium5	kinetic energy_LM
+sodium5	energy_LM
+sodium5	potential energy_LM
+sodium5	work_LM
+sodium5	gravity_LM
+sodium5	friction_LM
+sodium5	acceleration_LM
+sodium5	Newtons 2nd law_LM
+sodium5	mass_LM
+sodium5	Newtons 1st law_LM
+sodium5	Newtons laws_LM
+sodium5	Newtons 2nd law_LM
+sodium5	Newtons laws_LM
+sodium5	Newtons 3rd law_LM
+sodium5	Newtons 1st law_LM
+sodium5	momentum_LM
+sodium5	LM
+sodium5	potential energy_LM
+sodium5	energy_LM
+sodium5	potential energy_LM
+sodium5	work_LM
+sodium5	normal force_LM
+sodium5	FM
+sodium5	height
+sodium5	FM
+sodium5	CM
+sodium5	Newtons 3rd law_CM
+sodium5	Newtons 3rd law
+sodium5	FM
+sodium5	LM
+sodium5	kinetic energy_LM
+sodium5	potential energy
+sodium5	potential energy_LM
+sodium5	FM
+sodium5	LM
+sodium5	mass_LM
+sodium5	Newtons 1st law_LM
+sodium5	Newtons 2nd law_LM
+sodium5	Newtons 3rd law_LM
+sodium5	force_LM
+sodium5	friction_LM
+sodium5	force_LM
+sodium5	work_LM
+sodium5	acceleration_LM
+sodium5	gravity_LM
+sodium5	work_LM
+sodium5	potential energy_LM
+helium5	FM
+helium5	FO
+helium5	Speed_FO
+helium5	Velocity_FO
+helium5	Newtons 1st law_FO
+helium5	Newtons laws_FO
+helium5	Newtons 2nd law_FO
+helium5	Newtons laws_FO
+helium5	Newtons 3rd law_FO
+helium5	Newtons laws_FO
+helium5	Newtons 3rd law_FO
+helium5	force_FO
+helium5	work_FO
+helium5	potential energy_FO
+helium5	potential energy
+helium5	potential energy_FO
+helium5	energy_FO
+helium5	kinetic energy_FO
+helium5	Speed_FO
+helium5	kinetic energy_FO
+helium5	Speed_FO
+helium5	kinetic energy_FO
+helium5	mass_FO
+helium5	gravity_FO
+helium5	acceleration_FO
+helium5	drag_FO
+zinc5	FM
+zinc5	LM
+zinc5	Speed_LM
+zinc5	kinetic energy_LM
+zinc5	mass_LM
+zinc5	Newtons 1st law_LM
+zinc5	Velocity_LM
+zinc5	kinetic energy_LM
+zinc5	mass_LM
+zinc5	acceleration_LM
+argon5	FM
+argon5	FO
+argon5	FM
+argon5	work_FO
+argon5	Newtons laws_FO
+argon5	acceleration_FO
+argon5	Speed_FO
+argon5	kinetic energy_FO
+argon5	Speed_FO
+argon5	acceleration_FO
+argon5	Newtons laws_FO
+argon5	work_FO
+argon5	FM
+argon5	LM
+argon5	momentum_LM
+argon5	mass_LM
+argon5	kinetic energy_LM
+argon5	Velocity_LM
+argon5	momentum_LM
+argon5	acceleration_LM
+argon5	gravity_LM
+argon5	FM
+argon5	LM
+argon5	kinetic energy_LM
+argon5	Speed_LM
+argon5	Speed
+argon5	Speed_LM
+argon5	kinetic energy_LM
+argon5	mass_LM
+argon5	kinetic energy_LM
+argon5	Speed_LM
+argon5	Velocity_LM
+argon5	Newtons 1st law_LM
+argon5	Newtons laws_LM
+argon5	Newtons 2nd law_LM
+argon5	potential energy
+argon5	potential energy_LM
+argon5	LM
+argon5	Newtons 3rd law_LM
+argon5	LM
+argon5	potential energy_LM
+argon5	LM
+argon5	potential energy_LM
+argon5	LM
+argon5	acceleration_LM
+argon5	Velocity_LM
+argon5	momentum_LM
+argon5	mass_LM
+argon5	friction_LM
+argon5	force_LM
+argon5	gravity_LM
+argon5	gravity_FO
+argon5	drag_FO
+argon5	LM
+argon5	energy_LM
+argon5	LM
+argon5	normal force_LM
+argon5	LM
+argon5	CM
+argon5	LM
+argon5	FM
+argon5	LM
+argon5	FO
+oxygen5	FM
+oxygen5	potential energy
+oxygen5	potential energy_CM
+oxygen5	FM
+oxygen5	LM
+oxygen5	Newtons 1st law_LM
+oxygen5	Newtons 3rd law_LM
+oxygen5	Newtons 2nd law_LM
+oxygen5	Newtons 3rd law_LM
+argon5	FM
+argon5	LM
+argon5	Newtons 1st law_LM
+argon5	Newtons 2nd law_LM
+argon5	Newtons 3rd law_LM
+argon5	LM
+argon5	Velocity_LM
+argon5	acceleration_LM
+argon5	LM
+argon5	mass_LM
+argon5	normal force_LM
+argon5	acceleration_LM
+argon5	Newtons laws_LM
+argon5	force_LM
+argon5	Newtons 3rd law_LM
+helium5	FM
+helium5	LM
+helium5	work_LM
+helium5	gravity_LM
+helium5	friction_LM
+helium5	Newtons 2nd law_LM
+helium5	Newtons 1st law_LM
+helium5	Newtons 3rd law_LM
+helium5	height
+helium5	Newtons 3rd law_LM
+helium5	force
+helium5	force_FO
+helium5	energy_FO
+helium5	potential energy_FO
+helium5	potential energy
+helium5	potential energy_CM
+helium5	energy_CM
+helium5	mass_CM
+helium5	Newtons laws_CM
+helium5	Velocity_CM
+helium5	gravity_CM
+helium5	Velocity_CM
+helium5	Newtons 2nd law_CM
+helium5	Newtons 3rd law_CM
+helium5	Newtons 2nd law_CM
+helium5	G forces_CM
+helium5	gravity_CM
+helium5	G forces_CM
+helium5	force_CM
+helium5	Velocity_CM
+helium5	G forces_CM
+helium5	gravity_CM
+helium5	CM
+helium5	LM
+helium5	CM
+helium5	FM
+helium5	LM
+helium5	Newtons 1st law_LM
+helium5	momentum_LM
+helium5	Velocity_LM
+helium5	acceleration_LM
+helium5	force_LM
+helium5	gravity_LM
+helium5	Newtons 2nd law_LM
+helium5	work_LM
+helium5	LM
+helium5	Velocity_LM
+helium5	LM
+helium5	gravity_LM
+helium5	friction_LM
+helium5	Newtons 2nd law
+helium5	Newtons 3rd law
+helium5	Newtons 3rd law_LM
+helium5	gravity
+argon5	FM
+argon5	LM
+argon5	Speed_LM
+argon5	Speed
+argon5	Speed_LM
+argon5	kinetic energy_LM
+argon5	potential energy_LM
+argon5	energy_LM
+argon5	Speed_LM
+argon5	Newtons 1st law_LM
+argon5	Newtons 2nd law_LM
+argon5	work_LM
+argon5	gravity_LM
+argon5	mass_LM
+argon5	friction_LM
+argon5	distance
+argon5	mass
+argon5	mass_LM
+argon5	energy_LM
+oxygen5	FM
+oxygen5	LM
+oxygen5	Speed_LM
+oxygen5	LM
+oxygen5	Velocity_LM
+oxygen5	LM
+oxygen5	work_LM
+oxygen5	LM
+oxygen5	acceleration_LM
+oxygen5	LM
+oxygen5	energy_LM
+oxygen5	LM
+oxygen5	force_LM
+oxygen5	LM
+oxygen5	momentum_LM
+oxygen5	LM
+oxygen5	momentum_LM
+oxygen5	LM
+oxygen5	friction_LM
+oxygen5	LM
+oxygen5	mass_LM
+oxygen5	LM
+oxygen5	gravity_LM
+oxygen5	Newtons 2nd law_LM
+oxygen5	Newtons 1st law_LM
+oxygen5	Newtons laws_LM
+oxygen5	Newtons 1st law_LM
+helium5	FM
+helium5	LM
+helium5	Newtons 1st law_LM
+helium5	Newtons 3rd law_LM
+helium5	Newtons 2nd law_LM
+helium5	Newtons 3rd law_LM
+helium5	Newtons laws_LM
+helium5	LM
+helium5	acceleration_LM
+helium5	force_LM
+helium5	Velocity_LM
+helium5	acceleration_LM
+helium5	Velocity_LM
+helium5	LM
+sodium5	FM
+sodium5	CM
+sodium5	FM
+sodium5	CM
+sodium5	FM
+sodium5	LM
+sodium5	acceleration_LM
+sodium5	LM
+sodium5	Newtons laws_LM
+sodium5	Newtons 1st law_LM
+sodium5	Newtons 2nd law_LM
+zinc5	FM
+zinc5	LM
+zinc5	FM
+zinc5	FO
+zinc5	FM
+zinc5	FO
+zinc5	Newtons 1st law_FO
+zinc5	Newtons 2nd law_FO
+zinc5	Newtons 3rd law_FO
+zinc5	force_FO
+zinc5	drag_FO
+zinc5	gravity_FO
+zinc5	acceleration_FO
+zinc5	Velocity_FO
+zinc5	Speed_FO
+zinc5	energy_FO
+zinc5	gravity_FO
+zinc5	energy_FO
+zinc5	kinetic energy_FO
+zinc5	momentum_FO
+zinc5	Newtons 2nd law_FO
+zinc5	Newtons laws_FO
+zinc5	acceleration_FO
+zinc5	LM
+zinc5	acceleration_LM
+zinc5	normal force_LM
+zinc5	force_LM
+zinc5	Newtons 3rd law_LM
+zinc5	Newtons laws_LM
+zinc5	Newtons 3rd law_LM
+zinc5	normal force_LM
+zinc5	force_LM
+zinc5	mass_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	gravity_LM
+zinc5	acceleration_LM
+zinc5	Newtons 1st law_LM
+zinc5	Speed_LM
+zinc5	mass_LM
+zinc5	friction_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	gravity_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	force_LM
+zinc5	acceleration_LM
+zinc5	gravity_LM
+zinc5	force_LM
+zinc5	gravity_LM
+sodium5	FM
+sodium5	LM
+sodium5	Speed_LM
+sodium5	energy_LM
+sodium5	Speed_LM
+sodium5	mass_LM
+sodium5	Velocity_LM
+sodium5	mass_LM
+sodium5	Velocity_LM
+sodium5	mass_LM
+sodium5	energy_LM
+sodium5	force_LM
+sodium5	Newtons laws_LM
+sodium5	Newtons laws_CM
+sodium5	Velocity_CM
+sodium5	kinetic energy_CM
+sodium5	kinetic energy_FO
+sodium5	potential energy_FO
+sodium5	energy_FO
+sodium5	energy_LM
+sodium5	work_LM
+sodium5	acceleration_LM
+sodium5	gravity_LM
+sodium5	FM
+sodium5	LM
+sodium5	CM
+sodium5	acceleration_CM
+sodium5	Speed_CM
+sodium5	FO
+sodium5	drag_FO
+sodium5	Newtons 2nd law_FO
+sodium5	gravity_FO
+sodium5	Newtons 3rd law_FO
+sodium5	Newtons 2nd law_FO
+sodium5	Velocity_FO
+sodium5	gravity_FO
+sodium5	surface area_FO
+sodium5	shape_FO
+sodium5	surface area_FO
+sodium5	gravity_FO
+sodium5	Newtons 3rd law_FO
+sodium5	gravity_FO
+sodium5	force_FO
+argon5	FM
+argon5	CM
+argon5	FM
+argon5	LM
+argon5	potential energy_LM
+argon5	kinetic energy_LM
+argon5	work_LM
+argon5	force_LM
+argon5	work_LM
+argon5	energy_LM
+argon5	mass_LM
+argon5	LM
+argon5	potential energy_LM
+argon5	energy_LM
+argon5	Speed_LM
+argon5	LM
+argon5	acceleration_LM
+argon5	Velocity_LM
+argon5	Speed_LM
+argon5	momentum_LM
+argon5	Velocity_LM
+argon5	force_LM

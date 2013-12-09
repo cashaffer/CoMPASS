@@ -1,0 +1,37 @@
+<html>
+	<title>
+		View student log data
+	</title>
+	<body onload="document.getElementById('uname').focus();">
+<center>
+  <div align="center"><img src="/compass/images/compass_banner.jpg"></div>
+	<br>
+  <br>
+  <br>
+	<b style="font-family:helvetica; font-size:large; color:#568">Welcome Teacher<br/></b>
+	Please enter your username and password to view students' log data.<br/><br/>
+    <form name="form1" method="post" action="viewlogs_checklogin.php">
+			<table style="font-size:14px;background:#c3d9dd;border:2px solid #93a9aa;padding:2px">
+				<tr>
+					<td>Username:</td>
+					<td>&nbsp;</td>
+					<td><input id="uname" name="username" type="text" size="15" maxlength="20" tabindex="1"/></td>
+				</tr>
+
+				<tr>
+					<td>Password:</td>
+					<td>&nbsp;</td>
+					<td><input name="password" type="password" size="15" maxlength="15" tabindex="2"/></td>
+				</tr>
+
+				<tr>
+					<td></td>
+					<td><input type="submit" name="Submit" value="Login" tabindex="3" style="font-weight:bold"> </td>
+					<td></td>
+			</table>
+    </form>
+  </table>
+</center>
+</body>
+</html>
+

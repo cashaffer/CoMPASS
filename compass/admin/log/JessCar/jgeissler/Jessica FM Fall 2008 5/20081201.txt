@@ -1,0 +1,460 @@
+
+
+
+User	Leader	Question
+argon5	Allie Zauner	Stop ther car
+
+Group	Node	Source	Staying Time(Sec)
+argon5	FM	Text	246
+argon5	LM	Map	70
+argon5	FO	Text	293
+argon5	acceleration_FO	Map	5
+argon5	potential energy_FO	Map	40
+argon5	mass_FO	Map	6
+argon5	Newtons 1st law_FO	Text	N/A
+
+
+
+User	Leader	Question
+sodium5	Allie Taylor	stop the car
+
+Group	Node	Source	Staying Time(Sec)
+sodium5	FM	Text	12
+sodium5	FM	Text	2
+sodium5	LM	Map	5
+sodium5	momentum_LM	Map	656
+sodium5	moment of inertia	NaviBar	1
+sodium5	moment of inertia	Map	1
+sodium5	moment of inertia	Map	4
+sodium5	moment of inertia	Map	4
+sodium5	FM	Text	2
+sodium5	LM	Map	13
+sodium5	Newtons 1st law_LM	Map	4
+sodium5	Velocity_LM	Text	N/A
+
+
+
+User	Leader	Question
+zinc5	Annabell Pedersen	stop the car
+
+Group	Node	Source	Staying Time(Sec)
+zinc5	FM	Text	12
+zinc5	LM	Map	6
+zinc5	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen5	Jamie Monte	Stop the Car
+
+Group	Node	Source	Staying Time(Sec)
+oxygen5	FM	Text	7
+oxygen5	LM	Map	21
+oxygen5	momentum_LM	Map	43
+oxygen5	Speed_LM	Map	246
+oxygen5	momentum_LM	Map	374
+oxygen5	Speed_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen5	Cierra Teasdale	Stop the car!
+
+Group	Node	Source	Staying Time(Sec)
+oxygen5	FM	Text	6
+oxygen5	LM	Map	3
+oxygen5	Speed_LM	Map	77
+oxygen5	energy_LM	Map	140
+oxygen5	LM	NaviBar	6
+oxygen5	Newtons laws_LM	Map	1
+oxygen5	Newtons 1st law_LM	Map	194
+oxygen5	LM	NaviBar	5
+oxygen5	momentum_LM	Map	235
+oxygen5	LM	NaviBar	8
+oxygen5	mass_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen5	Mick Karls	Stop the car
+
+Group	Node	Source	Staying Time(Sec)
+oxygen5	FM	Text	188
+oxygen5	CM	Map	2
+oxygen5	Velocity_CM	Map	7
+oxygen5	CM	Map	2
+oxygen5	FM	Text	9
+oxygen5	momentum	NaviBar	100
+oxygen5	momentum	Map	18
+oxygen5	moment of inertia	NaviBar	4
+oxygen5	momentum	Map	10
+oxygen5	moment of inertia	NaviBar	6
+oxygen5	moment of inertia	NaviBar	13
+oxygen5	momentum	Map	5
+oxygen5	momentum_FO	NaviBar	3
+oxygen5	momentum_LM	NaviBar	2
+oxygen5	momentum	NaviBar	4
+oxygen5	momentum_LM	Map	6
+oxygen5	Newtons 2nd law_LM	Map	7
+oxygen5	Newtons 1st law_LM	Map	5
+oxygen5	momentum_LM	Map	9
+oxygen5	Newtons 1st law_LM	Map	5
+oxygen5	Newtons 2nd law_LM	Map	3
+oxygen5	Newtons 3rd law_LM	Map	6
+oxygen5	Newtons 2nd law_LM	Map	14
+oxygen5	moment of inertia	NaviBar	1
+oxygen5	Newtons 2nd law_LM	Map	33
+oxygen5	force_LM	Text	11
+oxygen5	Newtons 2nd law_LM	Map	3
+oxygen5	Newtons 2nd law_LM	Map	8
+oxygen5	force_LM	Map	7
+oxygen5	Newtons laws_LM	Map	6
+oxygen5	force_LM	Map	5
+oxygen5	Newtons laws_LM	Map	2
+oxygen5	Newtons 3rd law_LM	Map	3
+oxygen5	Newtons laws_LM	Map	3
+oxygen5	mass_LM	Map	6
+oxygen5	Newtons laws_LM	Map	2
+oxygen5	acceleration_LM	Map	8
+oxygen5	Newtons laws_LM	Map	42
+oxygen5	Newtons laws_LM	Map	13
+oxygen5	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon5	Mimi Cuccia	Stop That Car!
+
+Group	Node	Source	Staying Time(Sec)
+argon5	FM	Text	17
+argon5	momentum	NaviBar	21
+argon5	momentum_LM	Map	80
+argon5	Newtons laws	NaviBar	2
+argon5	Newtons laws_LM	Map	18
+argon5	Newtons 1st law_LM	Map	14
+argon5	Newtons laws	NaviBar	6
+argon5	Newtons laws_LM	Map	186
+argon5	moment of inertia	NaviBar	2
+argon5	moment of inertia	Map	6
+argon5	moment of inertia	Map	1
+argon5	moment of inertia	Map	1
+argon5	moment of inertia	Map	17
+argon5	moment of inertia	Map	17
+argon5	moment of inertia	NaviBar	N/A
+
+
+
+User	Leader	Question
+zinc5	Taylor Stevens	Stop the car
+
+Group	Node	Source	Staying Time(Sec)
+zinc5	FM	Text	12
+zinc5	LM	Map	5
+zinc5	momentum_LM	Map	322
+zinc5	Newtons 1st law_LM	Text	10
+zinc5	momentum_LM	Map	16
+zinc5	Velocity_LM	Map	2
+zinc5	momentum_LM	Map	2
+zinc5	mass_LM	Map	5
+zinc5	momentum_LM	Map	314
+
+
+
+User	Leader	Question
+helium5	Nick Roessler	Stop the car
+
+Group	Node	Source	Staying Time(Sec)
+helium5	FM	Text	33
+helium5	LM	Map	13
+helium5	momentum_LM	Map	296
+helium5	Newtons 1st law_LM	Map	5
+helium5	Newtons laws_LM	Map	5
+helium5	Newtons laws_LM	Map	3
+helium5	Newtons laws_LM	Map	3
+helium5	normal force_LM	Map	6
+helium5	Newtons laws_LM	Map	17
+helium5	Newtons 1st law_LM	Text	6
+helium5	Newtons 2nd law_LM	Map	7
+helium5	Newtons 3rd law_LM	Map	6
+helium5	Newtons 1st law_LM	Map	6
+helium5	Newtons 2nd law_LM	Map	10
+helium5	moment of inertia	NaviBar	20
+helium5	Newtons 2nd law_LM	Map	1
+helium5	moment of inertia	NaviBar	12
+helium5	Newtons 2nd law_LM	Map	25
+helium5	moment of inertia	Map	5
+helium5	moment of inertia	Map	5
+helium5	Newtons 2nd law_LM	Map	2
+helium5	Newtons 1st law_LM	Map	1
+helium5	Newtons 3rd law_LM	Map	1
+helium5	Newtons 2nd law_LM	Map	1
+helium5	Newtons 1st law_LM	Text	3
+helium5	LM	NaviBar	4
+helium5	Newtons laws_LM	Map	1
+helium5	Newtons 2nd law_LM	Map	69
+helium5	force_LM	Text	19
+helium5	Newtons 2nd law_LM	Map	10
+helium5	acceleration_LM	Text	15
+helium5	LM	Text	3
+helium5	mass_LM	Map	5
+helium5	friction_LM	Text	18
+helium5	force_LM	Map	3
+helium5	Newtons 3rd law_LM	Map	9
+helium5	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium5	Amanda Kluver	Stop the Car
+
+Group	Node	Source	Staying Time(Sec)
+helium5	FM	Text	34
+helium5	CM	Map	3
+helium5	FM	Text	5
+helium5	LM	NaviBar	11
+helium5	Speed_LM	Map	84
+helium5	LM	NaviBar	3
+helium5	Speed_LM	Map	1
+helium5	Speed_LM	Map	1
+helium5	Speed_LM	Map	1
+helium5	Speed_LM	Map	1
+helium5	Speed_CM	NaviBar	1
+helium5	Speed_LM	NaviBar	3
+helium5	Speed_FO	NaviBar	2
+helium5	Speed_CM	NaviBar	2
+helium5	LM	NaviBar	4
+helium5	mass_LM	Map	79
+helium5	Newtons 1st law_LM	Text	149
+helium5	Newtons laws_LM	Map	34
+helium5	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon5	Jared Meier	N/A
+
+Group	Node	Source	Staying Time(Sec)
+argon5	FM	Text	79
+argon5	FO	Map	85
+argon5	momentum_FO	Map	7
+argon5	momentum_FO	Map	5
+argon5	Velocity_FO	Map	5
+argon5	mass_FO	Map	15
+argon5	Velocity_FO	Map	5
+argon5	Newtons laws_FO	Map	35
+argon5	FM	NaviBar	12
+argon5	LM	Map	7
+argon5	Newtons laws_LM	Map	5
+argon5	Newtons 1st law_LM	Map	3
+argon5	Velocity_LM	Map	28
+argon5	Newtons 1st law_LM	Map	13
+argon5	Newtons laws_LM	Map	43
+argon5	Newtons 3rd law_LM	Text	32
+argon5	Newtons 1st law_LM	Map	157
+argon5	Newtons 1st law	NaviBar	16
+argon5	Newtons 1st law_LM	Map	2
+argon5	acceleration_LM	Map	1
+argon5	Speed_LM	Map	3
+argon5	Speed_LM	Map	3
+argon5	Newtons 1st law_LM	Map	1
+argon5	Velocity_LM	Map	3
+argon5	acceleration_LM	Map	2
+argon5	friction_LM	Map	2
+argon5	work_LM	Map	1
+argon5	normal force_LM	Map	2
+argon5	friction_LM	Map	2
+argon5	mass_LM	Map	8
+argon5	Newtons 2nd law_LM	Map	2
+argon5	acceleration_LM	Map	5
+argon5	force_LM	Map	4
+argon5	gravity_LM	Map	3
+argon5	force_LM	Map	3
+argon5	work_LM	Map	3
+argon5	energy_LM	Map	4
+argon5	kinetic energy_LM	Map	3
+argon5	momentum_LM	Map	7
+argon5	kinetic energy_LM	Map	3
+argon5	momentum_LM	Map	4
+argon5	kinetic energy_LM	Map	3
+argon5	momentum_LM	Map	3
+argon5	kinetic energy_LM	Map	12
+argon5	work_LM	Map	N/A
+
+
+
+User	Leader	Question
+sodium5	Hannah Fricke	Stop That Car!
+
+Group	Node	Source	Staying Time(Sec)
+sodium5	FM	Text	9
+sodium5	LM	Map	4
+sodium5	Newtons laws_LM	Map	21
+sodium5	LM	Map	12
+sodium5	FM	Text	2
+sodium5	LM	Map	4
+sodium5	momentum_LM	Map	596
+
+
+
+User	Leader	Question
+argon5	Eric williamson	stop that car
+
+Group	Node	Source	Staying Time(Sec)
+argon5	FM	Text	23
+argon5	LM	Map	2
+argon5	momentum_LM	Map	312
+argon5	momentum	NaviBar	5
+argon5	momentum_LM	Map	1
+argon5	Velocity_LM	Map	1
+argon5	Velocity_LM	Map	1
+argon5	Speed_LM	Map	1
+argon5	Speed_LM	Map	1
+argon5	Velocity_LM	Map	2
+argon5	Velocity_LM	Map	2
+argon5	Newtons 1st law_LM	Map	2
+argon5	Newtons laws_LM	Map	1
+argon5	Newtons laws_LM	Map	1
+argon5	Newtons 2nd law_LM	Map	1
+argon5	Newtons 2nd law_LM	Map	2
+argon5	kinetic energy_LM	Map	1
+argon5	Newtons 2nd law_LM	Map	3
+argon5	Newtons 3rd law_LM	Map	2
+argon5	Newtons 1st law_LM	Map	2
+argon5	Newtons 2nd law_LM	Map	3
+argon5	Velocity_LM	Map	2
+argon5	force_LM	Map	2
+argon5	Velocity_LM	Map	2
+argon5	Newtons 2nd law_LM	Map	1
+argon5	Velocity_LM	Map	2
+argon5	Speed_LM	Map	2
+argon5	acceleration_LM	Map	1
+argon5	acceleration_LM	Map	1
+argon5	acceleration_LM	Map	1
+argon5	Velocity_LM	Map	1
+argon5	Velocity_LM	Map	1
+argon5	acceleration_LM	Map	2
+argon5	Speed_LM	Map	2
+argon5	acceleration_LM	Map	5
+argon5	Speed_LM	Map	69
+argon5	Speed_CM	NaviBar	3
+argon5	Speed_FO	NaviBar	2
+argon5	Speed_LM	NaviBar	1
+argon5	Speed_CM	NaviBar	1
+argon5	Speed_FO	NaviBar	16
+argon5	FO	NaviBar	4
+argon5	acceleration_FO	Map	2
+argon5	acceleration_LM	NaviBar	4
+argon5	LM	NaviBar	4
+argon5	energy_LM	Map	1
+argon5	kinetic energy_LM	Map	2
+argon5	kinetic energy_LM	Map	2
+argon5	work_LM	Map	2
+argon5	work_LM	Map	2
+argon5	work_LM	Map	0
+argon5	work_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium5	Taylor Mulcahey	Stop that car
+
+Group	Node	Source	Staying Time(Sec)
+helium5	FM	Text	11
+helium5	LM	Map	118
+helium5	moment of inertia	NaviBar	4
+helium5	moment of inertia	Map	3
+helium5	moment of inertia	Map	11
+helium5	moment of inertia	Map	19
+helium5	LM	NaviBar	3
+helium5	momentum_LM	Map	396
+helium5	Newtons 1st law_LM	Text	N/A
+
+
+
+User	Leader	Question
+sodium5	Michaela Johnson	Stop That Car
+
+Group	Node	Source	Staying Time(Sec)
+sodium5	FM	Text	18
+sodium5	LM	Map	65
+sodium5	Newtons 1st law_LM	Map	25
+sodium5	momentum_LM	Map	368
+sodium5	Velocity_LM	Map	8
+sodium5	Newtons 2nd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium5	N/A	N/A
+
+Group	Node	Source	Staying Time(Sec)
+helium5	FM	Text	36
+helium5	momentum	NaviBar	3
+helium5	momentum_FO	Map	3
+helium5	momentum	NaviBar	4
+helium5	FM	Text	10
+helium5	FM	Text	12
+helium5	momentum	NaviBar	3
+helium5	momentum_LM	Map	141
+helium5	momentum	NaviBar	7
+helium5	FM	Text	7
+helium5	acceleration_LM	Map	2
+helium5	Newtons 1st law_LM	Map	1
+helium5	momentum_LM	Map	2
+helium5	mass_LM	Map	7
+helium5	energy_LM	Map	9
+helium5	force_LM	Map	33
+helium5	gravity_LM	Map	129
+helium5	work_LM	Map	2
+helium5	normal force_LM	Map	9
+helium5	Newtons laws_LM	Map	34
+helium5	FM	NaviBar	4
+helium5	CM	Map	49
+helium5	G forces_CM	Map	5
+helium5	acceleration_CM	Map	20
+helium5	Speed_CM	Map	12
+helium5	kinetic energy_CM	Map	2
+helium5	mass_CM	Map	6
+helium5	force_CM	Map	N/A
+
+
+
+User	Leader	Question
+sodium5	Quentin	Stuff
+
+Group	Node	Source	Staying Time(Sec)
+sodium5	FM	Text	132
+sodium5	FO	Map	2
+sodium5	drag_FO	Map	35
+sodium5	surface area_FO	Map	48
+sodium5	shape_FO	Map	2
+sodium5	lift_FO	Map	249
+sodium5	drag_FO	Map	N/A
+
+
+
+User	Leader	Question
+zinc5	Willie Freimuth	Linear Motion stuff
+
+Group	Node	Source	Staying Time(Sec)
+zinc5	FM	Text	19
+zinc5	LM	Map	13
+zinc5	momentum_LM	Map	391
+zinc5	mass_LM	Map	8
+zinc5	Newtons laws_LM	Map	6
+zinc5	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon5	Mimi Cuccia	Stop That Car!
+
+Group	Node	Source	Staying Time(Sec)
+argon5	FM	Text	4
+argon5	moment of inertia	NaviBar	4
+argon5	moment of inertia	Map	8
+argon5	moment of inertia	NaviBar	13
+argon5	moment of inertia	NaviBar	68
+argon5	Newtons laws	NaviBar	3
+argon5	Newtons laws_LM	Map	1
+argon5	Newtons 1st law_LM	Map	N/A

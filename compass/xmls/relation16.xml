@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+    <relation>
+        <unit id="16" label="Simple Machines ">
+        <topic id="42" label="Inclined Plane ">
+          <edge source="97" target="112" label="affects"></edge>
+          <edge source="99" target="136" label="percent useful"></edge>
+          <edge source="100" target="136" label="ability to do"></edge>
+          <edge source="102" target="112" label="affects"></edge>
+          <edge source="103" target="99" label="reduces"></edge>
+          <edge source="103" target="102" label="type of"></edge>
+          <edge source="106" target="102" label="type of"></edge>
+          <edge source="110" target="100" label="type of"></edge>
+          <edge source="122" target="100" label="type of"></edge>
+          <edge source="123" target="136" label="rate of"></edge>
+          <edge source="136" target="97" label="depends on"></edge>
+          <edge source="136" target="102" label="depends on"></edge>
+        </topic>
+        <topic id="45" label="Lever ">
+          <edge source="97" target="112" label="affects"></edge>
+          <edge source="99" target="136" label="percent useful"></edge>
+          <edge source="100" target="136" label="ability to do"></edge>
+          <edge source="102" target="112" label="affects"></edge>
+          <edge source="103" target="99" label="reduces"></edge>
+          <edge source="103" target="102" label="is a"></edge>
+          <edge source="106" target="102" label="type of"></edge>
+          <edge source="110" target="100" label="type of"></edge>
+          <edge source="122" target="100" label="type of"></edge>
+          <edge source="123" target="136" label="rate of"></edge>
+          <edge source="136" target="97" label="depends on"></edge>
+          <edge source="136" target="102" label="depends on"></edge>
+        </topic>
+        <topic id="48" label="Pulley ">
+          <edge source="97" target="112" label="affects"></edge>
+          <edge source="99" target="136" label="percent useful"></edge>
+          <edge source="100" target="136" label="ability to do"></edge>
+          <edge source="102" target="112" label="affects"></edge>
+          <edge source="103" target="99" label="reduces"></edge>
+          <edge source="103" target="102" label="is a"></edge>
+          <edge source="106" target="102" label="type of"></edge>
+          <edge source="110" target="100" label="type of"></edge>
+          <edge source="122" target="100" label="type of"></edge>
+          <edge source="123" target="136" label="rate of"></edge>
+          <edge source="136" target="97" label="depends on"></edge>
+          <edge source="136" target="102" label="depends on"></edge>
+        </topic>
+        <topic id="51" label="Screw ">
+          <edge source="97" target="112" label="affects"></edge>
+          <edge source="99" target="136" label="percent useful"></edge>
+          <edge source="100" target="136" label="ability to do"></edge>
+          <edge source="102" target="112" label="affects"></edge>
+          <edge source="103" target="99" label="reduces"></edge>
+          <edge source="103" target="102" label="type of"></edge>
+          <edge source="106" target="102" label="type of"></edge>
+          <edge source="110" target="100" label="type of"></edge>
+          <edge source="122" target="100" label="type of"></edge>
+          <edge source="123" target="136" label="rate of"></edge>
+          <edge source="136" target="97" label="depends on"></edge>
+          <edge source="136" target="102" label="depends on"></edge>
+        </topic>
+        <topic id="54" label="Wedge ">
+          <edge source="97" target="112" label="affects"></edge>
+          <edge source="99" target="136" label="percent useful"></edge>
+          <edge source="100" target="136" label="ability to do"></edge>
+          <edge source="102" target="112" label="affects"></edge>
+          <edge source="103" target="99" label="reduces"></edge>
+          <edge source="103" target="102" label="type of"></edge>
+          <edge source="106" target="102" label="type of"></edge>
+          <edge source="110" target="100" label="type of"></edge>
+          <edge source="122" target="100" label="type of"></edge>
+          <edge source="123" target="136" label="rate of"></edge>
+          <edge source="136" target="97" label="depends on"></edge>
+          <edge source="136" target="102" label="depends on"></edge>
+        </topic>
+        <topic id="57" label="Wheel and Axle ">
+          <edge source="97" target="112" label="affects"></edge>
+          <edge source="99" target="136" label="percent useful"></edge>
+          <edge source="100" target="136" label="ability to do"></edge>
+          <edge source="102" target="112" label="affects"></edge>
+          <edge source="103" target="99" label="reduces"></edge>
+          <edge source="103" target="102" label="type of"></edge>
+          <edge source="106" target="102" label="type of"></edge>
+          <edge source="110" target="100" label="type of"></edge>
+          <edge source="122" target="100" label="type of"></edge>
+          <edge source="123" target="136" label="rate of"></edge>
+          <edge source="136" target="97" label="depends on"></edge>
+          <edge source="136" target="102" label="depends on"></edge>
+        </topic>
+      </unit>
+     
+     
+    </relation>

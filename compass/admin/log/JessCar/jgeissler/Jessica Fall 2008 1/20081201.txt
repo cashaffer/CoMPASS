@@ -1,0 +1,21 @@
+
+
+
+User	Leader	Question
+iron1	Sydney Anhalt	inertia
+
+Group	Node	Source	Staying Time(Sec)
+iron1	FM	Text	15
+iron1	LM	Map	60
+iron1	Newtons 1st law_LM	Map	151
+iron1	acceleration_LM	Map	16
+iron1	kinetic energy_LM	Map	7
+iron1	momentum_LM	Map	126
+iron1	Newtons 2nd law_LM	Map	232
+iron1	mass_LM	Map	107
+iron1	acceleration_LM	Map	65
+iron1	energy_LM	Map	88
+iron1	work_LM	Map	44
+iron1	gravity_LM	Map	30
+iron1	force_LM	Map	22
+iron1	Speed_LM	Map	N/A

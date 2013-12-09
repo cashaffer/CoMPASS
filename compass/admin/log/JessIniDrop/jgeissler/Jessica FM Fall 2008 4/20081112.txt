@@ -1,0 +1,878 @@
+
+
+
+User	Leader	Question
+helium4	kristin niemi	forces and motion research
+
+Group	Node	Source	Staying Time(Sec)
+helium4	FM	Text	22
+helium4	LM	Map	33
+helium4	FM	Text	12
+helium4	LM	Map	23
+helium4	Speed_LM	Map	284
+helium4	LM	NaviBar	12
+helium4	Velocity_LM	Map	64
+helium4	Speed_LM	Map	4
+helium4	LM	NaviBar	3
+helium4	Speed_LM	Map	16
+helium4	LM	NaviBar	8
+helium4	Velocity_LM	Map	74
+helium4	LM	NaviBar	8
+helium4	acceleration_LM	Map	103
+helium4	LM	NaviBar	12
+helium4	LM	NaviBar	12
+helium4	potential energy_LM	Map	66
+helium4	LM	NaviBar	2
+helium4	kinetic energy_LM	Map	21
+helium4	LM	NaviBar	1
+helium4	potential energy_LM	Map	4
+helium4	LM	NaviBar	2
+helium4	kinetic energy_LM	Map	122
+helium4	LM	NaviBar	2
+helium4	LM	NaviBar	24
+helium4	mass_LM	Map	92
+helium4	LM	NaviBar	3
+helium4	LM	NaviBar	3
+helium4	Newtons laws_LM	Map	74
+
+
+
+User	Leader	Question
+sodium4	Abby Pandow	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	7
+sodium4	LM	Map	58
+sodium4	Newtons laws_LM	Map	4
+sodium4	Newtons 1st law_LM	Text	26
+sodium4	Newtons 1st law_LM	Map	6
+sodium4	LM	NaviBar	2
+sodium4	Newtons laws_LM	Map	184
+sodium4	Velocity_LM	Map	84
+sodium4	force_LM	Map	4
+sodium4	Velocity_LM	Map	101
+sodium4	kinetic energy_LM	Map	60
+sodium4	energy_LM	Map	218
+sodium4	mass_LM	Map	163
+sodium4	momentum_LM	Map	18
+sodium4	friction_LM	Map	40
+sodium4	Newtons 2nd law_LM	Map	17
+sodium4	normal force_LM	Map	7
+sodium4	acceleration_LM	Map	15
+sodium4	Newtons 2nd law_LM	Text	3
+sodium4	force_LM	Text	4
+sodium4	friction_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine4	Caroline Hayney	Roller Coasters
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	26
+iodine4	FO	Map	19
+iodine4	FO	Map	14
+iodine4	FM	NaviBar	2
+iodine4	LM	Map	17
+iodine4	friction_LM	Map	17
+iodine4	Velocity_LM	Map	8
+iodine4	Velocity_LM	Map	1
+iodine4	Newtons 2nd law_LM	Map	4
+iodine4	Newtons 2nd law_LM	Map	4
+iodine4	Newtons laws_LM	Map	175
+iodine4	Newtons 3rd law_LM	Text	6
+iodine4	normal force_LM	Map	4
+iodine4	force_LM	Map	3
+iodine4	gravity_LM	Map	3
+iodine4	normal force_LM	Map	4
+iodine4	Newtons 3rd law_LM	Map	6
+iodine4	Newtons 3rd law_LM	Map	7
+iodine4	CM	NaviBar	3
+iodine4	LM	NaviBar	34
+iodine4	energy_LM	Map	3
+iodine4	kinetic energy_LM	Map	37
+iodine4	energy_LM	Map	2
+iodine4	potential energy_LM	Map	27
+iodine4	work_LM	Map	8
+iodine4	CM	NaviBar	2
+iodine4	LM	NaviBar	10
+iodine4	Velocity_LM	Map	4
+iodine4	mass_LM	Map	246
+iodine4	mass_CM	NaviBar	3
+iodine4	LM	NaviBar	6
+iodine4	acceleration_LM	Map	40
+iodine4	Speed_LM	Map	49
+iodine4	Speed_LM	Map	49
+iodine4	energy_LM	Map	123
+iodine4	energy_CM	NaviBar	1
+iodine4	LM	NaviBar	5
+iodine4	mass_LM	Map	8
+iodine4	LM	NaviBar	3
+iodine4	mass_CM	NaviBar	2
+iodine4	LM	NaviBar	17
+iodine4	force_LM	Map	28
+iodine4	acceleration_LM	Map	8
+iodine4	momentum_LM	Map	76
+
+
+
+User	Leader	Question
+sodium4	andy hagen	research
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	59
+sodium4	LM	NaviBar	99
+sodium4	acceleration_LM	Map	54
+sodium4	LM	NaviBar	15
+sodium4	Velocity_LM	Map	68
+sodium4	LM	NaviBar	7
+sodium4	mass_LM	Map	35
+sodium4	Newtons 2nd law_LM	Map	86
+sodium4	force_LM	Map	20
+sodium4	normal force_LM	Map	6
+sodium4	Newtons 3rd law_LM	Map	10
+sodium4	LM	NaviBar	8
+sodium4	Newtons 1st law_LM	Map	166
+sodium4	LM	NaviBar	3
+sodium4	Newtons 2nd law_LM	Map	191
+sodium4	Newtons laws_LM	Map	180
+sodium4	Newtons laws_FO	NaviBar	31
+sodium4	mass_FO	Map	5
+sodium4	impulse_FO	Map	29
+sodium4	momentum_FO	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	Molly McDonough	Forces and Motion
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	15
+oxygen4	FO	Map	2
+oxygen4	FM	Text	14
+oxygen4	FM	NaviBar	4
+oxygen4	LM	Map	26
+oxygen4	Newtons laws_LM	Map	21
+oxygen4	Newtons 1st law_LM	Map	32
+oxygen4	Newtons 1st law_LM	Map	284
+oxygen4	Newtons 2nd law_LM	Map	315
+oxygen4	Newtons laws_LM	Map	2
+oxygen4	Newtons 3rd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton4	Grant Larson	Roller coasterss
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	39
+krypton4	LM	NaviBar	127
+krypton4	Speed_LM	Map	129
+krypton4	Velocity_LM	Map	116
+krypton4	acceleration_LM	Map	349
+krypton4	Newtons 1st law_LM	Map	216
+krypton4	Newtons 2nd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+krypton4	Kelly M	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	8
+krypton4	LM	Map	5
+krypton4	mass_LM	Map	64
+krypton4	kinetic energy_LM	Map	118
+krypton4	Speed_LM	Map	83
+krypton4	Velocity_LM	Map	115
+krypton4	acceleration_LM	Text	26
+krypton4	Velocity_LM	Text	50
+krypton4	acceleration_LM	Text	83
+krypton4	kinetic energy_LM	Map	6
+krypton4	work_LM	Map	10
+krypton4	force_LM	Map	3
+krypton4	work_LM	Map	2
+krypton4	Newtons 2nd law_LM	Map	2
+krypton4	kinetic energy_LM	Map	3
+krypton4	potential energy_LM	Map	404
+krypton4	LM	NaviBar	69
+
+
+
+User	Leader	Question
+zinc4	adriana	forces and motions
+
+Group	Node	Source	Staying Time(Sec)
+zinc4	FM	Text	10
+zinc4	LM	Map	97
+zinc4	Speed_LM	Map	247
+zinc4	FO	NaviBar	3
+zinc4	LM	NaviBar	23
+zinc4	mass_LM	Map	308
+zinc4	LM	NaviBar	4
+zinc4	mass	NaviBar	2
+zinc4	mass_LM	Map	11
+zinc4	FO	NaviBar	2
+zinc4	LM	NaviBar	1
+zinc4	Speed_LM	Map	6
+zinc4	mass_LM	Map	19
+zinc4	Speed_LM	Map	4
+zinc4	LM	NaviBar	4
+zinc4	acceleration_LM	Map	5
+zinc4	LM	NaviBar	7
+zinc4	Velocity_LM	Map	67
+zinc4	force_LM	Map	101
+zinc4	LM	NaviBar	18
+zinc4	energy_LM	Map	73
+zinc4	Speed_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon4	kelly moran	initial drop
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	4
+argon4	LM	Map	103
+argon4	Newtons laws_LM	Map	218
+argon4	LM	Map	1
+argon4	FM	Text	2
+argon4	LM	Map	7
+argon4	FO	NaviBar	5
+argon4	LM	NaviBar	15
+argon4	mass_LM	Map	13
+argon4	force_LM	Map	41
+argon4	energy	NaviBar	3
+argon4	energy_LM	Map	46
+argon4	kinetic energy_LM	Text	114
+argon4	potential energy_LM	Map	15
+argon4	kinetic energy_LM	Text	3
+argon4	FM	Text	5
+argon4	LM	Map	14
+argon4	Speed_LM	Map	123
+argon4	LM	Map	5
+argon4	LM	NaviBar	26
+argon4	acceleration_LM	Map	176
+argon4	LM	NaviBar	9
+argon4	mass_LM	Map	3
+argon4	LM	NaviBar	3
+argon4	force_LM	Map	N/A
+
+
+
+User	Leader	Question
+helium4	Brittney Hauke	Force/Motion
+
+Group	Node	Source	Staying Time(Sec)
+helium4	FM	Text	14
+helium4	LM	Map	86
+helium4	acceleration_LM	Map	136
+helium4	Velocity_LM	Map	49
+helium4	Newtons 1st law_LM	Map	116
+helium4	Velocity_LM	Map	5
+helium4	momentum_LM	Map	92
+helium4	mass_LM	Map	15
+helium4	kinetic energy_LM	Map	6
+helium4	kinetic energy	NaviBar	56
+helium4	kinetic energy_LM	Map	13
+helium4	kinetic energy_LM	Map	6
+helium4	energy_LM	Map	4
+helium4	energy	NaviBar	36
+helium4	energy_LM	Map	54
+helium4	energy_LM	Map	2
+helium4	potential energy_LM	Map	30
+helium4	work_LM	Map	60
+helium4	Newtons 2nd law_LM	Map	8
+helium4	Newtons 2nd law	NaviBar	101
+helium4	Newtons 2nd law_LM	Map	27
+helium4	gravity_LM	Map	6
+helium4	normal force_LM	Map	5
+helium4	gravity_LM	Map	56
+helium4	normal force_LM	Map	33
+
+
+
+User	Leader	Question
+zinc4	Colleen Rojo	chemistry
+
+Group	Node	Source	Staying Time(Sec)
+zinc4	FM	Text	33
+zinc4	LM	Map	128
+zinc4	friction_LM	Map	185
+zinc4	Newtons 1st law_LM	Text	178
+zinc4	Newtons laws_LM	Map	3
+zinc4	Newtons 2nd law_LM	Map	184
+zinc4	Newtons laws_LM	Map	2
+zinc4	Newtons 3rd law_LM	Map	91
+zinc4	Speed	NaviBar	3
+zinc4	Speed	Map	99
+zinc4	FM	Text	85
+
+
+
+User	Leader	Question
+iodine4	Danielle Murphy	force and motion
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	25
+iodine4	FO	Map	6
+iodine4	Newtons laws_FO	Map	48
+iodine4	Newtons 1st law_FO	Text	130
+iodine4	Newtons 2nd law_FO	Map	62
+iodine4	Newtons 3rd law_FO	Map	49
+iodine4	drag_FO	Map	28
+iodine4	lift_FO	Map	82
+iodine4	lift_FO	Map	1
+iodine4	lift_FO	Map	11
+iodine4	FO	NaviBar	4
+iodine4	momentum_FO	Map	85
+iodine4	Speed_FO	Map	122
+iodine4	acceleration_FO	Map	3
+iodine4	Speed_FO	Map	2
+iodine4	acceleration_FO	Map	2
+iodine4	gravity_FO	Map	7
+iodine4	momentum_FO	Map	2
+iodine4	acceleration_FO	Map	2
+iodine4	acceleration_FO	Map	2
+iodine4	acceleration_FO	Map	1
+iodine4	acceleration_FO	Map	1
+iodine4	acceleration_FO	Map	1
+iodine4	acceleration_FO	Map	1
+iodine4	acceleration_FO	Map	1
+iodine4	acceleration_FO	Map	1
+iodine4	acceleration_FO	Map	84
+iodine4	acceleration_FO	Map	84
+iodine4	FO	NaviBar	17
+iodine4	Velocity_FO	Map	146
+iodine4	gravity_FO	Map	53
+iodine4	surface area_FO	Map	12
+iodine4	shape_FO	Map	3
+iodine4	lift_FO	Map	N/A
+
+
+
+User	Leader	Question
+sodium4	breanna sarac	rollercoasters
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	12
+sodium4	LM	Map	127
+sodium4	Speed_LM	Map	219
+sodium4	LM	Map	14
+sodium4	kinetic energy_LM	Map	4
+sodium4	mass_LM	Map	79
+sodium4	G forces	NaviBar	30
+sodium4	G forces	Map	7
+sodium4	FM	NaviBar	7
+sodium4	FO	NaviBar	9
+sodium4	FM	NaviBar	2
+sodium4	FO	NaviBar	1
+sodium4	FM	NaviBar	1
+sodium4	G forces	Map	1
+sodium4	G forces	NaviBar	1
+sodium4	mass_LM	Map	1
+sodium4	kinetic energy_LM	Map	1
+sodium4	LM	Map	12
+sodium4	FM	Text	12
+sodium4	FM	Text	N/A
+
+
+
+User	Leader	Question
+krypton4	Sam	homework
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	10
+krypton4	FO	Map	9
+krypton4	Speed_FO	Map	32
+krypton4	Newtons 1st law_FO	Map	38
+krypton4	acceleration_FO	Map	40
+krypton4	Newtons 1st law_FO	Map	56
+krypton4	Newtons 2nd law_FO	Map	41
+krypton4	force_FO	Map	7
+krypton4	Newtons 3rd law_FO	Map	43
+krypton4	drag_FO	Map	124
+krypton4	CM	NaviBar	3
+krypton4	FO	NaviBar	7
+krypton4	momentum_FO	Map	79
+krypton4	Speed_FO	Map	29
+krypton4	kinetic energy_FO	Map	42
+krypton4	mass_FO	Map	6
+krypton4	potential energy_FO	Map	28
+krypton4	mass_FO	Map	51
+krypton4	height	NaviBar	1
+krypton4	height	Map	10
+krypton4	height	NaviBar	5
+krypton4	FO	NaviBar	18
+krypton4	Velocity_FO	Map	109
+krypton4	FO	NaviBar	17
+krypton4	potential energy_FO	Map	8
+krypton4	kinetic energy_FO	Map	8
+krypton4	FO	NaviBar	2
+krypton4	FO	Map	61
+krypton4	gravity_FO	Map	53
+krypton4	energy_FO	Map	28
+krypton4	Speed_FO	Map	5
+krypton4	acceleration_FO	Map	N/A
+
+
+
+User	Leader	Question
+krypton4	maddie mcguire	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+krypton4	FM	Text	131
+krypton4	LM	Map	71
+krypton4	potential energy_LM	Map	249
+krypton4	energy_LM	Map	1
+krypton4	potential energy_LM	Map	2
+krypton4	LM	Map	4
+krypton4	CM	NaviBar	2
+krypton4	LM	NaviBar	4
+krypton4	kinetic energy_LM	Map	101
+krypton4	LM	NaviBar	3
+krypton4	CM	NaviBar	1
+krypton4	FO	NaviBar	2
+krypton4	LM	NaviBar	5
+krypton4	force_LM	Map	12
+krypton4	CM	NaviBar	1
+krypton4	LM	NaviBar	2
+krypton4	Speed_LM	Map	186
+krypton4	CM	NaviBar	2
+krypton4	LM	NaviBar	4
+krypton4	energy_LM	Map	7
+krypton4	CM	NaviBar	1
+krypton4	LM	NaviBar	3
+krypton4	Velocity_LM	Map	138
+krypton4	momentum_LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc4	Will Helbing	Foce and motion
+
+Group	Node	Source	Staying Time(Sec)
+zinc4	FM	Text	6
+zinc4	LM	Map	45
+zinc4	Speed_LM	Map	138
+zinc4	Velocity_LM	Map	92
+zinc4	Velocity_LM	Map	92
+zinc4	acceleration_LM	Map	83
+zinc4	momentum_LM	Map	55
+zinc4	Newtons 1st law_LM	Map	128
+zinc4	Newtons 2nd law_LM	Map	69
+zinc4	Newtons 3rd law_LM	Map	89
+zinc4	force_LM	Map	113
+zinc4	normal force_LM	Map	54
+zinc4	acceleration_LM	Map	11
+zinc4	normal force_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	Mark Siehoff	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	7
+oxygen4	LM	Map	37
+oxygen4	Speed_LM	Map	118
+oxygen4	LM	Map	15
+oxygen4	kinetic energy_LM	Map	1
+oxygen4	kinetic energy_LM	Map	3
+oxygen4	mass_LM	Map	4
+oxygen4	friction_LM	Map	1
+oxygen4	friction_LM	Map	4
+oxygen4	gravity_LM	Map	10
+oxygen4	LM	NaviBar	39
+oxygen4	energy_LM	Map	2
+oxygen4	potential energy_LM	Map	175
+oxygen4	kinetic energy_LM	Map	151
+oxygen4	LM	NaviBar	4
+oxygen4	mass_LM	Map	111
+oxygen4	LM	NaviBar	15
+oxygen4	friction_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	zach	motion
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	11
+oxygen4	LM	Map	131
+oxygen4	Velocity_LM	Map	140
+oxygen4	acceleration_LM	Map	144
+oxygen4	force_LM	Map	54
+oxygen4	work_LM	Map	26
+oxygen4	energy_LM	Map	150
+oxygen4	kinetic energy_LM	Text	208
+oxygen4	potential energy_LM	Map	N/A
+
+
+
+User	Leader	Question
+iodine4	Kim Dahmen	forces and motion
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	6
+iodine4	LM	Map	2
+iodine4	Speed_LM	Map	58
+iodine4	mass_LM	Map	67
+iodine4	Newtons 1st law_LM	Text	245
+iodine4	Velocity_LM	Text	83
+iodine4	acceleration_LM	Text	83
+iodine4	Newtons 2nd law_LM	Text	175
+iodine4	gravity_LM	Map	8
+iodine4	friction_LM	Map	2
+iodine4	mass_LM	Map	2
+iodine4	Velocity_LM	Map	2
+iodine4	Newtons 2nd law_LM	Map	1
+iodine4	acceleration_LM	Map	44
+iodine4	normal force_LM	Map	3
+iodine4	friction_LM	Map	4
+iodine4	normal force_LM	Map	6
+iodine4	work_LM	Map	11
+iodine4	gravity_LM	Map	5
+iodine4	gravity_LM	Map	1
+iodine4	gravity_LM	Map	2
+iodine4	friction_LM	Map	2
+iodine4	acceleration_LM	Map	7
+iodine4	momentum_LM	Map	32
+iodine4	kinetic energy_LM	Map	63
+iodine4	Newtons 2nd law_LM	Map	6
+iodine4	kinetic energy_LM	Map	5
+iodine4	Newtons 2nd law_LM	Map	2
+iodine4	Newtons 3rd law_LM	Map	2
+iodine4	Newtons 1st law_LM	Map	1
+iodine4	Newtons 2nd law_LM	Map	1
+iodine4	Newtons 3rd law_LM	Map	2
+iodine4	force_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon4	kyle horning	forces and motions
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	22
+argon4	LM	Map	6
+argon4	friction_LM	Map	13
+argon4	friction_LM	Map	2
+argon4	LM	Map	3
+argon4	FM	Text	7
+argon4	FM	Text	2
+argon4	LM	Map	9
+argon4	mass_LM	Map	9
+argon4	mass_LM	Map	11
+argon4	Speed_LM	Map	24
+argon4	kinetic energy_LM	Map	2
+argon4	kinetic energy_LM	Map	2
+argon4	energy_LM	Map	4
+argon4	energy_LM	Map	1
+argon4	mass_LM	Map	13
+argon4	Velocity_LM	Map	12
+argon4	Velocity_LM	Map	148
+argon4	acceleration_LM	Text	125
+argon4	force_LM	Map	94
+argon4	energy_LM	Map	118
+argon4	Speed_LM	Map	3
+argon4	Newtons 1st law_LM	Map	3
+argon4	Newtons 3rd law_LM	Map	2
+argon4	Newtons 2nd law_LM	Map	161
+argon4	mass_LM	Text	5
+argon4	Newtons 1st law_LM	Text	N/A
+
+
+
+User	Leader	Question
+helium4	Tyler Weber	Forces and Motion
+
+Group	Node	Source	Staying Time(Sec)
+helium4	FM	Text	44
+helium4	LM	Map	4
+helium4	Newtons 1st law_LM	Map	110
+helium4	Newtons laws_LM	Map	10
+helium4	Newtons 2nd law_LM	Map	48
+helium4	Newtons laws_LM	Map	2
+helium4	Newtons 3rd law_LM	Map	58
+helium4	normal force_LM	Map	17
+helium4	friction_LM	Map	12
+helium4	mass_LM	Map	5
+helium4	friction_LM	Map	15
+helium4	acceleration_LM	Map	52
+helium4	LM	Text	2
+helium4	LM	Map	11
+helium4	momentum_LM	Map	46
+helium4	mass_LM	Map	9
+helium4	Newtons 2nd law_LM	Map	9
+helium4	force_LM	Map	21
+helium4	force	NaviBar	30
+helium4	force_LM	Map	5
+helium4	force	NaviBar	3
+helium4	force_LM	Map	1
+helium4	force_LM	Map	4
+helium4	LM	NaviBar	29
+helium4	energy_LM	Map	5
+helium4	kinetic energy_LM	Text	53
+helium4	Velocity_LM	Map	2
+helium4	force_LM	Map	2
+helium4	Newtons 2nd law_LM	Map	1
+helium4	force_LM	Map	3
+helium4	gravity_LM	Map	4
+helium4	friction_LM	Map	10
+helium4	Newtons 2nd law_LM	Map	10
+helium4	LM	NaviBar	5
+helium4	energy_LM	Map	2
+helium4	potential energy_LM	Map	2
+helium4	kinetic energy_LM	Map	3
+helium4	energy_LM	Map	3
+helium4	kinetic energy_LM	Map	1
+helium4	energy_LM	Map	1
+helium4	kinetic energy_LM	Map	1
+helium4	energy_LM	Map	1
+helium4	kinetic energy_LM	Map	2
+helium4	energy_LM	Map	4
+helium4	kinetic energy_LM	Map	3
+helium4	energy_LM	Map	1
+helium4	kinetic energy_LM	Map	2
+helium4	energy_LM	Map	1
+helium4	kinetic energy_LM	Map	2
+helium4	energy_LM	Map	1
+helium4	kinetic energy_LM	Map	22
+helium4	Speed_LM	Map	1
+helium4	acceleration_LM	Map	3
+helium4	LM	NaviBar	10
+helium4	friction_LM	Map	11
+helium4	LM	NaviBar	13
+helium4	CM	Text	13
+helium4	FO	Text	22
+helium4	shape_FO	Map	4
+helium4	drag_FO	Map	41
+helium4	lift_FO	Map	2
+helium4	shape_FO	Map	1
+helium4	drag_FO	Map	2
+helium4	lift_FO	Map	4
+helium4	drag_FO	Map	1
+helium4	lift_FO	Map	3
+helium4	lift_FO	Map	48
+helium4	FO	NaviBar	8
+helium4	LM	NaviBar	4
+helium4	energy_LM	Map	2
+helium4	potential energy_LM	Map	1
+helium4	potential energy_LM	Map	2
+helium4	work_LM	Map	1
+helium4	work_LM	Map	N/A
+
+
+
+User	Leader	Question
+oxygen4	Victoria Lowery	Forces and Motion
+
+Group	Node	Source	Staying Time(Sec)
+oxygen4	FM	Text	73
+oxygen4	LM	Map	7
+oxygen4	Speed_LM	Map	39
+oxygen4	LM	NaviBar	3
+oxygen4	Speed_LM	Map	4
+oxygen4	LM	NaviBar	65
+oxygen4	mass_LM	Map	108
+oxygen4	FM	NaviBar	2
+oxygen4	FO	Map	3
+oxygen4	Speed_FO	Map	331
+oxygen4	Velocity_FO	Map	18
+oxygen4	momentum_FO	Map	214
+oxygen4	momentum_LM	NaviBar	8
+oxygen4	Newtons 1st law_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon4	John Ripp	MOtion
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	7
+argon4	LM	Map	49
+argon4	acceleration_LM	Map	53
+argon4	LM	Map	6
+argon4	FM	Text	9
+argon4	force_LM	Map	6
+argon4	Newtons 2nd law_LM	Map	3
+argon4	force_LM	Map	1
+argon4	work_LM	Map	2
+argon4	friction_LM	Map	6
+argon4	momentum_LM	Map	33
+argon4	Velocity_LM	Map	10
+argon4	Newtons laws_LM	Map	6
+argon4	Newtons 1st law_LM	Map	139
+argon4	Velocity_LM	Map	56
+argon4	Speed_LM	Map	3
+argon4	Velocity_LM	Map	3
+argon4	acceleration_LM	Map	5
+argon4	work_LM	Map	22
+argon4	force_LM	Map	26
+argon4	energy_LM	Map	10
+argon4	mass_LM	Map	112
+argon4	height	NaviBar	5
+argon4	height	Map	2
+argon4	height	Map	2
+argon4	height	Map	0
+argon4	height	Map	0
+argon4	height	Map	0
+argon4	height	Map	N/A
+
+
+
+User	Leader	Question
+helium4	jb	work
+
+Group	Node	Source	Staying Time(Sec)
+helium4	SM	Text	16
+helium4	SM	Text	7
+helium4	SM	NaviBar	1
+helium4	SM	Text	18
+helium4	FM	Text	9
+helium4	LM	Map	59
+helium4	Speed_LM	Map	81
+helium4	LM	NaviBar	25
+helium4	height	NaviBar	4
+helium4	height	Map	6
+helium4	height	NaviBar	5
+helium4	LM	NaviBar	7
+helium4	Speed_LM	Map	13
+helium4	LM	NaviBar	6
+helium4	work_LM	Map	12
+helium4	LM	NaviBar	12
+helium4	Newtons 1st law_LM	Map	158
+helium4	LM	NaviBar	3
+helium4	Newtons 2nd law_LM	Map	4
+helium4	LM	NaviBar	2
+helium4	Newtons 1st law_LM	Map	4
+helium4	LM	NaviBar	3
+helium4	Newtons 2nd law_LM	Map	72
+helium4	LM	NaviBar	4
+helium4	potential energy_LM	Map	51
+helium4	LM	NaviBar	5
+helium4	kinetic energy_LM	Map	141
+helium4	LM	NaviBar	2
+helium4	potential energy_LM	Map	1
+helium4	LM	NaviBar	2
+helium4	Newtons 2nd law_LM	Map	2
+helium4	LM	NaviBar	4
+helium4	Newtons 1st law_LM	Map	4
+helium4	Newtons 2nd law_LM	Map	48
+helium4	LM	NaviBar	1
+helium4	Newtons 3rd law_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon4	N/A	N/A
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	108
+argon4	LM	Map	3
+argon4	Speed_LM	Map	90
+argon4	kinetic energy_LM	Map	126
+argon4	potential energy_LM	Map	94
+argon4	energy_LM	Map	1
+argon4	mass_LM	Map	76
+argon4	Newtons 1st law_LM	Text	113
+argon4	Velocity_LM	Text	57
+argon4	acceleration_LM	Text	55
+argon4	gravity_LM	Map	N/A
+
+
+
+User	Leader	Question
+zinc4	Sergei Capaul	Forces and Motion
+
+Group	Node	Source	Staying Time(Sec)
+zinc4	FM	Text	5
+zinc4	LM	Map	3
+zinc4	FM	Text	14
+zinc4	FM	NaviBar	2
+zinc4	FO	Map	8
+zinc4	Speed_FO	Map	399
+zinc4	Newtons 1st law_FO	Map	187
+zinc4	Newtons 1st law_LM	NaviBar	N/A
+
+
+
+User	Leader	Question
+sodium4	breanna sarac	rollercoasters
+
+Group	Node	Source	Staying Time(Sec)
+sodium4	FM	Text	6
+sodium4	LM	Map	8
+sodium4	friction_LM	Map	7
+sodium4	kinetic energy_LM	Map	5
+sodium4	potential energy_LM	Map	3
+sodium4	energy_LM	Map	4
+sodium4	work_LM	Map	43
+sodium4	gravity_LM	Text	9
+sodium4	friction_LM	Map	7
+sodium4	work_LM	Map	4
+sodium4	kinetic energy_LM	Map	28
+sodium4	kinetic energy	NaviBar	132
+sodium4	kinetic energy_LM	Map	4
+sodium4	Speed_LM	Map	6
+sodium4	Velocity_LM	Map	99
+sodium4	acceleration_LM	Map	58
+sodium4	gravity_LM	Map	3
+sodium4	work_LM	Map	4
+sodium4	normal force_LM	Map	N/A
+
+
+
+User	Leader	Question
+argon4	John Ripp	N/A
+
+Group	Node	Source	Staying Time(Sec)
+argon4	FM	Text	2
+argon4	LM	Map	3
+argon4	FO	Text	4
+argon4	acceleration_FO	Map	6
+argon4	Speed_FO	Map	1
+argon4	momentum_FO	Map	3
+argon4	gravity_FO	Map	2
+argon4	drag_FO	Map	3
+argon4	gravity_FO	Map	1
+argon4	momentum_FO	Map	1
+argon4	Speed_FO	Map	2
+argon4	acceleration_FO	Map	3
+argon4	FO	Text	3
+argon4	FM	Text	2
+argon4	LM	Map	44
+argon4	Speed_LM	Map	13
+argon4	LM	Map	1
+argon4	FM	Text	4
+argon4	kinetic energy_LM	Map	4
+argon4	friction_LM	Map	75
+argon4	Newtons 1st law_LM	Text	N/A
+
+
+
+User	Leader	Question
+iodine4	Caroline Hayney	Roller Coaster
+
+Group	Node	Source	Staying Time(Sec)
+iodine4	FM	Text	11
+iodine4	LM	Map	11
+iodine4	work_LM	Map	199
+iodine4	CM	NaviBar	3
+iodine4	LM	NaviBar	28
+iodine4	friction_LM	Map	70
+iodine4	FO	NaviBar	9
+iodine4	LM	NaviBar	54
+iodine4	momentum_LM	Map	181
+iodine4	CM	NaviBar	5
+iodine4	LM	NaviBar	9
+iodine4	potential energy_LM	Map	104
+iodine4	CM	NaviBar	2
+iodine4	LM	NaviBar	6
+iodine4	Speed_LM	Map	115
+iodine4	Speed_LM	Map	3
+iodine4	LM	NaviBar	3
+iodine4	force_LM	Map	14
+iodine4	LM	NaviBar	29
+iodine4	gravity_LM	Map	15

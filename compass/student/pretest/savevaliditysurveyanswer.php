@@ -1,0 +1,101 @@
+<?php
+
+$handle = fopen ("pvsa/testanswer.txt", "a");
+$participantname=$_REQUEST['Name'];  
+$Q1	=$_REQUEST['Q1'];  
+$Q2a    =$_REQUEST['Q2a']; 
+$Q2b    =$_REQUEST['Q2b']; 
+$Q3a    =$_REQUEST['Q3a']; 
+$Q3b    =$_REQUEST['Q3b']; 
+$Q4a    =$_REQUEST['Q4a']; 
+$Q4b    =$_REQUEST['Q4b']; 
+$Q5     =$_REQUEST['Q5'];  
+$Q6     =$_REQUEST['Q6'];  
+$Q7     =$_REQUEST['Q7'];  
+$Q8     =$_REQUEST['Q8'];  
+$Q9     =$_REQUEST['Q9'];  
+$Q10    =$_REQUEST['Q10']; 
+$Q11    =$_REQUEST['Q11']; 
+$Q12   =$_REQUEST['Q12']; 
+$Q13a  =$_REQUEST['Q13a'];
+$Q13b  =$_REQUEST['Q13b'];
+$Q14   =$_REQUEST['Q14']; 
+$Q15   =$_REQUEST['Q15']; 
+$Q16   =$_REQUEST['Q16']; 
+$Q17   =$_REQUEST['Q17']; 
+
+$multi=$participantname."\t".$Q1."\t".$Q2a."\t".$Q2b."\t".$Q3a."\t".$Q3b."\t".$Q4a."\t".$Q4b."\t".$Q5."\t".$Q6."\t".$Q7."\t".$Q8."\t".$Q9."\t".$Q10."\t".$Q11."\t".$Q12."\t".$Q13a."\t".$Q13b."\t".$Q14."\t".$Q15."\t".$Q16."\t".$Q17."\r\n";
+fwrite($handle,$multi);
+fclose($handle);
+
+$handle = fopen ("pvsa/surveyanswer.txt", "a");
+$multi = $participantname."\t". $_REQUEST['s1a'];
+$multi = $multi ."\t". $_REQUEST['s1b'];
+$multi = $multi ."\t". $_REQUEST['s1c'];
+$multi = $multi ."\t". $_REQUEST['s2a'];
+$multi = $multi ."\t". $_REQUEST['s2b'];
+$multi = $multi ."\t". $_REQUEST['s3a'];
+$multi = $multi ."\t". $_REQUEST['s3b'];
+$multi = $multi ."\t". $_REQUEST['s3c'];
+$multi = $multi ."\t". $_REQUEST['s4a'];
+$multi = $multi ."\t". $_REQUEST['s4b'];
+$multi = $multi ."\t". $_REQUEST['s4c'];
+$multi = $multi ."\t". $_REQUEST['s4d'];
+$multi = $multi ."\t". $_REQUEST['s4e'];
+$multi = $multi ."\t". $_REQUEST['s5a'];
+$multi = $multi ."\t". $_REQUEST['s5b'];
+$multi = $multi ."\t". $_REQUEST['s5c'];
+$multi = $multi ."\t". $_REQUEST['s5d'];
+$multi = $multi ."\t". $_REQUEST['s6a'];
+$multi = $multi ."\t". $_REQUEST['s6b'];
+$multi = $multi ."\t". $_REQUEST['s6c'];
+$multi = $multi ."\t". $_REQUEST['s7a'];
+$multi = $multi ."\t". $_REQUEST['s7b'];
+$multi = $multi ."\t". $_REQUEST['s8a'];
+$multi = $multi ."\t". $_REQUEST['s8b'];
+$multi = $multi ."\t". $_REQUEST['s8c'];
+$multi = $multi ."\t". $_REQUEST['s9a'];
+$multi = $multi ."\t". $_REQUEST['s9b'];
+$multi = $multi ."\t". $_REQUEST['s9c'];
+$multi = $multi ."\t". $_REQUEST['s9d'];
+$multi = $multi ."\t". $_REQUEST['s9e'];
+$multi = $multi ."\t". $_REQUEST['s10a'];
+$multi = $multi ."\t". $_REQUEST['s10b'];
+$multi = $multi ."\t". $_REQUEST['s10c'];
+$multi = $multi ."\t". $_REQUEST['s11a'];
+$multi = $multi ."\t". $_REQUEST['s11b'];
+$multi = $multi ."\t". $_REQUEST['s12a'];
+$multi = $multi ."\t". $_REQUEST['s12b'];
+$multi = $multi ."\t". $_REQUEST['s12c'];
+$multi = $multi ."\t". $_REQUEST['s13a'];
+$multi = $multi ."\t". $_REQUEST['s13b'];
+$multi = $multi ."\t". $_REQUEST['s13c'];
+$multi = $multi ."\t". $_REQUEST['s13d'];
+$multi = $multi ."\t". $_REQUEST['s14a'];
+$multi = $multi ."\t". $_REQUEST['s14b'];
+$multi = $multi ."\t". $_REQUEST['s14c'];
+$multi = $multi ."\t". $_REQUEST['s14d'];
+$multi = $multi ."\t". $_REQUEST['s15a'];
+$multi = $multi ."\t". $_REQUEST['s15b'];
+$multi = $multi ."\t". $_REQUEST['s15c'];
+$multi = $multi ."\t". $_REQUEST['s16a'];
+$multi = $multi ."\t". $_REQUEST['s16b'];
+$multi = $multi ."\t". $_REQUEST['s16c'];
+$multi = $multi ."\t". $_REQUEST['s16d'];
+$multi = $multi ."\t". $_REQUEST['s16e'];
+$multi = $multi ."\t". $_REQUEST['s17a'];
+$multi = $multi ."\t". $_REQUEST['s17b'];
+$multi = $multi ."\t". $_REQUEST['s17c'];
+$multi = $multi ."\t". $_REQUEST['s17d'];
+$multi = $multi ."\t".$_REQUEST['so1'];
+$multi = $multi ."\t".$_REQUEST['so2'];
+$multi = $multi ."\t". $_REQUEST['so3']."\r\n";
+fwrite($handle,$multi);
+fclose($handle);
+
+?>
+
+<script language="JavaScript" type="text/JavaScript">
+alert("Thank you for your participation!");
+self.location="/";
+</script>

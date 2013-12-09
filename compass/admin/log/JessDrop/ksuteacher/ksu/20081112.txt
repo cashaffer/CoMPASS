@@ -1,0 +1,14 @@
+
+
+
+User	Leader	Question
+COPF0813	N/A	N/A
+
+Group	Node	Source	Staying Time(Sec)
+COPF0813	SM	Text	14
+COPF0813	IP	Map	51
+COPF0813	friction_IP	Map	116
+COPF0813	force_IP	Map	245
+COPF0813	IP	NaviBar	20
+COPF0813	work_IP	Map	196
+COPF0813	energy_IP	Map	189
