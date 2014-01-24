@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<relation>
+ 
+	<unit id="11" label="Forces and Motion">
+ 
+	<topic id="27" label="Circular motion">
+<edge source="95" target="133" label="change in" description="Acceleration is defined as the change in velocity over time"/>
+<edge source="102" target="95" label="causes" description="Centripetal force causes centripetal acceleration"/>
+<edge source="105" target="95" label="forces of" description="G-forces are used for explaining the relative effects of centripetal acceleration"/>
+<edge source="106" target="95" label="causes" description=""/>
+<edge source="106" target="102" label="is a" description="Gravity is a type of force"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="110" target="113" label="depends" description="Kinetic energy depends on the mass of a moving object"/>
+<edge source="110" target="129" label="depends" description="Kinetic energy depends on the speed of a moving object"/>
+<edge source="117" target="105" label="explains" description="Inertial effects cause g-forces"/>
+<edge source="117" target="120" label="one of" description="First law is one of the three laws of motion"/>
+<edge source="117" target="133" label="describes" description="A falling object will maintain a constant velocity if there is no net force acting on it"/>
+<edge source="118" target="95" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="102" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="113" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="120" label="one of" description="Second law is one of the three laws of motion"/>
+<edge source="119" target="102" label="describes" description="Third law states that for every action (force) in nature there is an equal and opposite reaction."/>
+<edge source="119" target="120" label="one of" description="Third law is one of the three laws of motion"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="133" target="129" label="defined as" description="Velocity is defined as the speed of an object and its direction of motion"/>
+</topic>
+ 
+	<topic id="28" label="Falling objects">
+<edge source="95" target="133" label="change in" description="Acceleration is defined as the change in velocity over time"/>
+<edge source="98" target="102" label="is a" description="Drag is the aerodynamic force tha opposes the motion of an object falling through the air"/>
+<edge source="98" target="106" label="opposes" description="Drag opposes the gravitational force acted on an object falling in the air"/>
+<edge source="102" target="136" label="does" description="Work is done by the force that acts on an object falling in the air"/>
+<edge source="106" target="95" label="increases" description="The gravitational force increases the acceleration of an object falling in the air"/>
+<edge source="106" target="102" label="is a" description="Gravity is a type of force"/>
+<edge source="106" target="113" label="pulls" description="Gravity pulls on the mass of falling objects"/>
+<edge source="109" target="102" label="product of" description="Impulse is the product of force and the time interval during which the force acts"/>
+<edge source="109" target="116" label="changes" description="Impulse changes the momentum of an object"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="110" target="113" label="depends" description="Kinetic energy depends on the mass of a falling object"/>
+<edge source="110" target="129" label="depends" description="Kinetic energy depends on the speed of a falling object"/>
+<edge source="116" target="113" label="defined by" description="Momentum is defined as the mass of an object times its velocity"/>
+<edge source="116" target="133" label="defined by" description="Momentum is defined as the mass of an object times its velocity"/>
+<edge source="117" target="120" label="one of" description="First law is one of the three laws of motion"/>
+<edge source="117" target="133" label="describes" description="A falling object will maintain a constant velocity if there is no net force acting on it"/>
+<edge source="118" target="95" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="102" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="113" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="120" label="one of" description="Second law is one of the three laws of motion"/>
+<edge source="119" target="102" label="describes" description="Third law states that for every action (force) in nature there is an equal and opposite reaction."/>
+<edge source="119" target="120" label="one of" description="Third law is one of the three laws of motion"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its motion"/>
+<edge source="122" target="106" label="against" description="Gravitational potential energy is equal to the work done against gravity"/>
+<edge source="128" target="98" label="affects" description="Shape affects the amount of drag produced when an object is falling in the air"/>
+<edge source="128" target="111" label="affects" description="Shape affects the amount of lift generated when an objects is falling in the air"/>
+<edge source="130" target="98" label="affects" description="Surface area affects the amount of drag generated when an object is faliing in the air"/>
+<edge source="133" target="129" label="defined as" description="Velocity is defined as the speed of an object and its direction of motion"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of the falling object"/>
+</topic>
+ 
+	<topic id="29" label="Linear motion">
+<edge source="95" target="133" label="change in" description="Acceleration is defined as the change in velocity over time."/>
+<edge source="102" target="95" label="causes" description="Acceleration of an object is always caused by a net force acting on it"/>
+<edge source="102" target="136" label="does" description="Work is done by the force that acts on an object"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="113" label="slows down" description="Friction resists motion, therefore causing the moving object to slow down"/>
+<edge source="106" target="102" label="is a" description="Gravity is a type of force."/>
+<edge source="106" target="137" label="describes" description=""/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="110" target="113" label="depends on" description="Kinetic energy depends on the mass of a moving object"/>
+<edge source="110" target="129" label="depends on" description="Kinetic energy depends on the speed of a moving"/>
+<edge source="113" target="102" label="defines" description=""/>
+<edge source="113" target="122" label="defines" description=""/>
+<edge source="113" target="137" label="describes" description=""/>
+<edge source="113" target="138" label="describes" description=""/>
+<edge source="116" target="113" label="defined by" description="Momentum is defined as the mass of an object times its velocity"/>
+<edge source="116" target="133" label="defined by" description="Momentum is defined as the mass of an object times its velocity"/>
+<edge source="117" target="120" label="one of" description="First law is one of the three laws of motion"/>
+<edge source="117" target="133" label="describes" description="An object will maintain a constant velocity if there is no net force acting on it"/>
+<edge source="117" target="138" label="describes" description=""/>
+<edge source="118" target="95" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="102" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="113" label="describes" description="Second law defines force to be equal to mass times acceleration"/>
+<edge source="118" target="116" label="describes" description=""/>
+<edge source="118" target="120" label="one of" description="Second law is one of the three laws of motion"/>
+<edge source="119" target="120" label="is one of" description="Third law is one of the three laws of motion"/>
+<edge source="119" target="121" label="describes" description="Third law states that for every action (force) in nature there is an equal and opposite reaction."/>
+<edge source="121" target="102" label="is a" description="Normal force is a force that the surface exerts on a moving or nonmoving object"/>
+<edge source="121" target="103" label="defines" description=""/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="133" target="129" label="defined as" description="Velocity is defined as speed of an object and its direction of motion"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of the moving object"/>
+</topic>
+ 
+	<topic id="30" label="Projectile motion">
+<edge source="96" target="107" label="affects" description=""/>
+<edge source="96" target="133" label="affects" description=""/>
+<edge source="106" target="102" label="is a" description="Gravity is a type of force."/>
+<edge source="117" target="102" label="describes" description=""/>
+<edge source="117" target="120" label="one of" description="First law is one of the three laws of motion"/>
+<edge source="117" target="133" label="describes" description=""/>
+<edge source="118" target="102" label="explains" description=""/>
+<edge source="118" target="120" label="one of" description="Second law is one of the three laws of motion"/>
+<edge source="119" target="102" label="describes" description=""/>
+<edge source="119" target="120" label="one of" description="Third law is one of the three laws of motion"/>
+<edge source="125" target="133" label="depends on" description=""/>
+</topic>
+ 
+	<topic id="31" label="Rotational motion">
+<edge source="95" target="133" label="change in" description=""/>
+<edge source="102" target="132" label="proportional" description=""/>
+<edge source="115" target="95" label="determines" description="Angular acceleration is determined by the applied torque and the moment of inertia of the object"/>
+<edge source="115" target="113" label="depends on" description=""/>
+<edge source="115" target="116" label="defines" description=""/>
+<edge source="115" target="132" label="affects" description=""/>
+<edge source="117" target="115" label="describes" description=""/>
+<edge source="117" target="120" label="one of" description="First law is one of the three laws of motion"/>
+<edge source="118" target="95" label="explains" description=""/>
+<edge source="118" target="115" label="describes" description=""/>
+<edge source="118" target="120" label="one of" description="Second law is one of the three laws of motion"/>
+<edge source="118" target="132" label="describes" description=""/>
+<edge source="119" target="102" label="describes" description=""/>
+<edge source="119" target="120" label="one of" description="Third law is one of the three laws of motion"/>
+<edge source="124" target="132" label="affects" description=""/>
+<edge source="128" target="95" label="determines" description=""/>
+<edge source="132" target="95" label="propotional" description=""/>
+<edge source="133" target="116" label="defines" description=""/>
+</topic>
+</unit>
+ 
+	<unit id="12" label="Simple Machines">
+ 
+	<sub_unit id="1" label=" Inclined plane family">
+ 
+	<topic id="32" label="Inclined plane">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="112" label="affects" description="trading force for distance gives you mechanical advantage"/>
+<edge source="103" target="99" label="reduces" description="Decreasing the friction can increase the efficiency of an inclined plane"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="136" label="loss of" description="When there is friction it makes work harder"/>
+<edge source="106" target="102" label="type of" description="Gravity is an attractive force"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="136" label="for doing" description="determines how much force is needed to do work"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description="power tells you how fast work is being done"/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of moving object"/>
+<edge source="136" target="102" label="consists of" description="Work = Force X Distance"/>
+</topic>
+ 
+	<topic id="33" label="Lever">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="112" label="affects" description="trading force for distance gives you mechanical advantage"/>
+<edge source="103" target="99" label="reduces" description="Decreasing the friction can increase the efficiency of a lever"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="136" label="loss of" description="When there is friction it makes work harder"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="136" label="for doing" description="determines how much force is needed to do work"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description="power tells you how fast work is being done"/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of the moving object"/>
+<edge source="136" target="102" label="consists of" description="Work = Force X Distance"/>
+</topic>
+ 
+	<topic id="34" label="Pulley">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="112" label="affects" description="trading force for distance gives you mechanical advantage"/>
+<edge source="103" target="99" label="reduces" description="Decreasing the friction can increase the efficiency of a pulley"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="136" label="loss of" description="When there is friction it makes work harder"/>
+<edge source="106" target="102" label="type of" description="Gravity is an attractive force"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="136" label="for doing" description="determines how much force is needed to do work"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description="power tells you how fast work is being done"/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of the moving object"/>
+<edge source="136" target="102" label="consists of" description="Work = Force X Distance"/>
+</topic>
+</sub_unit>
+ 
+	<sub_unit id="2" label=" Lever family ">
+ 
+	<topic id="35" label="Screw">
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="136" label="does" description="Force acting over a distance to move an object is called work"/>
+<edge source="103" target="102" label="type of" description="Friction is a type of force that resists motion"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="97" label="affects" description=""/>
+<edge source="112" target="102" label="ratio of" description="is the ratio of input force diveded by output force"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description=""/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of the moving object"/>
+</topic>
+ 
+	<topic id="36" label="Wedge">
+<edge source="97" target="112" label="affects" description=""/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="136" label="does" description="Force acting over a distance to move an object is called work"/>
+<edge source="103" target="102" label="type of" description="Friction is a type of force that resists motion"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="102" label="ratio of" description="is the ratio of input force diveded by output force"/>
+<edge source="112" target="136" label="proportional" description=""/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description=""/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of the moving object"/>
+</topic>
+ 
+	<topic id="37" label="Wheel and Axle">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="112" label="affects" description="trading force for distance gives you mechanical advantage"/>
+<edge source="103" target="99" label="reduces" description="Decreasing the friction can increase the efficiency of a wheel and axle"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="136" label="loss of" description="When there is friction it makes work harder"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="136" label="for doing" description="determines how much force is needed to do work"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the stored energy that an object has"/>
+<edge source="123" target="136" label="rate of" description="power tells you how fast work is being done"/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of the moving object"/>
+<edge source="136" target="102" label="consists of" description="Work = Force X Distance"/>
+</topic>
+<topic id="45" label="Inclined Plane Family"/>
+</sub_unit>
+</unit>
+ 
+	<unit id="14" label="Toward Student Centered Learning">
+ 
+	<topic id="38" label="Classroom Culture">
+<edge source="139" target="140" label="affects" description=""/>
+<edge source="139" target="141" label="affects" description=""/>
+<edge source="139" target="144" label="determines" description=""/>
+<edge source="141" target="147" label="increases" description=""/>
+<edge source="143" target="141" label="affects" description=""/>
+<edge source="143" target="142" label="affects" description=""/>
+</topic>
+<topic id="39" label="Science Inquiry"/>
+<topic id="40" label="Science Content"/>
+</unit>
+ 
+	<unit id="15" label="Simple Machines (1)">
+<sub_topic id="1" label="subtopic">
+ 
+	<topic id="41" label="Inclined Plane (1)">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="112" label="affects" description="trading force for distance gives you mechanical advantage"/>
+<edge source="103" target="99" label="reduces" description="Decreasing the friction can increase the efficiency of an inclined plane"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="136" label="loss of" description="When there is friction it makes work harder"/>
+<edge source="106" target="102" label="type of" description="Gravity is an attractive force"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="136" label="for doing" description="determines how much force is needed to do work"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description="power tells you how fast work is being done"/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of moving object"/>
+<edge source="136" target="102" label="consists of" description="Work = Force X Distance"/>
+</topic>
+</sub_topic>
+<topic id="44" label="Inclined Plane Family">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+</topic>
+</unit>
+ 
+	<unit id="16" label="Simple Machines (2)">
+ 
+	<topic id="42" label="Inclined Plane (2)">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="112" label="affects" description="trading force for distance gives you mechanical advantage"/>
+<edge source="103" target="99" label="reduces" description="Decreasing the friction can increase the efficiency of an inclined plane"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="136" label="loss of" description="When there is friction it makes work harder"/>
+<edge source="106" target="102" label="type of" description="Gravity is an attractive force"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="136" label="for doing" description="determines how much force is needed to do work"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description="power tells you how fast work is being done"/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of moving object"/>
+<edge source="136" target="102" label="consists of" description="Work = Force X Distance"/>
+</topic>
+</unit>
+ 
+	<unit id="17" label="Simple Machines (3)">
+ 
+	<topic id="43" label="Inclined Plane (3)">
+<edge source="97" target="112" label="affects" description="trading distance for force gives you mechanical advantage"/>
+<edge source="99" target="136" label="defined by" description="Efficiency is defined as the ratio of output work divided by input work"/>
+<edge source="102" target="112" label="affects" description="trading force for distance gives you mechanical advantage"/>
+<edge source="103" target="99" label="reduces" description="Decreasing the friction can increase the efficiency of an inclined plane"/>
+<edge source="103" target="102" label="is a" description="Friction is a type of force that resists motion"/>
+<edge source="103" target="136" label="loss of" description="When there is friction it makes work harder"/>
+<edge source="106" target="102" label="type of" description="Gravity is an attractive force"/>
+<edge source="110" target="100" label="type of" description="Kinetic energy is the energy that an object has because of its motion"/>
+<edge source="112" target="136" label="for doing" description="determines how much force is needed to do work"/>
+<edge source="122" target="100" label="type of" description="Potential energy is the energy that an object has because of its position"/>
+<edge source="123" target="136" label="rate of" description="power tells you how fast work is being done"/>
+<edge source="136" target="97" label="consists of" description="Work = Force X Distance"/>
+<edge source="136" target="100" label="becomes" description="The work done by force becomes the energy of moving object"/>
+<edge source="136" target="102" label="consists of" description="Work = Force X Distance"/>
+</topic>
+</unit>
+</relation>
