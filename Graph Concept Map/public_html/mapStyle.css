@@ -1,0 +1,36 @@
+/* 
+    Document   : mapStyle
+    Created on : Feb 12, 2014, 6:23:58 PM
+    Author     : Fatimah
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.node circle {
+  cursor: pointer;
+  stroke: #3182bd;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  text-anchor: middle;
+}
+
+line.link {
+  fill: none;
+  stroke: #9ecae1;
+  stroke-width: 1.5px;
+}
+
+#content{
+    position: absolute;
+    width:500px;
+    height:500px;
+    border:1px solid red;
+    right: 5px;
+    top: 5px;
+    float: right;
+}
+

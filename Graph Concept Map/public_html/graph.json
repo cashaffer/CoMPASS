@@ -1,0 +1,35 @@
+{
+ "name": "Graph",
+ "children": [
+  {
+   "name": "Edges",
+   "children": [
+    {
+     "name": "Vertices",
+     "children": [
+      {"name": "AgglomerativeCluster"},
+      {"name": "CommunityStructure"},
+      {"name": "HierarchicalCluster"},
+      {"name": "MergeEdge"}
+     ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "BetweennessCentrality"},
+      {"name": "LinkDistance"},
+      {"name": "MaxFlowMinCut"},
+      {"name": "ShortestPaths"},
+      {"name": "SpanningTree"}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 7074}
+     ]
+    }
+   ]
+  }
+ ]
+}
