@@ -24,13 +24,3 @@ line.link {
   stroke-width: 1.5px;
 }
 
-#content{
-    position: absolute;
-    width:500px;
-    height:500px;
-    border:1px solid red;
-    right: 5px;
-    top: 5px;
-    float: right;
-}
-
