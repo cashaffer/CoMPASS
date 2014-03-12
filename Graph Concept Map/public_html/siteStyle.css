@@ -125,11 +125,16 @@ body {
 
 #content{
     position: absolute;
-    width:750px;
-    height:500px;
+    width:40%;
+    height:auto;
     border:1px solid grey;
     right: 8px;
     top: 55px;
     float: right;
+}
+
+#map {
+  width:50%;
+  height:50%;
 }
 

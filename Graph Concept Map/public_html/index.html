@@ -12,14 +12,16 @@ and open the template in the editor.
         <link href="siteStyle.css" type="text/css" rel="stylesheet"/>
     </head>
     <body>
-<div id='cssmenu'>
-<ul>
-   <li class='active'><a href='index.html'><span>Home</span></a></li>
-   <li><a href='#'><span>Products</span></a></li>
-   <li><a href='#'><span>About</span></a></li>
-   <li class='last'><a href='#'><span>Contact</span></a></li>
-</ul>
-</div>
+        <div id='cssmenu'>
+            <ul>
+                <li class='active'><a href='index.html'><span>Home</span></a></li>
+                <li><a href='#'><span>Products</span></a></li>
+                <li><a href='#'><span>About</span></a></li>
+                <li class='last'><a href='#'><span>Contact</span></a></li>
+            </ul>
+        </div>
+        <div id="map"></div>
+        <div id="content">TODO write content</div>
         <script>
             var width = 750,
                     height = 500,
@@ -32,14 +34,15 @@ and open the template in the editor.
                     .size([width, height])
                     .on("tick", tick);
 
-            var svg = d3.select("body").append("svg")
-                    .attr("width", width)
-                    .attr("height", height);
+            var svg = d3.select("#map").append("svg")
+                    .attr("width", "100%")
+                    .attr("height", "100%")
+                    .attr("viewBox", "0 0 800 600");
 
             var link = svg.selectAll(".link"),
                     node = svg.selectAll(".node");
 
-            d3.json("graph.json", function(error, json) {
+            d3.json("UnitMap.json", function(error, json) {
                 root = json;
                 update();
             });
@@ -167,7 +170,6 @@ and open the template in the editor.
                 return nodes;
             }
         </script>
-        <div id="content">TODO write content</div>
         <script>
             function load(thediv, thefile, data) /* 2 parameters passed into here: the id of the div container and the name of the page to go to */
             {
