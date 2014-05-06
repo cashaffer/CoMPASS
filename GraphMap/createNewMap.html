@@ -1,0 +1,63 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href="siteStyle.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body>
+        <div id='cssmenu'>
+            <ul>
+                <li class='active'><a href='index.html'><span>Home</span></a></li>
+                <li><a href='#'><span>Products</span></a></li>
+                <li><a href='#'><span>About</span></a></li>
+                <li class='last'><a href='#'><span>Contact</span></a></li>
+            </ul>
+        </div>
+        <div id="edit">
+            <form class ="basic-grey" action="createNewCMap.php" method="post">
+                <script>
+                    document.write("<label><span>File Name:</span>");
+                    document.write("<input type='text' id='fileName' name='fileName'>");
+                    document.write("</label>");
+
+                    for (i = 0; i < 4; i++)
+                    {
+                        document.write("<fieldset> <legend> Node Information</legend>");
+                        document.write("<label> <span> Name: </span>");
+                        document.write("<input type='text' name='name" + i + "'></label>");
+                        document.write("<label> <span> Size: </span>");
+                        document.write("<input type='number' name='size" + i + "'></label>");
+                        document.write("<label> <span> Color: </span>");
+                        document.write("<input type='text' name='color" + i + "'></label>");
+                        document.write("<label> <span> Distance: </span>");
+                        document.write("<input type='number' name='distance" + i + "'></label>");
+                        document.write("</fieldset> <br />");
+                    }
+                    
+                     for (i = 0; i < 3; i++)
+                    {
+                        document.write("<fieldset> <legend> Link Information</legend>");
+                        document.write("<label> <span> Source: </span>");
+                        document.write("<input type='number' name='source" + i + "'></label>");
+                        document.write("<label> <span> Target: </span>");
+                        document.write("<input type='number' name='target" + i + "'></label>");
+                        document.write("</fieldset> <br />");
+                    }
+                </script>
+                <label><span>&nbsp;</span>
+                    <input class="button" type="submit" name ="create" value="Create New Map">
+                </label>
+            </form>
+
+
+        </div>
+
+
+
+    </body>
+</html>

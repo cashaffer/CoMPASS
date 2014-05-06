@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+        <link href="siteStyle.css" type="text/css" rel="stylesheet"/>
+        <script type="text/javascript" src="/GraphMap/tinymce/js/tinymce/tinymce.min.js"></script>
+    </head>
+    <body>
+        <div id='cssmenu'>
+            <ul>
+                <li class='active'><a href='index.html'><span>Home</span></a></li>
+                <li><a href='#'><span>Products</span></a></li>
+                <li><a href='#'><span>About</span></a></li>
+                <li class='last'><a href='#'><span>Contact</span></a></li>
+            </ul>
+        </div>
+        <div id="edit">
+            <script>
+                    document.write("<form name='createHTMLForm' class='basic-grey' method='post' action='createContent.php'>");
+                    document.write("<label><span>File Name:</span>");
+                    document.write("<input type='text' name='fileName'>");
+                    document.write("</label>");
+                    document.write("<textarea id ='editor' name='editor'> </textarea>");
+                    document.write("<label><span>&nbsp;</span> <input type='submit' class='button' value='Create New Content'/></label>\n\
+                        <br /></form>");
+                    document.write("</form>");
+
+                    loadEditor('template.html');
+                
+                function loadEditor(fileName) {
+                    tinyMCE.init({
+                        theme: "modern",
+                        mode: "textareas",
+                        plugins: [
+                            "advlist autolink lists link image charmap print preview anchor",
+                            "searchreplace visualblocks code fullscreen",
+                            "insertdatetime media table contextmenu paste fullpage"
+                        ],
+                        toolbar: "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image | fullpage"
+                    });
+
+                    $.get(fileName, function(content) {
+                        // if you have one tinyMCE box on the page:
+                        tinyMCE.activeEditor.setContent(content);
+                    });
+                }
+            </script>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href="siteStyle.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body>
+        <div id='cssmenu'>
+            <ul>
+                <li class='active'><a href='index.html'><span>Home</span></a></li>
+                <li><a href='#'><span>Products</span></a></li>
+                <li><a href='#'><span>About</span></a></li>
+                <li class='last'><a href='#'><span>Contact</span></a></li>
+            </ul>
+        </div>
+        <div id="edit">
+            <form class ="basic-grey" action="addNewNode.php" method="post">
+                <script>
+                    if (window.XMLHttpRequest)
+                    {// code for IE7+, Firefox, Chrome, Opera, Safari
+                        xmlhttp = new XMLHttpRequest();
+                    }
+                    else
+                    {// code for IE6, IE5
+                        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                    }
+                    xmlhttp.open("GET", "Files.xml", false);
+                    xmlhttp.send();
+                    xmlDoc = xmlhttp.responseXML;
+                    document.write("<label><span>Choose a File</span>");
+                    document.write("<select id='editFile' name='editFile'>");
+                    document.write("<option value='noFile'>choose a file to add a node to</option>");
+                    var x = xmlDoc.getElementsByTagName("map");
+                    for (i = 0; i < x.length; i++)
+                    {
+                        var map = x[i].childNodes[0].nodeValue;
+
+                        document.write("<option value=" + map + ">" + map + "</option>");
+                    }
+                    document.write("</select>");
+                    document.write("</label>");
+
+                    document.write("<fieldset> <legend> Node Information</legend>");
+                    document.write("<label> <span> Name: </span>");
+                    document.write("<input type='text' id ='naame' name='name'></label>");
+                    document.write("<label> <span> Size: </span>");
+                    document.write("<input type='number' id = 'size' name='size'></label>");
+                    document.write("<label> <span> Color: </span>");
+                    document.write("<input type='text' id = 'color' name='color'></label>");
+                    document.write("<label> <span> Distance: </span>");
+                    document.write("<input type='number' id = 'distance' name='distance'></label>");
+                    document.write("</fieldset> <br />");
+
+                    document.write("<fieldset> <legend> Link Information</legend>");
+                    document.write("<label> <span> Source: </span>");
+                    document.write("<input type='number' id = 'source' name='source'></label>");
+                    document.write("<label> <span> Target: </span>");
+                    document.write("<input type='number' id = 'target' name='target'></label>");
+                    document.write("</fieldset> <br />");
+                </script>
+                <label><span>&nbsp;</span>
+                    <input class="button" type="submit" name ="add" value="Add Node">
+                </label>
+            </form>
+
+        </div>
+
+    </body>
+</html>

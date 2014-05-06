@@ -1,0 +1,70 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href="siteStyle.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body>
+        <div id='cssmenu'>
+            <ul>
+                <li class='active'><a href='index.html'><span>Home</span></a></li>
+                <li><a href='#'><span>Products</span></a></li>
+                <li><a href='#'><span>About</span></a></li>
+                <li class='last'><a href='#'><span>Contact</span></a></li>
+            </ul>
+        </div>
+        <div id="edit">
+            <form class ="basic-grey" action="checkedit.php" method="post">
+                <script>
+                    if (window.XMLHttpRequest)
+                    {// code for IE7+, Firefox, Chrome, Opera, Safari
+                        xmlhttp = new XMLHttpRequest();
+                    }
+                    else
+                    {// code for IE6, IE5
+                        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                    }
+                    xmlhttp.open("GET", "Files.xml", false);
+                    xmlhttp.send();
+                    xmlDoc = xmlhttp.responseXML;
+                    document.write("<table class='flat-table flat-table-1' align='center'>");
+                    document.write("<thead>");
+                    document.write("<th>Map</th>");
+                    document.write("<th>Content</th>");
+                    document.write("</thead>");
+                    document.write("<tbody>");
+                    var x = xmlDoc.getElementsByTagName("map");
+                    var y = xmlDoc.getElementsByTagName("content");
+                    for (i = 0; i < x.length; i++)
+                    {
+                        var map = x[i].childNodes[0].nodeValue;
+                        var content = y[i].childNodes[0].nodeValue;
+                        document.write("<tr><td>");
+                        document.write("<input type='radio' name='editfile' value=" + map + ">");
+                        document.write(map);
+                        document.write("</td><td>");
+                        document.write("<input type='radio' name='editfile' value=" + content + ">");
+                        document.write(content);
+                        document.write("</td></tr>");
+                    }
+                    document.write("</tbody>");
+                    document.write("</table>");
+                </script>
+                
+                <label><span>&nbsp;</span>
+                <input class="button" type="submit" name ="edit" value="Edit">
+                </label>
+            </form>
+
+
+        </div>
+
+
+
+    </body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<Files>
+    <maps>
+        <map>
+            UnitMap.json
+        </map>
+    </maps>
+    
+    <html>
+        <content>
+            index.html
+        </content>
+    </html>    
+</Files>
